@@ -1,0 +1,3 @@
+[submodule "github_blog/public"]
+	path = github_blog/public
+	url = git@github.com:shengtu0328/shengtu0328.github.io.git

@@ -1,0 +1,461 @@
+---
+title: "english_new_concept_english3"
+date: 2024-03-11T19:56:45+08:00
+draft: true
+---
+
+
+
+## Lesson 1 A puma at large 逃遁的美洲狮
+
+Pumas are large, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. However（加了逗号however是副词，没有逗号当连词用）, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+
+The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her. It immediately ran away when she saw it, and experts confirmed （confirmed跟了一个宾语从句）that a puma will （宾语从句这里用will 因为这句话是一个客观事实）not attack a human being unless it is cornered. The search proved （prove是系动词 ）difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits. Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of "cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal was a puma, but where had it come from? As no pumas had been reported missing from any zoo in the country, this one must have been （ must have been 虚拟语气 表示推测）in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught. It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.
+
+**New words and expressions 生词和短语**
+
+puma(title)/'pju:m+/n. 美洲狮
+corner(1. 9)/'k&:n+/v. 使走投无路，使陷入困境
+spot(1. 2)/sp&t/v. 看出，发现
+trail(1. 11)/'treil/n. 一串，一系列
+evidence(1. 4)/'evid+ns/n．证据
+print(1. 12)/print/n. 印痕
+accumulate(1. 4)/e'kju:mjuleit/v. 积累，积聚
+cling(1. 12)/kliR/(clung/kl)R/, clung)v. 粘
+oblige(1. 5)/+'blaid{/v. 使……感到必须
+convince(1. 14)/k+n'vins/v. 使……信服
+hunt(1. 7)/h)nt/n. 追猎；寻找
+somehow(1. 16)/'s)mha(/adv. 不知怎么搞地，不
+blackberry(1. 8)/'bl$kb+ri/n. 黑莓 知什么原因
+human being(1. 9)/?hju:m+n-'bi:iR/人类
+disturb(1. 17)/di'st*:b/v. 令人不安
+
+Paw n.爪子
+
+deer n.鹿
+
+fur n.毛发
+
+clinging  v.依附
+
+**Notes on the text 课文注释**
+
+1 at large是介词短语，此处表示“逍遥自在”、“行动自由”的意思。
+2 When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, 当伦敦动物园接到报告说，在伦敦以南45英里的地方发现一头野生美洲狮时。这个从句中以that引导的从句是reports的同位语，用于进一步说明报告的内容。
+
+ However（加了逗号however是副词，没有逗号当连词用）, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+
+ as the evidence began to accumulate,
+
+, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+
+这两句都是状语从句， claimed to have seen 不定式 to haven seen动作的发生比claimed 要早
+
+
+
+3 feel obliged to do sth. 是“感到不得不做某事”的意思。
+4 it left behind it a trail of, 它身后留下一串……。 句末重心原则 原句应该是 left a trail ofxxx   behind it          svoo  宾语补语  behind it作补语 a trail ofxxx is behind it
+a trail of作left的宾语，behind it是状语，提到宾语之前是为了使句子结构更紧凑。
+5 puma fur was found clinging to bushes中，clinging是现在分词， clinging to bushes此处作主语puma fur的主语补足语。下文中As no pumas had been reported missing…一句中，missing也是现在分词作主语补足语。
+
+
+
+ saw the puma up a tree.  up a tree. 是  puma  的补语
+
+The experts were now fully convinced that the animal was a puma, but where had it come from
+
+ that the animal was a puma, 可以看做是状语从句  where had it come from，had是were now fully convinced过去的过去
+
+6 in the possession of, 为……所有。
+
+
+
+**参考译文**
+
+美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。
+
+搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮毛。有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥流窜，真令人担心。
+
+## Lesson 2 Thirteen equals one 十三等于一
+
+
+
+Our vicar is always raising money for one cause or another, but he has never managed （to get enough money )(to have the church clock repaired状语). The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.
+
+One night, however, our vicar woke up with a start: the clock was striking the hours! Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped. Armed with a torch, the vicar went up into the clock tower to see what was going on. In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.
+
+'Whatever are you doing up here Bill?' asked the vicar in surprise.
+'I'm trying to repair the bell,' answered Bill. 'I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.'
+'You certainly did give me a surprise!' said the vicar. 'You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.'
+That's the trouble, vicar,' answered Bill. 'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it."
+We'll get used to that, Bill,' said the vicar. "Thirteen is not as good as one, but it's better than nothing. Now let's go downstairs and have a cup of tea.'
+
+**New words and expressions 生词和短语**
+
+equal v.等于
+vicar n.牧师
+raise v.募集，筹（款）
+torchlight n.电筒光
+
+ torch n.手电筒
+
+**Notes on the text 课文注释**
+
+managed （to get enough money )(to have the church clock repaired状语).    o have the church clock repaired修饰to get
+
+1 woke up with a start:...
+with a start,由于受到惊动，惊醒了。冒号后面是一个解释性的分句，是对start所作的具体说明。
+2 recognize as,认出是。 he immediately recognized （whom ）as Bill Wilkins 定语从句
+3 Whatever are you doing up here?你究竟在这上面干什么。
+whatever 用于疑问句中，用以加强 what 的语气，作“究竟什么”解，口语中很常用。
+4 You certainly did give me a surprise!你确实使我感到意外！
+在英语中助动词 do 可以用来表示强调。此时助动词do放在谓语动词之前。
+5 Thirteen is not as good as one,but it is better than nothing.
+敲 13下虽然不如敲 1下好，但总比1下不敲强多了。
+
+ （get used to） 看成一个动词
+
+**参考译文**
+
+我们教区的牧师总是为各种各样的事筹集资金。但始终未能筹足资金把教堂的钟修好。教堂的钟很大，以前不分昼夜打点报时，但很多年前遭到毁坏，从此便无声无息了。
+
+一天夜里，我们的牧师突然被惊醒了，大钟又在“打点”报时了！他一看表，才1点钟，可是那钟一边敲了13下才停。牧师拿着一支电筒走上钟楼想去看看究竟发生了什么事情。借着电筒光。他看见一个人，马上认出那是本地杂货店主比尔.威尔金斯。
+
+“你究竟在这上面干什么，比尔？”牧师惊讶地问。
+“我想把这口钟修好，”比尔回答说。“好几个星期了，我天天夜里到钟楼上来。嗯，我是想让你大吃一惊。”
+“你确实使我大吃了一惊！”牧师说，“也许同时你把村里所有的人都吵醒了。不过，钟又能报时了，我还是很高兴的。”
+“问题就在这里，牧师，”比尔回答说。“不错，钟能报时了，但是，恐怕每到1点钟，它总要敲13下，对此我已无能为力了。”
+“大家慢慢就习惯了，比尔，”牧师说。“13下是不如1下好，但总比1下也不敲强。来，咱们下楼去喝杯茶吧。”
+
+
+
+![](l2_have.png)
+
+![](l2_冒号.png)
+
+## Lesson 3 An unknown goddess 无名女神
+
+
+
+Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini. The city at one time must have been prosperous, for it enjoyed a high level of civilization. Houses, often three storeys high, were built of stone. They had large rooms with beautifully decorated walls. The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
+
+The temple which the archaeologists explored was used as a place of worship from the 15th century B.C. until Roman times. In the most sacred room of the temple, clay fragments of 15 statues were found. Each of these represented a goddess and had, at one time, been painted.
+
+The body of one statue was found among remains dating from the 15th century B.C. Its missing head happened to be among remains of the 5th century B.C. This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. She stood three feet high and her hands rested on her hips.
+
+She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
+
+**New words and expressions 生词与短语**
+
+goddess(title) /'gɔdis/ n．女神
+sacred(1. 10)/'seikrid/ adj．宗教的，神圣的
+archaeologist(1. 1) /'a:ki'ɔldʒist/ n．考古学家
+fragment(1. 10) /'frægmənt/n．碎片
+Aegean(1. 2) /i:'dʒi:ən/ adj．爱琴海的
+remains(1. 12)/ri'menz/ n．遗物，遗迹，废墟
+explore(1. 2) /ik'splɔ:/ v．考察，勘探
+classical(1. 13)/'klæsikəl/ adj．（希腊和罗马）古文化的
+promontory(1. 3) /'prɔməntəri/ n．海角
+prosperous(1. 4) /'prɔspərəs/ adj．（经济上）繁荣
+reconstruct(1. 14) /'ruikn'strkt/ v．修复的，昌盛的
+rest(1. 16)/rest/ v．倚放，放置
+civilization(1. 5) /'sivəl-ai'zeiʃən/ n．文明
+hip(1. 16) /hip/ n．屁股，臀部
+storey(1. 5) /'stɔ:ri/ n．楼层
+full-length(1. 16) /'ful'leŋθ/adj．（裙衣）拖地长的
+drainage(1. 7)/'dreinidʒ/ n．排水
+
+clay n．黏土
+
+statue  n．雕像
+
+goddess n.女神
+
+hip n.髋
+
+graceful(1. 17) /'greisfəl/ adj．优雅的
+worship(1. 9) /'wə:ʃip/ n．祟拜
+identity(1. 17) /ai'dentiti/ n．身份
+
+**Notes on the text 课文注释**
+
+1 the Aegean island of Kea,爱琴海的基亚岛。爱琴海是东地中海的一部分，位于希腊半岛和小亚细亚之间，它包括希腊半岛以外的许多岛屿。基亚岛位于希腊半岛东南方的海域里。
+
+ many clay pipes were found beneath the narrow streets. beneath the narrow streets.是补语
+
+2 Ayia irini,阿伊亚.依里尼，意为“圣依里尼”，Irini是希腊文，意为“和平”。
+3 The city at one time must have been prosperous,for it enjoyed a high level of civilization.这座古城肯定一度很繁荣，因为它曾享有高度的文明。must have been是对过去的推测。at one time,一度。
+
+The body of one statue was found among remains dating from the 15th century B.C  
+
+among remains是状语
+
+
+
+4 Roman times,罗马时代。指古罗马（约公元前200 -公元400）时期，那时罗马人在欧洲建立了帝国。
+5 date from,追溯到。
+6 Classical times,指古希腊，古罗马时代。
+7 the goddess turned out to be...,那位女神原来是...。
+
+**本文参考译文**
+
+不久之前，在爱琴海的基亚岛上，考古工作者有一项有趣的发现。一个美国考古队在阿伊亚.依里尼海角的一座古城里考察了一座庙宇。这座古城肯定一度很繁荣，因为它曾享有高度的文明，房子一般有3层楼高，用石块修建。里面房间很大，墙壁装饰华丽。城里甚至还敷设了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水管道。
+
+考古工作者考察的这座庙宇从公元前15世纪直到罗马时代一直是祭祀祈祷的场所。在庙中最神圣的一间殿堂里发现了15尊陶雕像的碎片。每一尊雕像代表一位女神，而且一度上过色。其中有一尊雕像，她的躯体是在公元前15世纪的历史文物中发现的，而她那身异处的脑袋却碰巧是在公元前5世纪的文物中找到的。她的脑袋一定是在古希腊罗马时代就为人所发现，并受到精心的保护。却使在当时，它也属历史悠久的珍奇之物。考古工作者把这些碎片重新拼装起来后，惊奇地发现那位女神原来是一位相貌十分摩登的女郎。
+
+她身高3英尺，双手叉腰。身穿一条拖地长裙，尽管上了年纪，但体态确实优美。不过，考古工作者至今未能确定这位女神的身份。
+
+
+
+
+
+
+
+## Lesson 4 The double life of Alfred Bloggs
+
+These days, people who do manual work often receive far（far是副词） more money than people who work in offices. People who work in offices are frequently referred to as "white-collar workers' for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+
+When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night. He took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.
+
+**New words and expressions 生词和短语**
+
+manual adj. 体力的
+collar n. 衣领
+sacrifice v. 牺牲，献出
+privilege n. 好处
+dustman n. 清洁工
+corporation n. 公司
+overalls n. 工作服
+shower n. 淋浴
+secret n. 秘密
+status n. 地位
+
+fellow  n.同事
+
+**Notes on the text 课文注释**
+
+People who work in offices are frequently referred to as "white-collar workers' for the simple reason that they usually wear a collar and tie to go to work.
+
+ referred to 是一个动词 
+
+as "white-collar workers'  介词短语
+
+1 People who work in offices are frequently referred to as‘white-collar workers’, 那些坐在办公室的人，往往被称为“白领工人”。 white-collar workers往往指脑力劳动者，而体力劳动者则被称为 blue-collar workers, 蓝领工人。
+2 for the simple reason that…这里 that引导的从句是 the reason的同位语。
+3 Such is human nature, that…
+such位于句首，起强调作用，后面要用倒装语序， that引导的是 such的同位语从句。
+
+ This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+
+等于
+
+ This can give rise to curious situations, as it can give rise to curious situations in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+
+
+
+
+
+4 as it did in the case of Alfred Bloggs who… worked as a dustman for the Ellesmere Corporation. 正如给埃尔斯米尔公司当清洁工的艾尔弗雷德·布洛格斯的情况所造成的怪现象那样。 as it did中的 it是指上一句中that 从句所指的情况，而 did是替代give rise to curious situations。
+5 half as much as he used to, 只相当于过去的一半。
+
+is well worth the loss of money.
+
+worth是介词  worth the loss of money.介词短语
+
+**参考译文**
+
+如今，从事体力劳动的人的收入一般要比坐办公室的人高出许多。坐办公室的之所以常常被称作“白领工人”，就是因为他们通常是穿着硬领白衬衫，系着领带去上班。许多人常常情愿放弃较高的薪水以换取做白领工人的殊荣，此乃人之常情。而这常常会引起种种奇怪的现象，在埃尔斯米尔公司当清洁工的艾尔弗雷德.布洛斯就是一个例子。
+
+艾尔弗结婚时，感到非常难为情，而没有将自己的职业告诉妻子。他只说在埃尔斯米尔公司上班。每天早晨，他穿上一身漂亮的黑色西装离家上班，然后换上工作服，当8个小时清洁工。晚上回家前，他洗个淋浴，重新换上那身黑色西服。两年多以来，艾尔弗一直这样，他的同事也为他保守秘密。艾尔弗的妻子一直不知道她嫁给了一个清洁工，而且她永远也不会知道了，因为艾尔弗已找到薪职，不久就要坐办公室里工作了。他将来挣的钱只有他现在的一半。不过他觉得，地位升高了，损失点儿钱也值得。从此，艾尔弗可以一天到晚穿西服了。别人将称呼他为“布洛格斯先生”，而不再叫他“艾尔弗”了。
+
+
+
+
+
+![](l4_such_that.png)
+
+
+
+
+
+##  Lesson 5 The facts 确切数字
+
+
+Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refused to publish it. The article began: ‘Hundreds of steps lead to the high wall which surrounds the president's palace. ’The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
+
+ The journalist immediately set out to obtain these important facts, but he took a long time to send them Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that the he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
+
+**New words and expressions 生词和短语**
+set out to  着手;打算;出发去做某事;
+editor(1. 1)/'editə/ n．编辑
+publish(1. 6) /'pʌbliʃ/ v．出版
+extreme(1. 1) /ik'stri:m/n．极端
+fax(1. 7) /fæks/ n．传真
+statistics(1. 2) /stə'tistiks/ n．统计数字
+impatient(1. 10) /im'peiʃənt/adj. 不耐烦的
+journalist(1. 3) /'dʒә:nəlist/ n．新闻记者
+fire(1. 12) /'faiə/v．解雇
+president(1. 4) /'prezidənt/n．总统
+originally(1. 13) /ə'ridʒinəli/adv．起初，原先，从前
+palace(1. 4) /'pælis/ n．王宫；宏伟的住宅
+reluctantly  adv.勉强地
+
+**Notes on the text 课文注释**
+
+1 go to extremes. 走极端。
+
+2 provide…with…作“向……提供……”解。
+3 to write an article on, 写一篇有关的报道。
+4 lead to …作“通往……”、“导致……”解
+5 go to press, 付印。
+6 Not only had the poor man been arrested, but he had been sent to prison as well. 这是 not only… but… as well 引导的并列句子，如果将not only置于句首，后面主谓语应采取倒装结构。
+
+**参考译文**
+
+报刊杂志的编辑常常为了向读者提供成立一些无关紧要的事实和统计数字而走向极端。去年，一位记者受一家有名的杂志的委托写一篇关于非洲某个新成立共和国总统府的文章。稿子寄来后，编辑看了第一句话就拒绝予以发表。文章的开头是这样的：“几百级台阶通向环绕总统府的高墙。”编辑立即给那位记者发去传真，要求他核实一下台阶的确切数字和围墙的高度。
+
+记者立即出发去核实这些重要的事实，但过了好长时间不见他把数字寄来。在此期间，编辑等得不耐烦了，因为杂志马上要付印。他给记者先后发去两份传真，但对方毫无反应。于是他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑无奈，勉强按原样发稿了。一周之后，编辑终于接到了记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。不过，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的 1，084级台阶时，被抓了起来。
+
+
+
+
+
+## Lesson 6 Smash-and-grab 砸橱窗抢劫
+
+The expensive shops in a famous arcade near Piccadilly were just opening. At this time of the morning, the arcade was almost empty. Mr. Taylor, the owner of a jewellery shop was admiring a new window display. Two of his assistants had been working busily since eight o'clock and had only just finished. Diamond necklaces and rings had been beautifully arranged on a background of black velvet. After gazing at the display for several minutes, Mr. Taylor went back into his shop.
+
+The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. It came to a stop outside the jeweller's. One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars. While this was going on, Mr. Taylor was upstairs. He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade. One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. They had got away with thousands of pounds worth of diamonds.
+
+**New words and expressions 生词和短语**
+
+smash-and-grab(title)/'smæʃ-ən-'græb/ n.砸橱窗抢劫
+
+arcade(1. 1) /a:'keid/n．有拱廊的街道（两旁常设商店）
+
+Piccadilly(1. 1) /'pikə'dili/n．皮卡迪利大街
+
+jewellery (1. 3)/'dʒu:əlri/n．珠宝（总称）
+
+admire v.欣赏
+
+velvet(1. 7)/'velvit/ n．天鹅绒，丝绒
+
+gaze v.凝视
+
+headlight(1. 9)/'hedlait/ n．（汽车等）前灯
+blare(1. 9) /bleə/ v．发嘟嘟声，吼叫
+
+staff(1. 12) /sta:f/ n．全体工作人员
+raid(1. 14) /reid/n．偷袭
+
+scramble (1. 14)/'skræmbəl/v．爬行
+necklace(1. 5) /'nek-ləs/ n．项链
+fantastic(1. 15) /fæn'tæstik/ adj．非常大的
+ring(1. 6) /riŋ/ n．戒指
+ashtray(1. 16) /'æʃtrei/n．烟灰缸
+background(1. 6) /'bækgraund/n．背景
+
+Notes on the text 课文注释
+
+1 Piccadilly, 皮卡迪利，这是伦敦市中心一条著名的街。这条街从海德公园通向一个著名的广场，叫作“皮卡迪利广场”。
+2 with its headlights on and its horn blaring, …这是 with引导的独立主格结构，在句中表示伴随状况。
+3 but he was too busy helping himself to diamonds to notice any pain.但他只顾忙着抢劫钻石，根本顾不上疼痛了。这里 help oneself to sth. 是“擅自取用，侵占某物”的意思。
+
+**参考译文**
+
+皮卡迪利大街附近的一条著名拱廊街道上，几家高档商店刚刚开始营业。在早晨的这个时候，拱廊街上几乎空无一人。珠宝店主泰勒先生正在欣赏新布置的橱窗。他手下两名店员从早上8点就开始忙碌，这时刚刚布置完毕。钻石项链、戒指漂亮地陈列在黑色丝绒上面。泰勒先生站在橱窗外凝神欣赏了几分钟就回到了店里。
+
+宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，呼啸着冲进了拱廊街，在珠宝店门口停了下来。一人留在驾驶座上，另外两个用黑色长筒丝袜蒙面的人跳下车来。他们用铁棒把商店橱窗玻璃砸碎。这一切发生时，泰勒先生正在楼上。他与店员动手向窗外投掷家具，椅子、桌子飞落到拱廊街上。一个窃贼被一尊很重的雕像击中，但由于他忙着抢钻石首饰，竟连疼痛都顾不上了。这场抢劫只持续了3分钟，因为窃贼争先恐后地爬上轿车，以惊人的速度开跑了。就在轿车离开的时候，泰勒先生从店里冲了出来，跟在车后追赶，一边还往车上扔烟灰缸、花瓶。但他已无法抓住那些窃贼了。他们已经带着价值数千镑的首饰逃之夭夭了。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 7 Mutilated ladies 残钞鉴别组
+
+Has it ever happened to you? Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket? When you rescued your trousers, did you find the note was whiter than white? People who live in Britain needn't despair when they make mistakes like this(and a lot of people do)! Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog. Dogs, it seems, love to chew up money!
+
+A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business. John had a very good day and put his wallet containing ￡ 3, 000 into the microwave oven for safekeeping. Then he and Jane went horse-riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé's wallet as well. Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! They examined the remains and John got all his money back. ‘So long as there's something to identify, we will give people their money back, ’said a spokeswoman for the Bank. ‘Last year, we paid ￡ 1. 5m on 21, 000 claims. ’
+
+\* Damaged bank notes. The Queen's head appears on English bank notes，and‘lady’refers to this.
+
+**New words and expressions 生词和短语**
+
+mutilate(title)/'mju:tileit/v．使残缺不全
+
+trousers n.裤子
+
+safekeeping(1. 10)/'seif'ki:piŋ/n．妥善保管
+chew(1. 8)/tʃu:/ v．咀嚼
+Newcastle(1. 14) /'nju:'ka:sl/ n．纽卡斯尔（英国港
+fiancé(1. 9) /fi'ɔnsei/ n．未婚夫 市）
+microwave(1. 10)/'maikrəweiv/n．微波，微波炉
+identify(1. 15)/ai'dentifai/ v．鉴定，识别
+oven(1. 10) /'ʌvən/ n．炉灶
+spokeswoman(1. 16) /'spəuks'wumən/ n．女发言人
+
+fiance n.未婚夫
+
+dismay n.沮丧
+
+
+
+‘So long as =as long as 只要
+
+**Notes on the text 课文注释**
+
+1 Mutilated ladies，这是英国银行专门负责识别和鉴定残缺或被毁纸币的小组，其中的 lady是指英国纸币上印的女王头像。
+2 a large bank note，面额很大的纸币。
+3 whiter than white，这是英国有关洗衣粉的电视广告中常用的一句话。这里的意思是纸币上的字迹、图案均被洗掉了，可以译为“比白纸还白”。
+4 they found a beautifully-cooked wallet and notes turned to ash，他们发现一只煮得很好看的钱包，钞票已烧成了灰。后半句 they found… notes turned to ash中过去分词短语 turned to ash作宾语 notes的补足语，这后半句话可以看成 they found… that notes had been turned to ash。
+
+**参考译文**
+
+这种事情在你身上出现过吗？你有没有把裤子塞进洗衣机，然后又想起在裤子的后兜有一张大面值的纸币？当你把裤子抢救出来时，你有没有发现那张纸币已经变得比白纸还白？当英国人犯这种错误时，他们不必感到绝望（而许多国家的人都有这种绝望的感觉）。对英国人来说，值得庆幸的是英国银行有一个残钞鉴别组，负责处理那些把钱塞进机器或塞给狗的人提出的索赔要求。看起来，狗很喜欢咀嚼钱币。
+
+最近的一个案例与简·巴特林有关，她的未婚夫约翰拥有一家生意兴隆的家具店。有一天约翰的生意很好，他把一只装有3，000英镑的钱包放进微波炉内保存。然后，他和简一起去骑马。回家后，简用微波炉煮了晚饭，无意之中把她未婚夫的钱包也一起煮了。可以想像他们发现一只煮得很好看的钱包、钞票已化成灰时的沮丧心情。约翰去找银行经理，经理把约翰的钱包和纸币的残留物送到英国银行在纽卡斯尔的一个专门部门——残钞鉴别组。他们鉴定了这些残留物。约翰拿回了他损失的全部数额。“只要有东西可供识别，我们会把钱还给人家的，”银行的一位女发言人说。“去年，我们对21，000起索赔要求支付了150万英镑。”
+
+
+
+## Lesson 8 A famous monastery 著名的修道院
+
+
+
+The Great St. Bernard Pass connects Switzerland to Italy. At 2, 473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times. Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+
+During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars. As there are so many people about, the dogs have to be kept in a special enclosure. In winter, however, life at the monastery is quite different. The temperature drops to-30°and very few people attempt to cross the Pass. The monks prefer winter to summer for they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure. The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of the mountains, always receive a warm welcome at St. Bernard's monastery.
+
+**New words and expressions 生词和短语**
+
+monastery（title）/'mɔnəstri/n．寺院，修道院
+enclosure（1. 12）/in'kləuʒə/n．围场，圈地
+St．Bernard（1. 1）/'seint-bə'na:d/圣伯纳德
+monk（1. 14）/mʌŋk/n．和尚，僧侣
+pass（1. 2）/pa:s/n．关隘
+privacy（1. 14）/'privəsi/n．清静，隐居
+watchdog（1. 7）/'wɔtʃdɔg/n．看门狗
+skier（1. 16）/'ski:ə/n．滑雪者
+rashly（1. 9）/'ræʃli/adj．莽撞地，冒失地
+Easter（1. 16）/'i:stə/n．复活节
+
+**Notes on the text 课文注释**
+
+1 Now that a tunnel has been built through the mountains，由于一条穿山隧道已经开通。now that是连词，当“既然”，“由于”讲，引导一个原因状语从句，说明一种新情况。
+2 As there are so many people about, …about为副词，作“在附近”，“到处”讲。也可用around表示。
+3 The monks prefer winter to summer，修道士们喜欢冬天而不喜欢夏天。 prefer…to…有“喜欢……而不喜欢……”的意思，to的前后要用名词或动名词来表示所对比的事物或活动。
+
+**参考译文**
+
+圣伯纳德大山口连接着瑞士与意大利，海拔2，473米，是欧洲最高的山口。11世纪建造的著名的圣伯纳德修道院位于离山口1英里远的地方。几百年来，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。这些最先从亚洲引进的狗，待人友好，早在罗马时代就给人当看门狗了。如今由于在山里开挖了隧道，翻越山口已不那么危险了。但每年还要派狗到雪地里去帮助那些遇到困难的旅游者。尽管修通了隧道，但仍有一些人想冒险徒步跨越圣伯纳德山口。
+
+夏天的几个月里，修道院十分忙碌，因为有成千上万的人驾车通过山口，顺道来修道院参观。由于来人太多，狗被关在专门的围栏里。然而到了冬天，修道院里的生活则是另一番景象。气温下降到零下30度，试图跨越山口的人寥寥无几。修道士们喜欢冬天，而不太喜欢夏天。因为在冬天，他们可以更多地过上无人打扰的生活。狗也比较自由，被放出围栏，四处遛达。冬天常来修道院参观的只有一批批滑雪者。他们在圣诞节或复活节到那儿去。这些热爱高山清静环境的年轻人每年都受到圣伯纳德修道院的热烈欢迎。
