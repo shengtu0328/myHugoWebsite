@@ -1,10 +1,58 @@
----
 title: "Mysql_lock"
 date: 2024-06-11T15:30:24+08:00
 draft: true
----
 
 ## 5.锁
+
+
+
+```
+-- 测试数据
+CREATE TABLE `a` (
+`uid` varchar(64) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT '' COMMENT '审核记录主表 guid',
+`approval_status` int(11) NULL DEFAULT 1 COMMENT '审核状态(1:审核中,2:通过)',
+`id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '主键 id',
+PRIMARY KEY (`id`) USING BTREE,
+INDEX `idx_guid`(`uid`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 22 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '审核记录主表' ROW_FORMAT = Dynamic;
+
+-- ----------------------------
+-- Records of a
+-- ----------------------------
+INSERT INTO `a` VALUES ('a1', 1, 1);
+INSERT INTO `a` VALUES ('a2', 1, 2);
+
+
+
+CREATE TABLE `a_detail` (
+`approval_status` int(11) NULL DEFAULT 1 COMMENT '审核状态(1:审核中;2:通过)',
+`id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '主键 id',
+`auid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL,
+PRIMARY KEY (`id`) USING BTREE,
+INDEX `idx_aid`(`auid`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 74 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '审核记录明细表' ROW_FORMAT = Dynamic;
+
+-- ----------------------------
+-- Records of a_detail
+-- ----------------------------
+INSERT INTO `a_detail` VALUES (1, 1, 'a1');
+INSERT INTO `a_detail` VALUES (1, 2, 'a1');
+INSERT INTO `a_detail` VALUES (1, 3, 'a2');
+INSERT INTO `a_detail` VALUES (1, 4, 'a2');
+
+```
+
+
+
+```
+-- mysql连接语句
+mysql -uroot –proot wifi 
+mysql -h 127.0.0.1 -P 3308 -uroot –proot wifi 
+```
+
+
+
+
 
 ### 5.1概述
 
@@ -26,8 +74,6 @@ MySQL中的锁，按照锁的粒度分，分为以下三类：
 其典型的使用场景是做全库的逻辑备份，对所有的表进行锁定，从而获取一致性视图，保证数据的完整
 
 性。
-
-11111111111111111111
 
 #### **5.2.2** **语法**
 
@@ -84,6 +130,10 @@ mysqldump --single-transaction -uroot –p123456 itcast > itcast.sql
 
 ### **5.3** **表级锁**
 
+
+
+
+
 #### **5.3.1** **介绍**
 
 表级锁，每次操作锁住整张表。锁定粒度大，发生锁冲突的概率最高，并发度最低。应用在MyISAM、
@@ -121,7 +171,7 @@ A.读锁
 
 
 
-左侧为客户端一，对指定表加了读锁，不会影响右侧客户端二的读，但是会阻塞右侧客户端的写，而且加锁的会话也不能写
+左侧为客户端一，对指定表加了读锁，不会影响右侧客户端二的读，但是会阻塞右侧客户端的写，而且加锁的会话自己也不能写
 
 表读锁例子
 
@@ -131,7 +181,7 @@ A.读锁
 | -- 正常查询<br/>select * from a;                             |                                                            |
 |                                                              | -- 正常查询<br/>select * from a;                           |
 | -- 报错Table 'a' was locked with a READ lock and can't be updated，切解锁表后也不会成功<br/>update a set approval_status=2 WHERE id=2; | -- （阻塞）<br/>update a set approval_status=2 WHERE id=1; |
-| UNLOCK tables                                                |                                                            |
+| UNLOCK tables;                                               |                                                            |
 |                                                              | 表解锁后update语句执行成功                                 |
 
 
@@ -145,6 +195,315 @@ B. 写锁
 左侧为客户端一，对指定表加了写锁，会阻塞右侧客户端的读和写。但客户端一可以写
 
 表写锁例子
+
+| sessionA                                               | sessionB                                           |
+| ------------------------------------------------------ | -------------------------------------------------- |
+| lock tables a write;                                   |                                                    |
+| select * from a;（正常查询）                           |                                                    |
+|                                                        |                                                    |
+| update a set approval_status=2 WHERE id=2;（正常修改） |                                                    |
+|                                                        | select * from a;（阻塞）                           |
+|                                                        | update a set approval_status=2 WHERE id=1;（阻塞） |
+| UNLOCK tables;                                         |                                                    |
+|                                                        | unlock tables 后上一句update执行成功               |
+
+
+
+#### **5.3.3** **元数据锁**
+
+meta data lock , 元数据锁，简写MDL。
+
+MDL加锁过程是系统**自动控制**，无需显式使用，在访问一张表的时候会自动加上。MDL锁主要作用是维
+
+护表元数据的数据一致性，在表上有活动事务的时候，不可以对元数据进行写入操作。为了避免DML与
+
+DDL冲突，保证读写的正确性。**（你不能在别人查询的时候修改表结构或者把表删了）**。
+
+这里的元数据，大家可以简单理解为就是一张表的表结构。 也就是说，**某一张表涉及到未提交的事务**
+
+**时，是不能够修改这张表的表结构的。**
+
+在MySQL5.5中引入了MDL**，** 有两种MDL
+
+**当对一张表进行增删改查的时候，加MDL读锁(共享)；** MDL读锁间兼容，MDL读锁与MDL写锁互斥
+
+**当对表结构进行变更操作的时候，加MDL写锁(排他)。**
+
+
+
+常见的SQL操作时，所添加的元数据锁：
+
+![](MDL.jpeg)
+
+
+
+
+
+
+
+例子：MDL读锁间兼容 
+
+| sessionA                     | sessionB                                               |
+| ---------------------------- | ------------------------------------------------------ |
+| begin;                       | begin;                                                 |
+| select * from a;（正常查询） | select * from a;（正常查询）                           |
+|                              | update a set approval_status=2 WHERE id=1;（正常修改） |
+|                              |                                                        |
+| commit;                      | commit;                                                |
+
+
+
+
+
+例子：MDL读锁和MDL写锁 不兼容
+
+| sessionA                     | sessionB                                            |
+| ---------------------------- | --------------------------------------------------- |
+| begin;                       |                                                     |
+| select * from a;（正常查询） |                                                     |
+|                              | alter table a add column s_name varchar(500);(阻塞) |
+| commit;                      |                                                     |
+|                              | alter语句执行成功                                   |
+
+
+
+
+
+元数据锁开启
+
+```
+update performance_schema.setup_instruments
+set enabled = 'YES', timed = 'YES'
+where name = 'wait/lock/metadata/sql/mdl';
+```
+
+我们可以通过下面的SQL，来查看数据库中的**元数据锁**的情况：
+
+```
+select object_type,object_schema,object_name,lock_type,lock_duration from performance_schema.metadata_locks ;
+
+```
+
+
+
+只有在事务开启后，执行增删改查的sql后，才会有元数据锁记录的产生。在执行了select 和update语句查询元数据锁结果如下
+
+```
+mysql> select object_type,object_schema,object_name,lock_type,lock_duration from performance_schema.metadata_locks ;
++-------------+--------------------+----------------+--------------+---------------+
+| object_type | object_schema      | object_name    | lock_type    | lock_duration |
++-------------+--------------------+----------------+--------------+---------------+
+| TABLE       | wifi               | a              | SHARED_READ  | TRANSACTION   |
+| TABLE       | wifi               | a              | SHARED_WRITE | TRANSACTION   |
+| TABLE       | performance_schema | metadata_locks | SHARED_READ  | TRANSACTION   |
+```
+
+如果再去执行alter语句
+
+```
+mysql> select object_type,object_schema,object_name,lock_type,lock_duration from performance_schema.metadata_locks ;
++-------------+--------------------+----------------+---------------------+---------------+
+| object_type | object_schema      | object_name    | lock_type           | lock_duration |
++-------------+--------------------+----------------+---------------------+---------------+
+| TABLE       | wifi               | a              | SHARED_READ         | TRANSACTION   |
+| TABLE       | wifi               | a              | SHARED_WRITE        | TRANSACTION   |
+| GLOBAL      | NULL               | NULL           | INTENTION_EXCLUSIVE | STATEMENT     |
+| SCHEMA      | wifi               | NULL           | INTENTION_EXCLUSIVE | TRANSACTION   |
+| TABLE       | wifi               | a              | SHARED_UPGRADABLE   | TRANSACTION   |
+| TABLE       | wifi               | a              | EXCLUSIVE           | TRANSACTION   |
+| TABLE       | performance_schema | metadata_locks | SHARED_READ         | TRANSACTION   |
++-------------+--------------------+----------------+---------------------+---------------+
+```
+
+
+
+#### 5.3.4 意向锁
+
+**为了避免DML在执行时，加的行锁与表锁的冲突，在InnoDB中引入了意向锁，使得表锁不用检查每行**
+
+数据是否加锁，使用意向锁来减少表锁的检查。意向锁是表级别。
+
+
+
+**分类**
+
+意向共享锁(**IS**): 由语句select ... lock in share mode添加 。 select语句不会添加
+
+与 表锁共享锁(read)兼容，与表锁排他锁(write)互斥。
+
+
+
+意向排他锁(**IX**): 由insert、update、delete、select...for update添加 。
+
+与表锁共享锁(read)及排他锁(write)都互斥，意向锁之间不会互斥。
+
+
+
+一旦事务提交了，意向共享锁、意向排他锁，都会自动释放。
+
+
+
+
+
+A. 意向共享锁与表读锁是兼容的
+
+| sessionA                                                 | sessionB                            |
+| -------------------------------------------------------- | ----------------------------------- |
+| begin;                                                   |                                     |
+| select * from a where id=1 lock in share mode;(正常查询) |                                     |
+|                                                          | lock tables a read;(加表读锁成功)   |
+|                                                          | lock tables a write;(加表写锁 阻塞) |
+| commit;                                                  |                                     |
+|                                                          | 事务a提交后，表写锁成功             |
+
+
+
+
+
+**可以通过以下SQL，查看意向锁及行锁的加锁情况：**
+
+```
+//
+select object_schema,object_name,index_name,lock_type,lock_mode,lock_data from
+performance_schema.data_locks;
+
+mysql> select object_schema,object_name,index_name,lock_type,lock_mode,lock_data from
+    -> performance_schema.data_locks;
++---------------+-------------+------------+-----------+---------------+-----------+
+| object_schema | object_name | index_name | lock_type | lock_mode     | lock_data |
++---------------+-------------+------------+-----------+---------------+-----------+
+| wifi          | a           | NULL       | TABLE     | IS            | NULL      |
+| wifi          | a           | PRIMARY    | RECORD    | S,REC_NOT_GAP | 1         |
+```
+
+
+
+
+
+
+
+
+
+B. 意向排他锁与表读锁、写锁都是互斥的
+
+
+
+| sessionA                                              | sessionB                          |
+| ----------------------------------------------------- | --------------------------------- |
+| begin;                                                |                                   |
+| update a set approval_status=7 where  id=1;(正常查询) |                                   |
+|                                                       | lock tables a read;(加表读锁阻塞) |
+|                                                       | lock tables a wtie;(加表写锁阻塞) |
+| commit;                                               |                                   |
+
+
+
+```
+mysql> select object_schema,object_name,index_name,lock_type,lock_mode,lock_data from
+    -> performance_schema.data_locks;
++---------------+-------------+------------+-----------+---------------+-----------+
+| object_schema | object_name | index_name | lock_type | lock_mode     | lock_data |
++---------------+-------------+------------+-----------+---------------+-----------+
+| wifi          | a           | NULL       | TABLE     | IX            | NULL      |
+| wifi          | a           | PRIMARY    | RECORD    | X,REC_NOT_GAP | 1         |
++---------------+-------------+------------+-----------+---------------+-----------+
+2 rows in set (0.00 sec)
+
+```
+
+### **5.4** **行级锁**
+
+#### **5.4.1** **介绍**
+
+行级锁，每次操作锁住对应的行数据。锁定粒度最小，发生锁冲突的概率最低，并发度最高。应用在
+
+InnoDB存储引擎中。
+
+InnoDB的数据是基于索引组织的，行锁是通过对索引上的索引项加锁来实现的，
+
+
+
+行锁（Record Lock）：锁定单个行记录的锁，防止其他事务对此行进行update和delete。在
+
+RC、RR隔离级别下都支持。
+
+间隙锁（Gap Lock）：锁定索引记录间隙（不含该记录），确保索引记录间隙不变，防止其他事
+
+务在这个间隙进行insert，产生幻读。在RR隔离级别下都支持
+
+临键锁（Next-Key Lock）：行锁和间隙锁组合，同时锁住数据，并锁住数据前面的间隙Gap。
+
+在RR隔离级别下支持。
+
+
+
+
+
+#### **5.4.2** **行锁**
+
+1). 介绍
+
+InnoDB实现了以下两种类型的行锁：
+
+共享锁（S）：允许一个事务去读一行，阻止其他事务获得相同数据集的排它锁。
+
+排他锁（X）：允许获取排他锁的事务更新数据，阻止其他事务获得相同数据集的共享锁和排他
+
+锁
+
+![](行锁.jpeg)
+
+![](行锁语句.jpeg)
+
+默认情况下，InnoDB在 REPEATABLE READ事务隔离级别运行，InnoDB使用 next-key 锁进行搜
+
+索和索引扫描，以防止幻读。
+
+针对唯一索引进行检索时，对已存在的记录进行等值匹配时，将会自动优化为行锁。
+
+InnoDB的行锁是针对于索引加的锁，不通过索引条件检索数据，那么InnoDB将对表中的所有记
+
+录加锁，此时 就会升级为表锁。
+
+
+
+共享锁+共享锁
+
+| sessionA                                                     | sessionB                                                     | session c                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| begin;                                                       | begin;                                                       |                                   |
+| select * from a where id=1 lock in share mode;(正常查询,行锁共享锁) |                                                              |                                   |
+|                                                              |                                                              | ![](行锁_共享共享_lockdata1.jpeg) |
+|                                                              | select * from a where id=1 lock in share mode;(正常查询,行锁共享锁) |                                   |
+|                                                              |                                                              | ![](行锁_共享共享_lockdata2.jpeg) |
+|                                                              | commit;                                                      |                                   |
+|                                                              |                                                              | ![](行锁_共享共享_lockdata1.jpeg) |
+| commit;                                                      |                                                              |                                   |
+|                                                              |                                                              | emptyset                          |
+
+共享锁+排他锁
+
+如果一个select * from a where id=1 ，一个session执行的是update a set approval_status=7 where id=1;
+
+意向锁会有两个一IS个IX，会有两条记录。
+
+如果有两个update 同时update一张表，意向锁ix只有一条记录
+
+
+
+| sessionA                                                     | sessionB                                                     | session c                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
+| begin;                                                       | begin;                                                       |                                   |
+| select * from a where id=1 lock in share mode;(正常查询,行锁共享锁) |                                                              |                                   |
+|                                                              | update a set approval_status=7 where id=2;(正常执行，因为和事务a的id不一样，锁定了两条不一样的记录的行锁) |                                   |
+|                                                              |                                                              | ![](行锁_共享排他_lockdata1.jpeg) |
+|                                                              | update a set approval_status=7 where id=1;(阻塞，id相同)     |                                   |
+|                                                              |                                                              | ![](行锁_共享排他_lockdata2.jpeg) |
+| commit;                                                      |                                                              |                                   |
+|                                                              | update where id=1; 执行成功                                  |                                   |
+|                                                              | commit;                                                      |                                   |
+
+
 
 
 
