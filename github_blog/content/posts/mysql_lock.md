@@ -1,6 +1,9 @@
-title: "Mysql_lock"
-date: 2024-06-11T15:30:24+08:00
-draft: true
++++
+title = 'Mysql_lock'
+date = 2024-06-17T09:32:16+08:00
+draft = true
+
++++
 
 ## 5.锁
 
@@ -45,7 +48,7 @@ INSERT INTO `a_detail` VALUES (1, 4, 'a2');
 
 
 ```
--- mysql连接语句
+-- mysql连接语句 用了mysql8数据库
 mysql -uroot –proot wifi 
 mysql -h 127.0.0.1 -P 3308 -uroot –proot wifi 
 ```
@@ -423,15 +426,15 @@ InnoDB的数据是基于索引组织的，行锁是通过对索引上的索引�
 
 
 
-行锁（Record Lock）：锁定单个行记录的锁，防止其他事务对此行进行update和delete。在
+行锁（**Record Lock**）：锁定单个行记录的锁，防止其他事务对此行进行update和delete。在
 
 RC、RR隔离级别下都支持。
 
-间隙锁（Gap Lock）：锁定索引记录间隙（不含该记录），确保索引记录间隙不变，防止其他事
+间隙锁（**Gap Lock**）：锁定索引记录间隙（不含该记录），确保索引记录间隙不变，防止其他事
 
 务在这个间隙进行insert，产生幻读。在RR隔离级别下都支持
 
-临键锁（Next-Key Lock）：行锁和间隙锁组合，同时锁住数据，并锁住数据前面的间隙Gap。
+临键锁（**Next-Key Lock**）：行锁和间隙锁组合，同时锁住数据，并锁住数据前面的间隙Gap。
 
 在RR隔离级别下支持。
 
@@ -455,19 +458,19 @@ InnoDB实现了以下两种类型的行锁：
 
 ![](行锁语句.jpeg)
 
-默认情况下，InnoDB在 REPEATABLE READ事务隔离级别运行，InnoDB使用 next-key 锁进行搜
+**默认情况下，InnoDB在 REPEATABLE READ事务隔离级别运行，InnoDB使用 next-key 锁进行搜**
 
-索和索引扫描，以防止幻读。
+**索和索引扫描，以防止幻读。**
 
-针对唯一索引进行检索时，对已存在的记录进行等值匹配时，将会自动优化为行锁。
+**针对唯一索引进行检索时，对已存在的记录进行等值匹配时，将会自动优化为行锁。**
 
-InnoDB的行锁是针对于索引加的锁，不通过索引条件检索数据，那么InnoDB将对表中的所有记
+**InnoDB的行锁是针对于索引加的锁，不通过索引条件检索数据，那么InnoDB将对表中的所有记**
 
-录加锁，此时 就会升级为表锁。
+**录加锁，此时 就会升级为表锁。**
 
 
 
-共享锁+共享锁
+##### 共享锁+共享锁
 
 | sessionA                                                     | sessionB                                                     | session c                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
@@ -481,15 +484,13 @@ InnoDB的行锁是针对于索引加的锁，不通过索引条件检索数据�
 | commit;                                                      |                                                              |                                   |
 |                                                              |                                                              | emptyset                          |
 
-共享锁+排他锁
+##### 共享锁+排他锁
 
-如果一个select * from a where id=1 ，一个session执行的是update a set approval_status=7 where id=1;
+如果一个select * from a where id=1 lock in share mode;，一个session执行的是update a set approval_status=7 where id=1;
 
 意向锁会有两个一IS个IX，会有两条记录。
 
-如果有两个update 同时update一张表，意向锁ix只有一条记录
-
-
+一个事务里 相同的意向锁（IS，IX）只会加一次。
 
 | sessionA                                                     | sessionB                                                     | session c                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------- |
@@ -497,13 +498,158 @@ InnoDB的行锁是针对于索引加的锁，不通过索引条件检索数据�
 | select * from a where id=1 lock in share mode;(正常查询,行锁共享锁) |                                                              |                                   |
 |                                                              | update a set approval_status=7 where id=2;(正常执行，因为和事务a的id不一样，锁定了两条不一样的记录的行锁) |                                   |
 |                                                              |                                                              | ![](行锁_共享排他_lockdata1.jpeg) |
-|                                                              | update a set approval_status=7 where id=1;(阻塞，id相同)     |                                   |
+|                                                              | update a set approval_status=7 where id=1;(阻塞，id相同的a事务没提交) |                                   |
 |                                                              |                                                              | ![](行锁_共享排他_lockdata2.jpeg) |
 | commit;                                                      |                                                              |                                   |
-|                                                              | update where id=1; 执行成功                                  |                                   |
+|                                                              | update xx where id=1; 执行成功                               |                                   |
 |                                                              | commit;                                                      |                                   |
 
 
 
+##### 排他锁+排他锁
 
+如果有两个update 同时update一张表，意向锁有两条
+
+
+
+| sessionA                                             | sessionB                                         | session c                         |
+| ---------------------------------------------------- | ------------------------------------------------ | --------------------------------- |
+| begin;                                               | begin;                                           |                                   |
+| update a set approval_status=7 where id=1;(正常执行) |                                                  |                                   |
+|                                                      | update a set approval_status=8 where id=1;(阻塞) |                                   |
+|                                                      |                                                  | ![](行锁_排他排他_lockdata2.jpeg) |
+| commit;                                              |                                                  |                                   |
+|                                                      | 事务a提交后，事务b update 提交                   |                                   |
+|                                                      | commit;                                          |                                   |
+
+
+
+##### where条件没有加索引的情况
+
+
+
+```
+-- 添加name列
+ALTER TABLE a ADD COLUMN name VARCHAR(200);
+
+delete from a;
+
+INSERT INTO `wifi`.`a`(`uid`, `approval_status`, `id`, `name`) VALUES ('a1', 1, 1, 'alice');
+INSERT INTO `wifi`.`a`(`uid`, `approval_status`, `id`, `name`) VALUES ('a2', 1, 2, 'ben');
+
+```
+
+| sessionA                                                     | sessionB                                          | session c                  |
+| ------------------------------------------------------------ | ------------------------------------------------- | -------------------------- |
+| begin;                                                       | begin;                                            |                            |
+| update a set name='ricky' where name='alice';(正常执行,但是锁住了整表的所有记录) |                                                   |                            |
+|                                                              |                                                   | ![](行锁_升级为表锁1.jpeg) |
+|                                                              | update a set approval_status=8 where id=1;(阻塞,) |                            |
+|                                                              |                                                   | ![](行锁_升级为表锁2.jpeg) |
+| commit;                                                      |                                                   |                            |
+|                                                              | 事务a提交后，事务b update 提交                    |                            |
+
+##### 非唯一索引上进行等值查询
+
+
+
+在RR隔离级别下支持。
+
+| lock_type | lock_mode（**Next-Key Lock**） | lock_mode（**Record Lock**) | lock_mode（**Gap Lock**) |
+| --------- | ------------------------------ | --------------------------- | ------------------------ |
+| RECORD    | S                              | S,REC_NOT_GAP               | S,GAP                    |
+| RECORD    | X                              | X,REC_NOT_GAP               | X,GAP                    |
+
+
+
+```
+-- 测试数据
+CREATE TABLE `a_detail`  (
+  `approval_status` int(0) NULL DEFAULT 1 COMMENT '审核状态(1:审核中;2:通过)',
+  `id` bigint(0) NOT NULL AUTO_INCREMENT COMMENT '主键 id',
+  `auid` varchar(200) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL,
+  `age` int(0) NULL DEFAULT NULL,
+  PRIMARY KEY (`id`) USING BTREE,
+  INDEX `idx_aid`(`auid`) USING BTREE,
+  INDEX `idx_age`(`age`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 74 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci COMMENT = '审核记录明细表' ROW_FORMAT = Dynamic;
+
+-- ----------------------------
+-- Records of a_detail
+-- ----------------------------
+INSERT INTO `a_detail` VALUES (1, 1, 'a1', 22);
+INSERT INTO `a_detail` VALUES (1, 3, 'a1', 23);
+INSERT INTO `a_detail` VALUES (1, 5, 'a2', 25);
+INSERT INTO `a_detail` VALUES (1, 7, 'a2', 27);
+INSERT INTO `a_detail` VALUES (1, 8, 'a3', 28);
+INSERT INTO `a_detail` VALUES (1, 10, 'a4', 30);
+INSERT INTO `a_detail` VALUES (1, 11, 'a5', 30);
+```
+
+```
+select * from a_detail where age=25 lock in share mode;
+```
+
+```
+mysql> select object_schema,object_name,index_name,lock_type,lock_mode,lock_data from performance_schema.data_locks;
++---------------+-------------+------------+-----------+---------------+-----------+
+| object_schema | object_name | index_name | lock_type | lock_mode     | lock_data |
++---------------+-------------+------------+-----------+---------------+-----------+
+| wifi          | a_detail    | NULL       | TABLE     | IS            | NULL      |
+| wifi          | a_detail    | idx_age    | RECORD    | S             | 25, 5     |
+| wifi          | a_detail    | PRIMARY    | RECORD    | S,REC_NOT_GAP | 5         |
+| wifi          | a_detail    | idx_age    | RECORD    | S,GAP         | 27, 7     |
++---------------+-------------+------------+-----------+---------------+-----------+
+4 rows in set (0.00 sec)
+
+
+--  正常
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 103, 'a2', 22);
+--  阻塞
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 104, 'a2', 23);
+--  阻塞
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 105, 'a2', 24);
+
+
+--  阻塞
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 99, 'a2', 25);  
+
+
+
+--  阻塞
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 100, 'a2', 26);
+
+--  成功
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 101, 'a2', 27);
+--  成功
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 102, 'a2', 28);
+
+```
+
+注意age=23 插入失败， age=27插入成功。是因为 临键锁（**Next-Key Lock**）（零件所）| 25, 5   2
+
+
+
+但是同样是age=23，id=1却可以插入成功，不会阻塞
+
+```
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 2, 'a2', 23);
+
+```
+
+如果age=27
+
+```
+INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1, 6, 'a2', 27);
+```
+
+
+
+
+
+
+
+在对非唯一索引上进行等值查询，比如age=25，锁的范围是【3-25） 25  （25-27）,所以这种手法不正确。
+
+二级索引要结合主键索引 索引树的分布 来判断临界数据是否可以插入，
 
