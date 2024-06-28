@@ -51,9 +51,20 @@ INSERT INTO `a_detail` VALUES (1, 4, 'a2');
 -- mysql连接语句 用了mysql8数据库
 mysql -uroot –proot wifi 
 mysql -h 127.0.0.1 -P 3308 -uroot –proot wifi 
+mysql -h 10.18.5.103 -P 3306 -uroot –pG3H8HnwHmA wifi 
 ```
 
 
+
+```
+-- mysql8
+select object_schema,object_name,index_name,lock_type,lock_mode,lock_data from
+performance_schema.data_locks;
+
+--mysql5
+select * from information_schema.innodb_locks;
+
+```
 
 
 
@@ -430,15 +441,13 @@ InnoDB的数据是基于索引组织的，行锁是通过对索引上的索引�
 
 RC、RR隔离级别下都支持。
 
-间隙锁（**Gap Lock**）：锁定索引记录间隙（不含该记录），确保索引记录间隙不变，防止其他事
+间隙锁（**Gap Lock** 前开后开）：锁定索引记录间隙（不含该记录），确保索引记录间隙不变，防止其他事
 
-务在这个间隙进行insert，产生幻读。在RR隔离级别下都支持
+务在这个间隙进行insert，产生幻读。只存在于可重复读隔离级别，目的是为了解决可重复读隔离级别下幻读的现象。
 
-临键锁（**Next-Key Lock**）：行锁和间隙锁组合，同时锁住数据，并锁住数据前面的间隙Gap。
+临键锁（**Next-Key Lock **前开后闭区间）：行锁和间隙锁组合，同时锁住数据，并锁住数据前面的间隙Gap。
 
-在RR隔离级别下支持。
-
-
+在RR隔离级别下支持。前开后闭区间
 
 
 
@@ -653,3 +662,16 @@ INSERT INTO `wifi`.`a_detail`(`approval_status`, `id`, `auid`, `age`) VALUES (1,
 
 二级索引要结合主键索引 索引树的分布 来判断临界数据是否可以插入，
 
+有关二级索引 的 间隙锁是否能插入 临界数据，要以  
+
+二级索引树是按照二级索引值（age列）按顺序存放的，在相同的二级索引值情况下， 再按主键 id 的顺序存放。知道了这个前提，我们才能知道执行插入语句的时候，插入的位置的下一条记录是谁。
+
+判断，如果 二级索引（age+id）  组合在间隙锁内，就不能插入。如果（age+id）  不在间隙锁内，就可以插入。
+
+参考：https://www.xiaolincoding.com/mysql/lock/how_to_lock.html#%E9%9D%9E%E5%94%AF%E4%B8%80%E7%B4%A2%E5%BC%95%E7%AD%89%E5%80%BC%E6%9F%A5%E8%AF%A2
+
+
+
+如果出a事务用到了b事务的间隙锁 ，a是通过update语句， b是通过lock in share mode 加上的，死锁的时候，不分S，X，只要一个事务的间隙锁与另一个事务用到的间隙锁冲突就会产生阻塞，
+
+如果事务a和事务b 分别执行相同的代码，最终会死锁。

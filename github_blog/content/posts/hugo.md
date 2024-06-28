@@ -5,6 +5,13 @@ draft: true
 ---
 
 ```
+指定hugo版本
+hugo v0.105.0-0e3b42b4a9bdeb4d866210819fc6ddcf51582ffa+extended windows/amd64 BuildDate=2022-10-28T12:29:05Z VendorInfo=gohugoio
+```
+
+
+
+```
 本地启动网站
 hugo serve --disableFastRender --buildDrafts
 
