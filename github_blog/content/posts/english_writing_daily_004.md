@@ -922,7 +922,7 @@ i know there are plenty of content creators out there with **clickbait titles(�
 
 but here is the thing, my answer is that learning english quickly just aint gona happen , it s not that simple,my friend
 
-english is a language ,it is not like any other subject you can cram for.
+english is a language ,it is not like any other subject you can **cram for(临时抱佛脚;).**
 
 let s take a moment to think about how you learn chinese，could you crammed for a chinnese  language test of college entrance examination in your
 
@@ -940,7 +940,7 @@ but trust me ,there s a lot  they are not telling you)
 
 take me for example, you might think that at 40 years old i must have some secret weapon  to  pass  the telts exam **with flying color(*出色*地;）.**
 
-here s the reality，Considering how busy the work is ,even if i squeeze  every spare  second  out of my day,there s not so much time left for studying, if it werent for my longstanding interest in english and never giving up  on it,passing the IELTS would be  **down right  （彻底的）** impossible.
+here s the reality，Considering how busy the work is ,even if i squeeze  every spare  second  out of my day,there s not so much time left for studying, if it werent for my **longstanding(长期间的)** interest in english and never giving up  on it,passing the IELTS would be  **down right  （彻底的）** impossible.
 
 so lets get real,the first role in learning english is to **ditch(抛弃)** those fantasies,facing the truth and plan for the long haul
 
@@ -990,7 +990,7 @@ with only a small portion being translated into chinese. having this ability mea
 
 
 
-**by doing so**,  you can not olny become more exceptional individual, but contribute to the modernization of our country  with your knowledge.
+**by doing so**,  you can not olny become more **exceptional** individual, but contribute to the modernization of our country  with your knowledge.
 
 so why not give it a try
 
@@ -1004,7 +1004,7 @@ no matter how old you are or what you educational level is.  if you are thrown  
 
 the learning curve for most subject like a curve.  as you learn to a certaion point, understanding become harder.
 
-as you get older ,you ability to understand may decline.  however  the learing curve  for language is straighforward.
+as you get older ,you ability to understand may decline.  however  the learing curve  for language is **straighforward(直截了当的;简)**.
 
 as long as you put into time. you ll definitely make  **corresponding** improvements.  sometimes  ,l see learning english as a  game like leveling up by defeating monsters. even though  the process can be boring,  i know that  as long as i invest  enough time  and click the mouse enough times,  i definitely
 
@@ -1100,7 +1100,7 @@ When life is confusing, it is even more necessary to establish goals
 
 ## climate change
 
-climate change is real .it is happening right now. it is the most urget threat facing our entire **species**,and we need to work **collectively** together and stop **procrastinating**. we need to support leaders around the world who do not speak for the big **polluters** or the big **corporations**  .but who speak for all of humainty,for the indigenous people of the world
+climate change is real .it is happening right now. it is the most urget threat facing our entire **species**,and we need to work **collectively** together and stop **procrastinating**. we need to support leaders around the world who do not speak for the big **polluters** or the big **corporations**  .but who speak for all of humainty,for the **indigenous** people of the world
 
 
 
@@ -1218,7 +1218,9 @@ chatgpt 说的
 
 但事实上，你再也看到他在群里发消息了肆无忌惮的开玩笑了，再也不能从语音中听到他的声音了，再也没有人陪你双排峡谷和云顶了，再也没有人愿意和你尝试除dnf以外的mmo了,你永远地失去了这个朋友
 
-但是这样的朋友以后不会再有了，仔细一下，和他在一起的时候是最近十年了最快乐的时光
+这样的朋友以后不会再有了，仔细一想，最近五年他陪我度过最快乐的时光。
+
+电影飞驰人生2的主角没死，但你永远的离开了。
 
 
 

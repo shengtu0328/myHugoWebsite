@@ -52,6 +52,10 @@ INSERT INTO `a_detail` VALUES (1, 4, 'a2');
 mysql -uroot –proot wifi 
 mysql -h 127.0.0.1 -P 3308 -uroot –proot wifi 
 mysql -h 10.18.5.103 -P 3306 -uroot –pG3H8HnwHmA wifi 
+
+
+mysql -h 127.0.0.1 -P 3308 -uroot –proot testbase
+
 ```
 
 
@@ -61,7 +65,7 @@ mysql -h 10.18.5.103 -P 3306 -uroot –pG3H8HnwHmA wifi
 select object_schema,object_name,index_name,lock_type,lock_mode,lock_data from
 performance_schema.data_locks;
 
---mysql5
+-- mysql5
 select * from information_schema.innodb_locks;
 
 ```

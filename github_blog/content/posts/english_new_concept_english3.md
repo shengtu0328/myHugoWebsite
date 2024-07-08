@@ -79,7 +79,31 @@ The experts were now fully convinced that the animal was a puma, but where had i
 
 美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。
 
-搜寻美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮毛。有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥流窜，真令人担心。
+pumas are large,cat-like animasl.which are found in america.when the report  came into london zoo that a puma had been spotted froty-five miles  south of london.  these reports were not taken seriously. howerver,as the  evidence began to accumlate,.the expert  from zoo felt obliged to investigate,for the discription given  by people who claimed to have seeen the puma were extraordinarily similar.
+
+**搜寻**美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮**毛**。有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥流窜，真令人担心。
+
+the hunt for pumas began in a small village  where a women picking blackberries saw a large cat  only 5 yards away from her.
+
+ when she saw it, it **ran away** immediately.  the experts confirmed that puma will not attack people unless it is corned. 
+
+in the fact, the searching proved difficult.
+
+,for the puma  was often observed at one place in the morning and at another place twenty miles away  in the evening . 
+
+Wherever it went,，it left behind it a trail of dead deer and  small animal like rabbit  ,  
+
+Paw prints were seen in **a number of** places and puma **fur** was found clinging to bushes.
+
+serveal people complained of  cat-like nosie at night 。a businessman on a fishing-trip saw a puma up a tree.
+
+the experts were now fully convienced that  the animal was puam,but where had it come from.
+
+because no pumas has been report missing  from any zoo in the country,this one must have been in the possession of a private collector and somehow managed to escape.
+
+. The hunt **went on** for several weeks, but the puma was not caught.it is disturbting to  think that a dangerous beast is still at large in the quiet countryside.
+
+
 
 ## Lesson 2 Thirteen equals one 十三等于一
 
@@ -104,6 +128,10 @@ torchlight n.电筒光
 
  torch n.手电筒
 
+
+
+sight n.看见的东西
+
 **Notes on the text 课文注释**
 
 managed （to get enough money )(to have the church clock repaired状语).    o have the church clock repaired修饰to get
@@ -124,15 +152,47 @@ whatever 用于疑问句中，用以加强 what 的语气，作“究竟什么�
 
 我们教区的牧师总是为各种各样的事筹集资金。但始终未能筹足资金把教堂的钟修好。教堂的钟很大，以前不分昼夜打点报时，但很多年前遭到毁坏，从此便无声无息了。
 
-一天夜里，我们的牧师突然被惊醒了，大钟又在“打点”报时了！他一看表，才1点钟，可是那钟一边敲了13下才停。牧师拿着一支电筒走上钟楼想去看看究竟发生了什么事情。借着电筒光。他看见一个人，马上认出那是本地杂货店主比尔.威尔金斯。
+our vicar is always raising money for **one cause or another** ，but he has  never  managed to get enough money to have the  church clock repaired . 
+
+the big clock which used to strike the hours day and night  was damaged many years ago  and has been silent ever since 
+
+
+
+一天夜里，我们的牧师突然被惊醒了，大钟**又在**“打点”报时了！他一看表，才1点钟，**可是**那钟一边敲了13下才停。牧师拿着一支电筒走上钟楼想去看看究竟**发生了什么事情**。借着电筒光。他看见一个人，马上认出那是本地杂货店主比尔.威尔金斯。
+
+on night，our vicar **woke up with a start**，the big clock was  striking the hours again。
+
+looking his watch, he saw that it was one o clock.
+
+but the bell struck thirteen  times  before it stopped，
+
+Armed with a torch, the   vicar went up into the clock tower   to see what was going on  ,  in the torchligh, he saw **a sight of a figure**   whom   he immediatly  recongized  as  bill。wilkins ,our  local grocer
+
+
 
 “你究竟在这上面干什么，比尔？”牧师惊讶地问。
-“我想把这口钟修好，”比尔回答说。“好几个星期了，我天天夜里到钟楼上来。嗯，我是想让你大吃一惊。”
-“你确实使我大吃了一惊！”牧师说，“也许同时你把村里所有的人都吵醒了。不过，钟又能报时了，我还是很高兴的。”
-“问题就在这里，牧师，”比尔回答说。“不错，钟能报时了，但是，恐怕每到1点钟，它总要敲13下，对此我已无能为力了。”
+
+whaterver are you doing here,bill, asked the vicar in surprise
+
+“我**想**把这口钟修好，”比尔回答说。“好几个星期了，我天天夜里到钟楼上来。嗯，我是**想**让你大吃一惊。”''
+
+i  m **trying** to repair this bell, anwsered bill，“l have been coming up here night after night for weeks now. ，you see， i was **hoping** to give your a   surprise”
+
+
+
+“你确实使我大吃了一惊！”牧师说，“**也许**同时你把村里所有的人都吵醒了。不过，钟又能报时了，我还是很高兴的。”
+
+your certainly  did  give me  a   surprise ，said the vicar， probably  you have woken up everyone in the village as well, still. i m glad the bell is working again;
+
+“**问题**就在这里，牧师，”比尔回答说。“不错，钟能报时了，但是，**恐怕**每到1点钟，它总要敲13下，对此我已无能为力了。”
+
+that s the **trouble** ,vicar,  answer bill,   ，it's working all right， but  I'm afraid that  
+
+it will strike thirteen times at one o'cloc and  there is nothing i can do about it。
+
 “大家慢慢就习惯了，比尔，”牧师说。“13下是不如1下好，但总比1下也不敲强。来，咱们下楼去喝杯茶吧。”
 
-
+We'll get used to that， bill，said the vicar ， thirteen is not as  good as one， but it is better than nothing  Now let's go downstairs and have a cup of tea.'
 
 ![](l2_have.png)
 
@@ -519,3 +579,224 @@ impact（1. 16）/'impækt/n．冲击力
 猫总能引起人们的极大兴趣。它们可以对人友好，充满柔情。但是，它们又有自己神秘的生活方式。它们从不像狗和马一样变得那么顺从。结果是人们已经学会尊重猫的独立性。在它们的一生中，大多数猫都对人存有戒心。最使我们感兴趣的一件事情就是一种通俗的信念——猫有九条命。显然，这种说法里面包含着许多真实性。猫在跌落时能够大难不死是有事实作为依据的。
 
 最近，纽约动物医疗中心对132只猫进行了为期5个月的综合研究。所有这些猫都有一个共同的经历：它们都曾从高层建筑上摔下来过，但只有其中的8只猫死于震荡或跌伤。当然，纽约是进行这种有趣的试验的一个理想的地方，因为那里根本不缺乏高楼大厦，有的是高层的窗槛从上往下坠落。有一只叫萨伯瑞娜的猫从32层楼上掉下来，但只摔断了一颗牙。“猫就像训练有素的跳伞队员，”一位医生说。看起来，猫跌落的距离越长，它们就越不会伤害自己。在一个长长的跌落过程中，它们可以达到每小时60英里甚至更快的速度。在高速下落中，猫有时间放松自己。它们伸展开四肢，就像飞行中的松鼠一样。这样就加大了空气阻力，并减小了它们着地时冲击力带来的震动。
+
+## Lesson 10 The loss of the Titanic ＂泰坦尼克＂号的沉没
+
+
+What would have happened if only two of the sixteen water-tight compartments had been flooded?
+
+The great ship, Titanic, **sailed for** New York from Southampton on April 10th, 1912. She was carrying 1, 316 passengers and a crew of 891. Even by modern standards, the 46, 000 ton Titanic was a **colossal** ship. At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen **watertight** **compartments**. Even if two of these were **flooded**, she would still be able to float. The tragic sinking of this great **liner** will always be remembered, for she went down on her first **voyage** with heavy loss of life.
+
+Four days after **setting out**, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned **sharply** to avoid a direct collision. The Titanic turned just in time, **narrowly** missing the immense wall of ice which rose over 100 feet out of the water beside her. Suddenly, there was a **slight** **trembling** sound from below, and the captain went down to see what had happened. The noise had been so **faint** that no one thought that the ship had been damaged. Below, the captain realized to his **horror** that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people **plunged** into the icy water. As there were not enough lifeboats for everybody, 1, 500 lives were lost.
+
+**New words and expressions 生词和短语**
+
+Southampton（1. 1）/sauθ'æmptən/n．南安普敦（英国港市）
+lookout（1. 10）/'luk-aut/n．瞭望员
+collision（1. 11）/kə'li'ʒən/n．碰撞
+colossal（1. 4）/kə'lɔsəl/adj．庞大的
+narrowly（1. 11）/'nærəuli/adv．刚刚，勉强地
+watertight（1. 6）/'wɔ:tətait/adj．不漏水的
+miss（1. 11）/mis/v．避开
+compartment（1. 6）/kəm'pa:tmənt/n．（轮船的）密封舱
+slight（1. 12）/slait/adj．轻微的
+tremble（1. 12）/'trembəl/v．震颤
+flood（1. 7）/flʌd/v．充满水
+faint（1. 13）/feint/adj．微弱的
+float（1. 7）/'fləut/v．漂浮，飘浮
+horror（1. 14）/'hɔ:rə/n．恐惧
+tragic（1. 7）/'trædʒik/adj．悲惨的
+abandon（1. 15）/ə'bændən/v．抛弃
+liner（1. 7）/'lainə/n．班船
+plunge（1. 16）/plʌndʒ/v．投入，跳入
+voyage（1. 8）/'vɔi-idʒ/n．航行
+lifeboat（1. 16）/'laifbəut/n．救生船
+iceberg（1. 10）/'aisbə:g/n．冰山
+
+
+
+sharply adv.猛烈地
+
+immense adj.巨大的
+
+trembling n.颤抖
+
+**Notes on the text 课文注释**
+
+1 sail for，驶往……。
+2 even by modern standards，即使依照现代标准来衡量。by作“依照”、“按照”讲。
+3 regarded as unsinkable，被认为是不会沉没的。 regard… as…当“把……当作……”讲。
+4 she went down on her first voyage with heavy loss of life，她首航就下沉，造成大批人员死亡。go down是“下沉”的意思。
+5 narrowly missing，勉强避开。
+6 Below, the captain realized to his horror，在下面，船长惊恐地发现。 below是个副词。
+
+**参考译文**
+
+巨轮“泰坦尼克”号1912年4月10日从南安普敦起锚驶向纽约。船上**载**有1，316名乘客与891名船员。即便用现代标准来衡量，46，000吨的“泰坦尼克”号也算得上一艘巨轮了。当时，这艘轮船不仅是造船**史上**建造的最大的一艘船，而且也**被认为**是不会沉没的。因为船由16个密封舱组成，即使有两个舱进水，仍**可**漂浮在水面上。然而，这艘巨轮首航就**下沉**，造成大批人员死亡。人们**将   ****永远**记着这艘**巨轮的 ****沉没惨剧**。
+
+the great ship, titanic sailed for New York fom  Southampton on April.10th. 1912   ,She was  **carrying** 1316 passengers and a  crew of 891.  even by modern standards, the 46000 ton , taitinc  was a  colossal ship. 
+
+at that time ,this  ship was not only the largest ship  that had ever been built ,but also was  regarded as    unsinkable, 
+
+for the ship  had/consits of 16  watertight  comparments, even if two of these were flooded, the boat would still be able to float . however ,for this boat went down on her  first voyage with heavy loss of life, . the tragic sinking of this great  liner  will **always**  be  rememberd
+
+“泰坦尼克”起航后的第4天，它正行**驶**     **在** 北大西洋冰冷的海面上。突然，瞭望员发现一座冰山。警报**响**过不久，巨轮急转弯，以**避免**与冰山正面相撞。“泰坦尼克”这个弯拐得**及时**，**紧贴着**高出海面100英尺的巨大的冰墙**擦**过去。突然，从船舱**下部** **传来**一声轻微的**颤**音，船长走下船舱去查看究竟。由于这个声音非常**轻**，没人会想到船身已遭损坏。**在下面**，船长**惊恐地**发现“泰坦尼克”号正在急速下沉，16个密封舱已有5个进水。于是，他**发出**了弃船**的命令**，几百人跳进了**冰冷刺骨**的海水里。由于没有足够的救生艇运载所有乘客，结果1，500人**丧生**。
+
+4 days after setting out , while the titanic  was sailing across  the icy waters  of the  north Atlantic .
+
+ a iceberg was  sudddenly spotted by a lookout, After the alarm had been **given**,  the great ship turned sharply   to avoid a direct  collision.
+
+the titanic turned just **in time** ,**narrowly** **missing** the **immense** wall of ice which rose over100 feet out of the water beside her.
+
+suddenly,there was  a slight  **trembling** soud    from below          ，and  the captain went down to see what had happend ,.     The noise had  been so **faint**  that no one thought that the ship had been damaged,.
+
+**Below**,the captain **realized to his horror**  that the titanic was sinking rapidly  ,  for five of sixteen compartments had already been flooded. the order to abandon ship was given  and hundreds of people **plunged** inyto the  icy water, As there were not enough lifeboats for everybody, 1500 lives were **lost**.
+
+
+
+
+
+## Lesson 11 Not guilty 无罪
+
+
+What was the Customs Officer looking for?
+
+
+
+Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare. Even really honest people are often made to feel guilty. The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.
+
+‘Have you anything to declare? ’ he asked, looking me in the eye.
+‘No, ’ I answered confidently.
+‘Would you mind unlocking this suitcase please? ’
+‘Not at all, ’ I answered.
+
+The Officer went through the case with great care. All the things I had packed so carefully were soon in a dreadful mess. I felt sure I would never be able to close the case again. Suddenly, I saw the Officer's face light, up. He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
+
+‘Perfume, eh? ’ he asked sarcastically. ‘You should have declared that. Perfume is not exempt from import duty. ’
+‘But it isn't perfume, ’ I said. ‘It's hair gel. ’ Then I added with a smile, ‘It's a strange mixture I make myself. ’
+As I expected, he did not believe me.
+‘Try it!’I said encouragingly.
+
+The Officer unscrewed the cap and put the bottle to his nostrils. He was greeted by an unpleasant smell which convinced him that I was telling the truth. A few minutes later, I was able to hurry away with precious chalk marks on my baggage.
+
+**New words and expressions 生词和短语**
+
+ be made to  被要求
+
+hardened（1. 4）/'ha:dənd/adj．有经验的
+
+clearly adv.明显的
+
+smuggler（1. clearly 4）/'smʌglə/n．走私者
+
+Customs Officer 海关官员
+
+officious（1. 7）/ə'fiʃəs/adj．爱管闲事的
+
+declare（1. 3）/di'kleə/v．申报
+
+go through  检查
+
+ with great care 小心翼翼地
+
+dreadful（1. 14）/'dredfəl/adj．可怕的，一团糟的
+
+pounce（1. 15）/'pauns/v．猛抓，扑住
+
+sarcastically（1. 16）/sa:'kæstikli/adv．讽刺地
+
+exempt（1. 16）/ig'zempt/adj．被免除的
+
+duty（1. 17）/'dju:ti/n．税
+
+gel（1. 18）/'dʒel/n．凝胶
+
+unscrew（1. 22）/ʌn'skru:/v．拧开
+
+cap n.盖
+
+nostril（1. 22）/'nɔstril/n．鼻孔
+
+ was greeted by  ;被……接待
+
+unpleasant adj.不愉快的
+
+precious adj.珍贵的
+
+chalk（1. 24）/tʃɔ:k/n．粉笔
+
+baggage（1. 24）/'bægidʒ/n．行李
+
+guilty（title）/'gilti/adj．犯罪的，违法的
+perfume（1. 16）/'pə:fju:m/n．香水
+tolerant（1. 1）/'tɔlərənt/adj．宽容的
+
+professional（1. 4）/prə'feʃənəl/adj．职业的，专业的
+mixture（1. 18）/'mikstʃə/n．混合物
+confidently（1. 10）/'kɔfidəntli/ady．自信地
+
+**Notes on the text 课文注释**
+
+1 the Green Channel，绿色通道，指海关专供没有携带征税物品进关的旅客所走的通道。
+2 hidden in his suitcase是过去分词短语作定语，修饰watches，它相当于一个定语从句：which were hidden in his suitcase.
+3 looking me in the eye，直盯着我的眼睛，这是分词短语作状语，表示方式，修饰 asked。
+4 The officer went through，这里go through作“检查”讲。
+5 in a dreadful mess （或 in a mess），乱七八糟，混乱透了。
+6 I saw the Officer's face light up．我看到那位官员的脸上露出了得意的神色。
+7 You should have declared that．你早该申报了。“should +不定式的完成式”表示本该做而未做之事。
+8 be exempt from 作“免除”、“豁免”解。
+
+
+
+使役动词let，make，have等，感官动词see，hear，feel，watch，notice，look at，listen to等，后常跟不带to的不定式作宾语补足语。例如：
+
+**参考译文**
+
+**现在的**海关官员往往相当宽容。但是，当你**通过**绿色通道，没有任何东西需要申报时，他们仍可以拦住你。甚至是最诚实的人也常被弄得觉得有罪似的，而老练的职业走私犯即使在手提箱里藏着500只金表，**却**也**处之泰然**。最近一次，我出国**归来**，碰上一位特别好管闲事的年轻海关官员，他显然把我**当**成了走私犯。
+
+Customs officer are quite tolerant these days .But,when you are going through the Green Channel and having nothing to declaret the could still stop you .Even really  honest people are often made to feel guity
+
+the  handerd professional  smuggler is   **never troubled by such feelings** ，ont the  other hand,even if  he has  five hundred gold watches hidden   in his  suitcase 。
+
+When  i **returned from abord** recently, a particulatly officious young Customs office clearly  **regarded** me as a smuggler. 
+
+
+
+“您**有**什么需要申报的吗？”他直盯着我的眼睛问。
+
+have you anything  to declare? he asked me ,looking me in the eye
+
+“没有。”我自信地回答说。
+
+no,i answered confidently
+
+“**请****打开**这只手提箱好吗？”
+
+would you mind  **unlocking**  this suitcase  please?
+
+“好的。”我回答说。
+
+Not at all,  i answered.
+
+那位官员十分仔细地把箱子检查了一遍。**所有**细心包装好的**东西**一会儿工夫就乱成了一团。我相信那箱子再也关不上了。突然，我看到官员脸上**露出了得意的神色**。他在我的**箱底****发现**了一只小瓶，高兴地一把抓了起来。
+
+that office went through the suitcase **with great care.**  all the things that i had  packed carefully  were **soon** in  a  dreadful mess, i felt sure that  i would  never be able to  close the case again。  Suddenly， i  saw the officer's face light up。 he had spotted a tiny bottle at the bottom of the case and he  pounced on it with delight.
+
+
+
+“香水，嗯？”他讥讽地说道，“你**刚才****应该**申报，香水要上进口税的。”
+“不，这不是香水，”我说，“是发胶。”****接着我脸带微笑补充说****：“这是一种我自己配制的奇特的混合物。”**果不出所料**，他并不相信我。
+“你就闻一闻吧！”我催促说。
+
+perfume,eh?. he  sarcastically  said         you should have declared that       ,         perfume is not exempt  from  import duty.
+
+But ,it is not perfume, i said, "it s hair gel"     then   **i  added  with smile**  .it is a strange mixture  made by myself,  
+
+**As i expected** ,he didnt believe me .  
+
+" try it "  i encouragingly said
+
+海关官员拧开瓶盖，把瓶子放到鼻子底下。一股怪味**袭来**，使他相信了我说的是真话。**几分钟**后，我终于被放行，手提划着宝贵的粉笔记号的**行李**，**匆匆离去**。
+
+The customs office  unscrewed the cap and  put the bottle to his nostril.    He **was  greeted by** an unpleasent smell which convienced him that i was telling the trurh, A few fminutes later , i  was able to **hurry away**   with  precious chalk marks on my  **baggage**.
+

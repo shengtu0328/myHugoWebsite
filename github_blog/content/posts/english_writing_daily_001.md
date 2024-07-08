@@ -17,7 +17,7 @@ Title: Navigating Unemployment with a **Well-Planned** Approach
 
 
 
-Recently, many companies, including the one I worked for, **have been forced** to **lay off** employees, and unfortunately, I am among them. While this is not the first time I've found myself in need of a job, I **am determined to** approach this job search differently by organizing my daily activities in a structured manner.  
+Recently, many companies, including the one I worked for, **have been forced** to **lay off** employees, and unfortunately, I am among them. While this is not the first time I've found myself in need of a job, I **am determined to** **approach** this job search differently by organizing my daily activities in a structured manner.  
 
 最近，包括我工作的公司在内的许多公司都被迫裁员，不幸的是，我也是其中之一。 虽然这不是我第一次发现自己需要一份工作，但我决心以不同的方式进行求职，以结构化的方式组织我的日常活动。、  
 
