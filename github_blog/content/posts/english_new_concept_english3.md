@@ -6,6 +6,42 @@ draft: true
 
 
 
+同义词
+
+| at once，immediately | 马上 |
+| -------------------- | ---- |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+|                      |      |
+
+
+
+
+
+
+
+
+
+
+
 ## Lesson 1 A puma at large 逃遁的美洲狮
 
 Pumas are large, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. However（加了逗号however是副词，没有逗号当连词用）, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
@@ -75,13 +111,17 @@ The experts were now fully convinced that the animal was a puma, but where had i
 
 
 
+manage to do 表示成功地完成某件较为困难或具有挑战性的事情。这个短语通常用于强调某人克服了困难或障碍，最终达成了目标。
+
+
+
 **参考译文**
 
 美洲狮是一种体形似猫的大动物，产于美洲。当伦敦动物园接到报告说，在伦敦以南45英里处发现一只美洲狮时，这些报告并没有受到重视。可是，随着证据越来越多，动物园的专家们感到有必要进行一番调查，因为凡是声称见到过美洲狮的人们所描述的情况竟是出奇地相似。
 
 pumas are large,cat-like animasl.which are found in america.when the report  came into london zoo that a puma had been spotted froty-five miles  south of london.  these reports were not taken seriously. howerver,as the  evidence began to accumlate,.the expert  from zoo felt obliged to investigate,for the discription given  by people who claimed to have seeen the puma were extraordinarily similar.
 
-**搜寻**美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地发现它的踪迹。无论它走哪儿，一路上总会留下一串死鹿及死兔子之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮**毛**。有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么设法逃出来了。搜寻工作进行了好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥流窜，真令人担心。
+**搜寻**美洲狮的工作是从一座小村庄开始的。那里的一位妇女在采摘黑莓时的看见“一只大猫”，离她仅5码远，她刚看见它，它就立刻逃走了。专家证实，美洲狮非被逼得走投无路，是决不会伤人的。事实上搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地发现它的踪迹。无论它**走**哪儿，一路上总会留下一串死鹿及死兔子之类的小动物，在许多地方看见爪印，灌木丛中发现了粘在上面的美洲狮**毛**。有人抱怨说夜里听见“像猫一样的叫声”；一位商人去钓鱼，看见那只美洲狮在树上。专家们如今已经完全肯定那只动物就是美洲狮，但它是从哪儿来的呢？由于全国动物园没有一家报告丢了美洲狮，因此那只美洲狮一定是某位私人收藏豢养的，不知怎么**设法**逃出来了。搜寻工作**进行**了好几个星期，但始终未能逮住那只美洲狮。想到在宁静的乡村里有一头危险的野兽继续逍遥流窜，真令人**担心**。
 
 the hunt for pumas began in a small village  where a women picking blackberries saw a large cat  only 5 yards away from her.
 
@@ -150,7 +190,7 @@ whatever 用于疑问句中，用以加强 what 的语气，作“究竟什么�
 
 **参考译文**
 
-我们教区的牧师总是为各种各样的事筹集资金。但始终未能筹足资金把教堂的钟修好。教堂的钟很大，以前不分昼夜打点报时，但很多年前遭到毁坏，从此便无声无息了。
+我们教区的牧师总是为各种各样的事筹集资金。但始终未能筹足资金把教堂的钟修好。教堂的钟很大，以前不分昼夜**打点报时**，但很多年前遭到毁坏，从此便无声无息了。
 
 our vicar is always raising money for **one cause or another** ，but he has  never  managed to get enough money to have the  church clock repaired . 
 
@@ -174,15 +214,15 @@ Armed with a torch, the   vicar went up into the clock tower   to see what was g
 
 whaterver are you doing here,bill, asked the vicar in surprise
 
-“我**想**把这口钟修好，”比尔回答说。“好几个星期了，我天天夜里到钟楼上来。嗯，我是**想**让你大吃一惊。”''
+“我**想****把**这口钟修好，”比尔回答说。“好几个星期了，我天天夜里到钟楼上来。嗯，我是**想**让你大吃一惊。”''
 
 i  m **trying** to repair this bell, anwsered bill，“l have been coming up here night after night for weeks now. ，you see， i was **hoping** to give your a   surprise”
 
 
 
-“你确实使我大吃了一惊！”牧师说，“**也许**同时你把村里所有的人都吵醒了。不过，钟又能报时了，我还是很高兴的。”
+“你**确实**使我大吃了一惊！”牧师说，“**也许**同时你把村里所有的人都吵醒了。不过，钟又能报时了，我还是很高兴的。”
 
-your certainly  did  give me  a   surprise ，said the vicar， probably  you have woken up everyone in the village as well, still. i m glad the bell is working again;
+your **certainly**  did  give me  a   surprise ，said the vicar， probably  you have woken up everyone in the village **as well,** still. i m glad the bell is working again;
 
 “**问题**就在这里，牧师，”比尔回答说。“不错，钟能报时了，但是，**恐怕**每到1点钟，它总要敲13下，对此我已无能为力了。”
 
@@ -204,9 +244,9 @@ We'll get used to that， bill，said the vicar ， thirteen is not as  good as 
 
 Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini. The city at one time must have been prosperous, for it enjoyed a high level of civilization. Houses, often three storeys high, were built of stone. They had large rooms with beautifully decorated walls. The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
 
-The temple which the archaeologists explored was used as a place of worship from the 15th century B.C. until Roman times. In the most sacred room of the temple, clay fragments of 15 statues were found. Each of these represented a goddess and had, at one time, been painted.
+The temple which the archaeologists explored was used as a place of worship from the 15th century B.C. until Roman times. In the most sacred room of the temple, clay fragments of 15 statues were found. Each of these represented a goddess **and had, at one time, been painted.**
 
-The body of one statue was found among remains dating from the 15th century B.C. Its missing head happened to be among remains of the 5th century B.C. This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. She stood three feet high and her hands rested on her hips.
+The body of one statue was found among remains dating from the 15th century B.C. Its missing head happened to be among remains of the 5th century B.C. This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find(amazed  原因状语) that the goddess turned out to be(the goddess主语补语） a very modern-looking woman. She stood three feet high and her hands rested on her hips.
 
 She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.
 
@@ -227,7 +267,7 @@ rest(1. 16)/rest/ v．倚放，放置
 civilization(1. 5) /'sivəl-ai'zeiʃən/ n．文明
 hip(1. 16) /hip/ n．屁股，臀部
 storey(1. 5) /'stɔ:ri/ n．楼层
-full-length(1. 16) /'ful'leŋθ/adj．（裙衣）拖地长的
+full-length(1. 16) /'ful'leŋθ/adj．（裙衣）拖地长的 ,长及地面的
 drainage(1. 7)/'dreinidʒ/ n．排水
 
 clay n．黏土
@@ -242,6 +282,8 @@ graceful(1. 17) /'greisfəl/ adj．优雅的
 worship(1. 9) /'wə:ʃip/ n．祟拜
 identity(1. 17) /ai'dentiti/ n．身份
 
+beneath  prep.在下方
+
 **Notes on the text 课文注释**
 
 1 the Aegean island of Kea,爱琴海的基亚岛。爱琴海是东地中海的一部分，位于希腊半岛和小亚细亚之间，它包括希腊半岛以外的许多岛屿。基亚岛位于希腊半岛东南方的海域里。
@@ -251,9 +293,17 @@ identity(1. 17) /ai'dentiti/ n．身份
 2 Ayia irini,阿伊亚.依里尼，意为“圣依里尼”，Irini是希腊文，意为“和平”。
 3 The city at one time must have been prosperous,for it enjoyed a high level of civilization.这座古城肯定一度很繁荣，因为它曾享有高度的文明。must have been是对过去的推测。at one time,一度。
 
-The body of one statue was found among remains dating from the 15th century B.C  
+ many clay pipes were found **beneath the narrow streets(地点状语？)**. 
 
-among remains是状语
+The body of one statue was found **among remains（状语）** dating from the 15th century B.C  
+
+ its missing  head happend **to be among reamins(作主语补语)** of  the century B.C.
+
+they were amazed **to find( 原因状语**) that the goddess  turned out **to be(the goddessd主语补语）** a very modern-looking woman. 
+
+The key seems **to be missing（作主语补语）**.
+
+
 
 
 
@@ -264,13 +314,85 @@ among remains是状语
 
 **本文参考译文**
 
-不久之前，在爱琴海的基亚岛上，考古工作者有一项有趣的发现。一个美国考古队在阿伊亚.依里尼海角的一座古城里考察了一座庙宇。这座古城肯定一度很繁荣，因为它曾享有高度的文明，房子一般有3层楼高，用石块修建。里面房间很大，墙壁装饰华丽。城里甚至还敷设了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水管道。
-
-考古工作者考察的这座庙宇从公元前15世纪直到罗马时代一直是祭祀祈祷的场所。在庙中最神圣的一间殿堂里发现了15尊陶雕像的碎片。每一尊雕像代表一位女神，而且一度上过色。其中有一尊雕像，她的躯体是在公元前15世纪的历史文物中发现的，而她那身异处的脑袋却碰巧是在公元前5世纪的文物中找到的。她的脑袋一定是在古希腊罗马时代就为人所发现，并受到精心的保护。却使在当时，它也属历史悠久的珍奇之物。考古工作者把这些碎片重新拼装起来后，惊奇地发现那位女神原来是一位相貌十分摩登的女郎。
-
-她身高3英尺，双手叉腰。身穿一条拖地长裙，尽管上了年纪，但体态确实优美。不过，考古工作者至今未能确定这位女神的身份。
+不久之前，在爱琴海的基亚岛上，考古工作者有一项有趣的发现。
 
 
+
+
+
+
+
+**some times ago**，an interesting  discovery   **was  made(被发现)**  by  archaeologists on the Aegan island of Kea .
+
+一个美国考古**队**在阿伊亚.依里尼海角的一座**古城**里**考察**了一座庙宇。
+
+An American team **explored** a  temple which stands  in an **ancient city**  on the   promontory of Ayia Irini.   
+
+这座古城肯定**一度**很繁荣，因为它**曾享**有高度的文明，房子一般有**3层楼高**，用石块**修建**。里面房间很大，墙壁**装饰华丽**。
+
+This  city  **at one time**  must have benn prosperous, for it enjoyed a high level of civilation, Houses, often 3 **storeys** heigh,were **built of stone**.
+
+They had large rooms with **beautifully decorated** walls.
+
+城里甚至还**敷设**了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水**管道**。
+
+The city  was even equipped with a drainage systetm, for a great many clay  pipes  were  found beneath  the narrow streets.
+
+
+
+
+
+考古工作者**考察**的这座庙宇从公元前15世纪直到罗马时代一直**是**  **祭祀祈祷**的**场所**。
+
+The temple which archaeologist **explored** was **used as** a place  of **worship**  from the  15 century B.C     until Roman  times.
+
+在庙中最神圣的一间**殿堂**里发现了15尊陶雕像的碎片。
+
+
+
+clay fragments   of   15 statues were found in the most  sacred **room of the temple**.
+
+每一尊雕像**代表**一位女神，而且**一度**上过色。其中有一尊雕像，她的躯体是在**公元前**15世纪的**历史文物**中发现的，而她那身**异处的**脑袋却碰巧是在**公元前**5世纪的文物中找到的。
+
+
+
+
+
+
+
+
+
+Each  of these  statues  representsed  a goddess and had, **at one time**, been  painted.   
+
+The body of one statue  was found  **among remains(作状语)** dating from the  15th century B.c /.
+
+ its missing  head happend **to be among reamins(作主语补语)** of the 5th century B.C.
+
+她的脑袋一定是在古希腊罗马时代就为人所发现，并受到精心的**保护**。
+
+
+
+This head must haven been found in Classical Times,  and preserved carefully.
+
+却使在当时，它也属历史悠久的珍奇之物。
+
+it was old and precious even then .
+
+考古工作者把这些碎片**重新 **  **拼装** 起来后，惊奇地发现那位女神**原来是**一位相貌十分摩登的女郎。
+
+When the archaeologists         **reconstructed**      these fragments,  they were amazed to find that goddess **turned out**  to be  a  very modern-looking woman.
+
+她**身高3英尺**，**双手叉腰**。s
+
+She **stood three  feet high**   and  hers **hands   rested on her hips.**
+
+**身穿一条拖地长裙**，尽管上了年纪，但体态确实优美。
+
+**She was wearing a full-length skirt which swept the ground** , Despite her great age,her body is graceful  indeed .
+
+不过，考古工作者**至今**未能**确定**这位女神的身份。
+
+But, **so far,** archaeologist have been unable to **disvcoved** her identity.
 
 
 
@@ -297,6 +419,12 @@ status n. 地位
 
 fellow  n.同事
 
+in the case of ”或“就……而言”，就像发生在 xxxx的，它用来引导一个具体的例子或实例来说明前面的陈述。
+
+
+
+soon adv。不久地
+
 **Notes on the text 课文注释**
 
 People who work in offices are frequently referred to as "white-collar workers' for the simple reason that they usually wear a collar and tie to go to work.
@@ -316,7 +444,11 @@ such位于句首，起强调作用，后面要用倒装语序， that引导的�
 
  This can give rise to curious situations, as it can give rise to curious situations in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
 
+**Usually**: 通常，大多数情况下，表示规律性较强。
 
+**Frequently**: 频繁地，次数很多，强调频率高，但不一定有规律。
+
+**Often**: 经常，频率高，但没有 "usually" 那样有规律性，稍微比 "frequently" 弱一些。
 
 
 
@@ -329,17 +461,39 @@ worth是介词  worth the loss of money.介词短语
 
 **参考译文**
 
-如今，从事体力劳动的人的收入一般要比坐办公室的人高出许多。坐办公室的之所以常常被称作“白领工人”，就是因为他们通常是穿着硬领白衬衫，系着领带去上班。许多人常常情愿放弃较高的薪水以换取做白领工人的殊荣，此乃人之常情。而这常常会引起种种奇怪的现象，在埃尔斯米尔公司当清洁工的艾尔弗雷德.布洛斯就是一个例子。
+**如今**，**从事**体力劳动的人的收入**一般**要比坐办公室的人高出许多。坐办公室的之所以**常常**被称作“白领工人”，就是**因为**他们通常是穿着硬领白**衬衫**，系着领带去上班。许多人常常情愿放弃较高的薪水以换取做白领工人的**殊荣**，**此乃人之常情**。而这常常会**引起种种奇怪的现象**，在埃尔斯米尔公司当清洁工的艾尔弗雷德.布洛斯就**是一个例子**。
 
-艾尔弗结婚时，感到非常难为情，而没有将自己的职业告诉妻子。他只说在埃尔斯米尔公司上班。每天早晨，他穿上一身漂亮的黑色西装离家上班，然后换上工作服，当8个小时清洁工。晚上回家前，他洗个淋浴，重新换上那身黑色西服。两年多以来，艾尔弗一直这样，他的同事也为他保守秘密。艾尔弗的妻子一直不知道她嫁给了一个清洁工，而且她永远也不会知道了，因为艾尔弗已找到薪职，不久就要坐办公室里工作了。他将来挣的钱只有他现在的一半。不过他觉得，地位升高了，损失点儿钱也值得。从此，艾尔弗可以一天到晚穿西服了。别人将称呼他为“布洛格斯先生”，而不再叫他“艾尔弗”了。
+**These days**， people who do manual work   often receive far more mony than people who work in offices。
+
+People who work in offices **are frequently referred to as** ‘White collar’  for the simple
+
+reason  that     the usually wear a collar and tie  to go to work.  **Such is human nature** , that a great many people are often willing to sacrifice higher pay for the  **privilege**    of  becoming white colla workers.
+
+this can give rise to **curious situations**，as it did  **in the case of**  Alfred Bloggers who worked as a dustman for the Ellesmere   coperate。
 
 
+
+
+
+
+
+
+
+艾尔弗结婚时，感到非常难为情，而没有将自己的职业告诉妻子。他**只**说**在**埃尔斯米尔公司**上班**。每天早晨，他穿上一身漂亮的黑色西装离家上班，**然后**换上工作服，当8个小时清洁工。晚上回家前，他洗个淋浴，**重新 **   **换上**那身黑色西服。两年多以来，艾尔弗一直这样，他的同事也为他保守秘密。艾尔弗的妻子一直不知道她嫁给了一个清洁工，而且她永远也不会知道了，因为艾尔弗已找到薪职，不久就要坐办公室里工作了。他将来挣的钱只有他现在的一半。不过他觉得，地位升高了，损失点儿钱也值得。**从此**，艾尔弗可以**一天到晚**穿西服了。**别人**将称呼他为“布洛格斯先生”，而不再叫他“艾尔弗”了。
+
+When Alfred got married， he was to embarrassed to say anything to his wifte about his job。  He simply told that he worked for the coporation。 Every morning， he left home dressed in a smart black suit   .He **then** changed into overalls and spent the next eight hours as a dustman .
+
+Before he returing  home ,he took a shower and **changed back into** his suit.   Alfred did this for over two years, and his fellow kept his secret.  Alfred 's wife has never discoverd that she married  a dustmen and she will never will.
+
+ For Alfred has just found another job ,he will soon be wokring in an office .
+
+he will be earning only half （这里的half作名词）as much as he used to, but the feels that he rise in status is well worth the loss of money.
+
+ **Form now on** ,Alfred will wear a suit  **all day** and    **others** e will call him Mr Bloggers ,not Alfred.
 
 
 
 ![](l4_such_that.png)
-
-
 
 
 
@@ -375,11 +529,53 @@ reluctantly  adv.勉强地
 5 go to press, 付印。
 6 Not only had the poor man been arrested, but he had been sent to prison as well. 这是 not only… but… as well 引导的并列句子，如果将not only置于句首，后面主谓语应采取倒装结构。
 
+
+
+However, he had at last been allowed to send a fax in which he informed the editor that the he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
+
+"in which he informed the editor" 是一个定语从句，修饰 "a fax"，说明他在这封传真中通知编辑的内容。
+
 **参考译文**
 
-报刊杂志的编辑常常为了向读者提供成立一些无关紧要的事实和统计数字而走向极端。去年，一位记者受一家有名的杂志的委托写一篇关于非洲某个新成立共和国总统府的文章。稿子寄来后，编辑看了第一句话就拒绝予以发表。文章的开头是这样的：“几百级台阶通向环绕总统府的高墙。”编辑立即给那位记者发去传真，要求他核实一下台阶的确切数字和围墙的高度。
+报刊杂志的编辑**常常**为了向读者提供成立一些无关紧要的事实和统计数字而走向极端。去年，一位记者**受**一家有名的杂志的**委托**写一篇关于非洲某个新成立共和国总统府的文章。稿子寄来后，编辑看了第一句话就拒绝予以**发表**。文章的**开头**是这样的：“几百级台阶通向环绕总统府的高墙。”编辑立即给那位记者发去传真，要求他**核实**一下台阶的确切数字和围墙的高度。
 
-记者立即出发去核实这些重要的事实，但过了好长时间不见他把数字寄来。在此期间，编辑等得不耐烦了，因为杂志马上要付印。他给记者先后发去两份传真，但对方毫无反应。于是他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑无奈，勉强按原样发稿了。一周之后，编辑终于接到了记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。不过，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的 1，084级台阶时，被抓了起来。
+
+
+Editors of newspapers and magazines often go to extremes to provide  their readers with unimportant fact s and statistics .
+
+Last year  a journalist  had been **instructed**  by a well-known magazine  to write an article on **president's palace** in a new African republic .
+
+ When the article arrived, the editor read the first sentence  and then refused to  publish it.
+
+The article  began:" "Hundreds of steps lead to the high wall which surrounds the president's palace ".
+
+The editor at once  sent a fax **instructing**  him to find out the exact number of steps and the height of wall.
+
+
+
+
+
+
+
+记者立即出发去**核实**这些重要的事实，但过了好长时间不见他把数字**寄**来。**在此期间**，编辑等得不耐烦了，因为杂志马上要付印。他给记者**先后**发去两份传真，但对方毫无反应。**于是**他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑**无奈**，勉强按原样发稿了。一周之后，编辑终于接到了记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。**不过**，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的 1，084级台阶时，被抓了起来。
+
+The journalist immediately set out to obtain these important facts, but he took a long time to send them.  **Meanwhile** ,the editor was  getting  impatient ,for the magazine would soon go to press .
+
+He sent the journalist two  more  faxes ， but  received no reply.
+
+He sent  yet another fax informing the  journalist that if he didn't reply soon, he would be fired.
+
+When the journalist again failed to reply，the editor reluctantly published  the article  **as it  had originally been written(**引导方式状语从句).
+
+A week later  , the editor at last received the fax  from  journalist.
+
+Not only had  the poor journalist  been arrested,but he had been sent to jail.
+
+However, he  had  at last been allowed to send a fax  in which he informed the editor that he had been arrested while counting the  1084 steps leading to the 15 feet wall   which  surrounded by president' palace.
+
+
+
+
 
 
 
@@ -517,6 +713,11 @@ Easter（1. 16）/'i:stə/n．复活节
 
 1 Now that a tunnel has been built through the mountains，由于一条穿山隧道已经开通。now that是连词，当“既然”，“由于”讲，引导一个原因状语从句，说明一种新情况。
 2 As there are so many people about, …about为副词，作“在附近”，“到处”讲。也可用around表示。
+
+  词性 - 副词修饰名词
+the rabbit here runs very fast。
+
+
 3 The monks prefer winter to summer，修道士们喜欢冬天而不喜欢夏天。 prefer…to…有“喜欢……而不喜欢……”的意思，to的前后要用名词或动名词来表示所对比的事物或活动。
 
 **参考译文**
@@ -640,13 +841,13 @@ at that time ,this  ship was not only the largest ship  that had ever been built
 
 for the ship  had/consits of 16  watertight  comparments, even if two of these were flooded, the boat would still be able to float . however ,for this boat went down on her  first voyage with heavy loss of life, . the tragic sinking of this great  liner  will **always**  be  rememberd
 
-“泰坦尼克”起航后的第4天，它正行**驶**     **在** 北大西洋冰冷的海面上。突然，瞭望员发现一座冰山。警报**响**过不久，巨轮急转弯，以**避免**与冰山正面相撞。“泰坦尼克”这个弯拐得**及时**，**紧贴着**高出海面100英尺的巨大的冰墙**擦**过去。突然，从船舱**下部** **传来**一声轻微的**颤**音，船长走下船舱去查看究竟。由于这个声音非常**轻**，没人会想到船身已遭损坏。**在下面**，船长**惊恐地**发现“泰坦尼克”号正在急速下沉，16个密封舱已有5个进水。于是，他**发出**了弃船**的命令**，几百人跳进了**冰冷刺骨**的海水里。由于没有足够的救生艇运载所有乘客，结果1，500人**丧生**。
+“泰坦尼克”起航后的第4天，它正行**驶**     **在** 北大西洋冰冷的海面上。突然，瞭望员发现一座冰山。警报**响**过不久，巨轮急转弯，以**避免**与冰山**正面**collision。“泰坦尼克”这个弯拐得**及时**，**紧贴着**高出海面100**英尺**的巨大的冰墙**擦**过去。突然，从船舱**下部** **传来**一声轻微的**颤**音，船长走下船舱去查看究竟。由于这个声音非常**轻**，没人会想到船身已遭损坏。**在下面**，船长**惊恐地**发现“泰坦尼克”号正在急速下沉，16个密封舱已有5个进水。于是，他**发出**了弃船**的命令**，几百人跳进了**冰冷刺骨**的海水里。由于没有足够的救生艇运载所有乘客，结果1，500人**丧生**。
 
 4 days after setting out , while the titanic  was sailing across  the icy waters  of the  north Atlantic .
 
- a iceberg was  sudddenly spotted by a lookout, After the alarm had been **given**,  the great ship turned sharply   to avoid a direct  collision.
+ a iceberg was  sudddenly spotted by a lookout, After the alarm had been **given**,  the great ship turned sharply   to avoid a direct  **collision**.
 
-the titanic turned just **in time** ,**narrowly** **missing** the **immense** wall of ice which rose over100 feet out of the water beside her.
+the titanic turned just **in time** ,**narrowly** **missing（避开）** the **immense** wall of ice which rose over100 **feet** out of the water beside her.
 
 suddenly,there was  a slight  **trembling** soud    from below          ，and  the captain went down to see what had happend ,.     The noise had  been so **faint**  that no one thought that the ship had been damaged,.
 
@@ -667,7 +868,7 @@ Customs Officers are quite tolerant these days, but they can still stop you when
 
 ‘Have you anything to declare? ’ he asked, looking me in the eye.
 ‘No, ’ I answered confidently.
-‘Would you mind unlocking this suitcase please? ’
+‘Would you mind unlocking （mind 后面一般加动名词）this suitcase please? ’
 ‘Not at all, ’ I answered.
 
 The Officer went through the case with great care. All the things I had packed so carefully were soon in a dreadful mess. I felt sure I would never be able to close the case again. Suddenly, I saw the Officer's face light, up. He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
@@ -689,7 +890,19 @@ clearly adv.明显的
 
 smuggler（1. clearly 4）/'smʌglə/n．走私者
 
+
+
 Customs Officer 海关官员
+
+Customs n.海关
+
+custom  n.习俗 ;adj.定制
+
+customer n.顾客
+
+costume n.服装 
+
+
 
 officious（1. 7）/ə'fiʃəs/adj．爱管闲事的
 
@@ -737,12 +950,38 @@ confidently（1. 10）/'kɔfidəntli/ady．自信地
 
 **Notes on the text 课文注释**
 
+ 原句 honest people are often made to feel guilty    （变成被动语态后， 就不受谓语made 管了， 所以可以加上 to ）
+
+改成主动    someone  made honset people   feel  guilty.  （ to feel guilty 不定式作people宾语补,   因为是made使役动词，to 省略， 但是people 受到 made 制约）
+
+
+
+‘Have you anything to declare?      古文版  √
+
+Do you have anything to declare？  标准  √
+
+
+
+
+
+
+
 1 the Green Channel，绿色通道，指海关专供没有携带征税物品进关的旅客所走的通道。
 2 hidden in his suitcase是过去分词短语作定语，修饰watches，它相当于一个定语从句：which were hidden in his suitcase.
 3 looking me in the eye，直盯着我的眼睛，这是分词短语作状语，表示方式，修饰 asked。
+
 4 The officer went through，这里go through作“检查”讲。
 5 in a dreadful mess （或 in a mess），乱七八糟，混乱透了。
-6 I saw the Officer's face light up．我看到那位官员的脸上露出了得意的神色。
+6 I saw the Officer's face light up．我看到那位官员的脸上露出了得意的神色。 在使用使役动词（如 "make"、"let"）或感官动词（如 "see"、"hear"、"watch"，看到你做了，那你已经做了，所以可以去掉to，to有将来的意思）时，后面的动词通常用原形。light up 是宾语补语
+
+
+
+I saw the Officer's face lighting up表示一个时刻
+
+I saw the Officer's face light up 表示过程
+
+
+
 7 You should have declared that．你早该申报了。“should +不定式的完成式”表示本该做而未做之事。
 8 be exempt from 作“免除”、“豁免”解。
 
@@ -752,13 +991,13 @@ confidently（1. 10）/'kɔfidəntli/ady．自信地
 
 **参考译文**
 
-**现在的**海关官员往往相当宽容。但是，当你**通过**绿色通道，没有任何东西需要申报时，他们仍可以拦住你。甚至是最诚实的人也常被弄得觉得有罪似的，而老练的职业走私犯即使在手提箱里藏着500只金表，**却**也**处之泰然**。最近一次，我出国**归来**，碰上一位特别好管闲事的年轻海关官员，他显然把我**当**成了走私犯。
+**现在的**海关官员往往相当宽容。但是，当你**通过**绿色通道，没有任何东西需要申报时，他们仍可以拦住你。甚至是最诚实的人也常**被弄得**觉得有罪似的，而老练的职业走私犯即使在手提箱里**藏**着500只金表，**却**也**处之泰然**。最近一次，我出国**归来**，碰上一位**特别 ****好管闲事**的年轻海关官员，他**显然**把我**当**成了走私犯。
 
 Customs officer are quite tolerant these days .But,when you are going through the Green Channel and having nothing to declaret the could still stop you .Even really  honest people are often made to feel guity
 
-the  handerd professional  smuggler is   **never troubled by such feelings** ，ont the  other hand,even if  he has  five hundred gold watches hidden   in his  suitcase 。
+the  **hardened** professional  smuggler is   **never troubled by such feelings** ，ont the  other hand,even if  he has  five hundred gold watches hidden   in his  suitcase 。
 
-When  i **returned from abord** recently, a particulatly officious young Customs office clearly  **regarded** me as a smuggler. 
+When  i **returned from abord** recently, a particulatly **officious** young Customs office **clearly**  **regarded** me as a smuggler. 
 
 
 
@@ -770,7 +1009,7 @@ have you anything  to declare? he asked me ,looking me in the eye
 
 no,i answered confidently
 
-“**请****打开**这只手提箱好吗？”
+“**请******打开****这只手提箱好吗？”
 
 would you mind  **unlocking**  this suitcase  please?
 
@@ -778,14 +1017,14 @@ would you mind  **unlocking**  this suitcase  please?
 
 Not at all,  i answered.
 
-那位官员十分仔细地把箱子检查了一遍。**所有**细心包装好的**东西**一会儿工夫就乱成了一团。我相信那箱子再也关不上了。突然，我看到官员脸上**露出了得意的神色**。他在我的**箱底****发现**了一只小瓶，高兴地一把抓了起来。
+那位官员十分仔细地把箱子检查了一遍。**所有**细心包装好的**东西****一会儿工夫**就乱成了一团。我**相信**那箱子**再也关不上了**。突然，我看到官员脸上**露出了得意的神色**。他在我的**箱底******发现****了一只小瓶，高兴地一把抓了起来。
 
 that office went through the suitcase **with great care.**  all the things that i had  packed carefully  were **soon** in  a  dreadful mess, i felt sure that  i would  never be able to  close the case again。  Suddenly， i  saw the officer's face light up。 he had spotted a tiny bottle at the bottom of the case and he  pounced on it with delight.
 
 
 
 “香水，嗯？”他讥讽地说道，“你**刚才****应该**申报，香水要上进口税的。”
-“不，这不是香水，”我说，“是发胶。”****接着我脸带微笑补充说****：“这是一种我自己配制的奇特的混合物。”**果不出所料**，他并不相信我。
+“不，这不是香水，”我说，“是发胶。”接着我脸带微笑补充说**：“这是一种我自己配制的奇特的混合物。”**果不出所料**，他并不相信我。
 “你就闻一闻吧！”我催促说。
 
 perfume,eh?. he  sarcastically  said         you should have declared that       ,         perfume is not exempt  from  import duty.
@@ -796,7 +1035,211 @@ But ,it is not perfume, i said, "it s hair gel"     then   **i  added  with smil
 
 " try it "  i encouragingly said
 
-海关官员拧开瓶盖，把瓶子放到鼻子底下。一股怪味**袭来**，使他相信了我说的是真话。**几分钟**后，我终于被放行，手提划着宝贵的粉笔记号的**行李**，**匆匆离去**。
+海关官员拧开瓶盖，把瓶子放到鼻子底下。一股**怪**味**袭来**，使他相信了我说的是真话。**几分钟**后，我**终于被****放行**，手提划着宝贵的粉笔记号的**行李**，**匆匆离去**。
 
-The customs office  unscrewed the cap and  put the bottle to his nostril.    He **was  greeted by** an unpleasent smell which convienced him that i was telling the trurh, A few fminutes later , i  was able to **hurry away**   with  precious chalk marks on my  **baggage**.
+The customs office  unscrewed the cap and  put the bottle to his nostril.    He **was  greeted by** an unpleasant  smell which convienced him that i was telling the trurh, A few fminutes later , i  was able to **hurry away**   with  precious chalk marks on my  **baggage**.
+
+## Lesson 12 Life on a desert island 荒岛生活
+
+
+What was exceptional about the two men's stay on the desert island?
+
+Most of us have formed an unrealistic picture of life on a desert island. We sometimes imagine a desert island to be a sort of paradise where the sun always shines. Life there is simple and good. Ripe fruit falls from the trees and you never have to work. The other side of the picture is quite the opposite. Life on a desert island is wretched. You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes. Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.
+
+Two men who recently spent five days on a coral island wished they had stayed there longer. They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired. During the journey, their boat began to sink. They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island. There were hardly any trees on the island and there was no water, but this did not prove to be a problem. The men collected rainwater in the rubber dinghy. As they had brought a spear gun with them, they had plenty to eat. Theycaught lobster and fish every day, and, as one of them put it ‘ate like kings’. When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.
+
+**New words and expressions 生词和知语**
+
+exceptional adj,异常的，罕见的，杰出的，特别的
+
+unrealistic adj.不切实际的
+
+deset adj.无人的;
+
+desert island（title）/'dezət-ailənd/荒岛
+
+picture n.想法
+
+ripe adj.成熟的
+
+wretched（1. 6）/'retʃid/adj．可怜的，艰苦的
+
+starve（1. 6）/sta:v/v．挨饿
+
+opposite n.  n, 对立 
+
+coral（1. 9）/'kɔrəl/n．珊瑚
+
+hardly  adv.几乎没有
+
+rubber  adj.橡皮的
+
+rubber dinghy  n。橡皮艇
+
+rowed  v.划
+
+spear  n.矛
+
+spear gun（1. 14）/'spiə-gʌn/捕鱼枪
+
+tanker（1. 15）/'tæŋkə/n．油轮
+
+put v.说 
+
+Miami（1. 10）/mai'æmi/n．迈阿密（美国最南的城市）
+unrealistic（1. 1）/'ʌnriə'litik/adj．不真实的
+paradise（1. 2）/'pærədaiz/n．天堂，乐土
+dinghy（1. 11）/'diŋgi/n．救生筏，小船
+wretched（1. 6）/'retʃid/adj．可怜的，艰苦的
+Caribbean（1. 12）/kæri'bi:ən/n．加勒比海
+element（1. 7）/'elimənt/n．成分
+lobster（1. 15）/'lɔbstə/n．龙虾
+opportunity（1. 8）/'ɔpə'tju:niti/n．机会
+genuinely（1. 16）/'dʒenjuinli/adv．由衷地
+Virgin Islands （1. 10）/'və:dʒin'ailəndz/维尔京群岛
+Robinson Crusoe （11. 6-7）/'rɔbinsən'kru:səu/鲁滨孙·克鲁索（小说《鲁滨孙漂流记》主人公）
+
+**Notes on the text 课文注释**
+
+1 imagine…to be…，作“想像……是……”，“设想……是……”讲。不定式to be引起的短语作宾语补足语。
+2 quite the opposite，完全相反，截然不同。  opposite在这里是名词
+3 starve to death，饿死。
+4 …wished they had stayed there longer.
+……还真希望在那里多呆些日子。wish引起的宾语从句常用虚拟语气。
+5 as one of them put it，正如其中一位所说的。**Put**: 在这个上下文中，表示 "说" 或 "表达" 的意思。
+
+**参考译文**
+
+我们许多人对于荒岛生活**有**一种不切实际的想法。我们有时想像荒岛是阳光终日普照的天堂。在那里，生活简单又美好。成熟的水果从树上掉下来，人们根本无需劳动。**另一种想法恰恰相反**，认为荒岛生活很可怕，要么饿死，要么像鲁滨孙那样，天天盼船来，却总不见船影。也许，**这两种想像都有可信之处**。但很少有人能有机会去弄个究竟。
+
+
+
+Most of us  have **formed**  an unrealistic  picture of life on a desert island。 we sometimes imagine  the island to be a sort of （有点，） paradise where the  sun always shines。   life  there is simple and good。Ripe fruit  falls from the trees and  people never have to work, **the other side  of picture  is on the opposite** .Life on a desert island is wretched.  You either starve to death or live like  Robinson Crusoe,
+
+，waiting for a  boat which never comes。   Perhap**s there is an elemnent  of truth in both these pictures**，but few of us have had the opportunity to find out.
+
+
+
+
+
+
+
+最近有两个人在一座珊瑚岛上呆了5天，他们真希望在那儿**再多******待****一些日子。他们****驾****着一条严重损坏的小船从维尔京群岛去迈阿密修理。**途中**，船开始下沉，他们迅速把食物、火柴、罐装啤酒往一只救生筏上**装**。然后在加勒比海上划行了几英里，到了一座珊瑚岛上。
+
+岛上几乎没有一棵树，也没有淡水，但这不算什么问题。他们用橡皮艇**蓄积**雨水。**由于**他们随身**带**了一支捕鱼枪，因此，吃饭不愁。他们天天捕捉龙虾和鱼，正如其中一位所**说**，吃得“像国王一样好”。5天后，一条油轮从那儿**路过**，搭救了他们。这二位不得不离开那个荒岛时，还真的感到**遗憾**呢！
+
+Recently two men  who spent five days on a coral island wished they had  stayed longer. there were taking a  badly damaged boat from    Virgin Islands to  Miami to  have it repaired,  **During the journey**, the boat began to sink,  they rapidly loaded  a  small rubber dinghy  with the food ,matches, and cans of beer  and rowed for a few miles  acrossed the Caribbean util they arrived  at coral island。
+
+they **were hardly  any trees**  on the island and there was no water。**but this didnt prove to be a problem**。 they  collected  rainwater in the  rubber dinghy  。**As **they had brought a spear gun with them ,    they had plenty to eat. the caught lobster and fish every day. **as one of them   put it like** 'ate like kings',  
+
+when a passing tanker rescued them five days later,both men were   genuinely **sorry** that they had to leave.
+
+
+
+
+
+
+
+## Lesson 13 It's only me 是我，别害怕
+
+What did the man expect to find under the stairs?
+
+After her husband had gone to work, Mrs. Richards sent her children to school and went upstairs to her bedroom. She was too excited to do any housework that morning, **for in the evening she would be going to** a fancy-dress party with her husband. She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on. Though the costume consisted only of a sheet, it was very effective. After putting it on, Mrs Richards went downstairs. She wanted to find out whether it would be comfortable to wear.
+
+Just as Mrs. Richards was entering the dining room, there was a knock on the front door. She knew that it must be the baker. She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table. Not wanting to frighten the poor man, Mrs Richards quickly hid in the small storeroom under the stairs. She heard the front door open and heavy footsteps in the hall. Suddenly the door of the storeroom was opened and a man entered, Mrs Richards realized that it must be the man from the Electricity Board who had come to read the metre. She tried to explain the situation, saying‘It's only me’, but it was too late. The man let out a cry and jumped back **several paces**. When Mrs. Richards walked towards him, he fled, slamming the door behind him.
+
+**New words and expressions 生词和短语**
+
+costume（1．5）/'kɔstjum/n. 化装服
+storeroom（1．13）/'stɔ:rum/n. 储藏室
+consist（1．6）/kən'sist/v. 由……组成
+electricity（1．14）/i'lek'tristi/n. 电
+sheet（1．7）/ʃi:t/n. 被单
+metre（1．14）/'mi:tə/n. 电表
+effective（1．7）/i'fektiv/adj. 有明显效果的，有作用的
+pace（1．15）/peis/n. 一步
+flee（1．16）/fli:/(fled/fled/, fled)v. 逃走
+comfortable（1．8）/'kʌmftəblə/adj. 舒适的
+
+slam（1．16）/slæm/v. 砰地关上
+
+fancy n.幻想
+
+
+
+**Notes on the text 课文注释**
+
+1 would be going, **是过去将来进行时**，用来表示过去预计将要发生的动作。
+2 fancy-dress party化装舞会。
+3 dress up as, 化装成……。
+4 try it on, it指costume, try on是“试穿”、“试戴”。
+5 just as…, 正当……的时候。
+
+knock n.敲门
+
+6 She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table. 她曾告诉过他，如果她没去开门，他可直接进来，把面包放在厨房的桌子上。if ever在条件句中表示强调，可译作“任何时候”。to come straight in指“直接进来”。 straght 做副词，意思是直接地
+
+come straight in 
+
+hall n.走廊
+
+read the metre  查电表
+
+7 Not wanting to frighten the poor man, 不想去吓唬这个可怜的人。这是现在分词短语的否定形式，作目的状语。
+
+paces n. 步伐
+
+footsteps n. 脚步声;
+
+
+
+
+
+the night before，
+
+that morning ,
+
+several paces  
+
+时间性质的，距离的 名词短语 自带状语属性
+
+
+
+She had told him **to come** straight in if ever she failed to open the door and **to leave** the bread on the kitchen table
+
+ **to come** 和  **to leave**  都是 him的宾补
+
+**参考译文**
+
+理查兹夫人等丈夫**上班**走**后**，把孩子送去上学，**然后**来到楼上自己的卧室。那天上午，她兴奋得什么**家务**活都不想做，因为晚上她**要**同丈夫一起去参加一个化装**舞会**。她打算**装扮**成鬼的模样。头天晚上她已把化装服做好，**这时她急于想试试**。尽管化装服**仅**由一个被单制成，却十分**逼真**。理查兹夫人穿上化装服后下了楼，想看看穿起来是否舒服。
+
+After Mrs Richards  ‘s husband had **gone to work**，She sent her childeren to school and went upstairs to her bedroom.she was too excited to do any  housework  that morning ,for in the evening she would be going to a facncy-dress party with her husband.
+
+ She intended to **dress up** as a ghost and as she had made her costume **the** **night before**, she **was impatient to try it on.**
+
+ Although the dress consisted  only of a sheet, it was very **effective**.   
+
+After putting it on,  Mrs Richards  went downstairs. she wanted to find out whether it would be comfortable to wear.
+
+
+
+
+
+理查兹夫人**刚刚****走进**餐厅，前门就传来敲门声。她知道来人一定是面包师。她曾告诉过面包师，如果她不去开门，他可直接进门，把面包放在厨房的桌上。理查兹夫人不想吓唬这个可怜的人，便赶紧躲到了楼梯下的小储藏室里。她听见前门被打开，****走廊里响起了重重的脚步声****。突然贮藏室门开了，一个男人走了进来。理查兹夫人**这才想到一**定是供电局来人查电表了。她说了声“是我，别怕！”然后想进行**一番****解释**，但已来不及了。那人****大叫**了一声**，**惊退了几步**。理查兹夫人朝他走去，只见他“砰”的一声关上门**逃走**了。
+
+Just as Mrs. Rechard was entering the dining room,  there was a knock(n.名词) on the front door.  She knew that it must be a baker.  
+
+ She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table.
+
+Not wanting to frighten the poor man, Mrs Richards quickly hid in the small storeroom under the stairs
+
+She heard the front door open and heavy footsteps in the hall.
+
+Suddenly the door of the storeroom was opened and a man entered, Mrs Richards realized that it must be the man from the **Electricity Board** who had come to **read the metre**.
+
+ She tried to explain the situation, saying‘It's only me’, but it was too late. 
+
+
+
+The man **let out a cry** and **jumped back** **several paces**. When Mrs. Richards walked towards him, he **fled**, slamming the door behind him.
 

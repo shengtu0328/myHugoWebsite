@@ -103,3 +103,24 @@ might
 I wish (that) I could eat the carrot.
 
 我希望我能吃那只胡萝卜
+
+### 虚拟语气
+
+if i can fly
+
+if i could fly。 如果我能飞（但是人类并不会飞）
+
+虚拟语气代表一种实际不会发生的情况，
+
+if i can help you，i will definitely do so。
+
+if i could help you，i would definitely do so。如果我能帮你（实际上我帮不了你）
+
+
+
+![](语法规则.jpg )
+
+
+
+![](未来现在.jpg)
+
