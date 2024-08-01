@@ -6,41 +6,68 @@ draft: true
 
 
 
-同义词
+## 同义词thesaurus
 
-| at once，immediately | 马上 |
-| -------------------- | ---- |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
-|                      |      |
+| at once，immediately                                         | 马上             |
+| ------------------------------------------------------------ | ---------------- |
+| a great many,a good deal of，large sums of                   | adj.许多         |
+| accurate,precise                                             | adj.准确的       |
+| Meanwhile，During the xxx                                    | 期间             |
+| feline，cat                                                  | n 猫             |
+| human beings, humans                                         | 人类             |
+| Apparently,Obviously                                         | adv.显然地       |
+| of their own ，on their own                                  | 他们自己         |
+| common,popular                                               | adj.普遍的       |
+| but, yet                                                     | conj, 但是       |
+| However                                                      | 然而             |
+| drop,reduce，deduct                                          | 下降             |
+| So long as ，as long as                                      | 只要             |
+| robbery，raid                                                | n.抢劫           |
+| In spite of ，Desipte                                        | 尽管             |
+| chase，run after                                             | 追逐             |
+| slight  ，faint                                              | 轻微的           |
+| great，large，colossal                                       | adj.巨大的       |
+| dinghy（艇）  ，boat，ship，liner，                          | 船(体型从小到大) |
+| gaze, stare                                                  | v.凝视           |
+| captivate，fascinate                                         | v.吸引           |
+| blatantly，in public                                         | v.公然地         |
+| rotate,twist                                                 | v.旋转           |
+| promptly（准时，马上），immediately（马上），rapidly（快速地），quickly |                  |
+| give，  provides  ，provide  sb with sth和provide sth for sb |                  |
+| When it comes to/Speaking of  说到。。。。                   |                  |
+|                                                              |                  |
+|                                                              |                  |
+|                                                              |                  |
+|                                                              |                  |
+|                                                              |                  |
+|                                                              |                  |
+|                                                              |                  |
+|                                                              |                  |
 
 
 
 
+## 派生词
 
+| statistics |      |
+| ---------- | ---- |
+|            |      |
+|            |      |
+|            |      |
 
+## 长得像的词
 
-
-
-
+| fantastic；fascinate | adj.好极了;v。入迷 |
+| -------------------- | ------------------ |
+| identify；identity   | v.识别；n.身份     |
+| complain;compliment  | v.抱怨；v,n.称赞   |
+| twist，swift         | v.旋转;adj.迅速的  |
+| state（n.状态，州，国家），status（n.状态），    statue(n.雕像) |  |
+|         |  |
+|         |  |
+|         |  |
+|         |  |
+|         |  |
 
 ## Lesson 1 A puma at large 逃遁的美洲狮
 
@@ -178,7 +205,9 @@ managed （to get enough money )(to have the church clock repaired状语).    o 
 
 1 woke up with a start:...
 with a start,由于受到惊动，惊醒了。冒号后面是一个解释性的分句，是对start所作的具体说明。
-2 recognize as,认出是。 he immediately recognized （whom ）as Bill Wilkins 定语从句
+
+冒号后面可以跟短语 ，句子。但冒号后的句子开头要小些，且句子是起到补充说明的意思2 recognize as,认出是。 he immediately recognized （whom ）as Bill Wilkins 定语从句
+
 3 Whatever are you doing up here?你究竟在这上面干什么。
 whatever 用于疑问句中，用以加强 what 的语气，作“究竟什么”解，口语中很常用。
 4 You certainly did give me a surprise!你确实使我感到意外！
@@ -274,6 +303,8 @@ clay n．黏土
 
 statue  n．雕像
 
+
+
 goddess n.女神
 
 hip n.髋
@@ -288,7 +319,7 @@ beneath  prep.在下方
 
 1 the Aegean island of Kea,爱琴海的基亚岛。爱琴海是东地中海的一部分，位于希腊半岛和小亚细亚之间，它包括希腊半岛以外的许多岛屿。基亚岛位于希腊半岛东南方的海域里。
 
- many clay pipes were found beneath the narrow streets. beneath the narrow streets.是补语
+ many clay pipes were found beneath the narrow streets. beneath the narrow streets.是补语—
 
 2 Ayia irini,阿伊亚.依里尼，意为“圣依里尼”，Irini是希腊文，意为“和平”。
 3 The city at one time must have been prosperous,for it enjoyed a high level of civilization.这座古城肯定一度很繁荣，因为它曾享有高度的文明。must have been是对过去的推测。at one time,一度。
@@ -314,7 +345,7 @@ The key seems **to be missing（作主语补语）**.
 
 **本文参考译文**
 
-不久之前，在爱琴海的基亚岛上，考古工作者有一项有趣的发现。
+**不久之前**，在爱琴海的基亚岛上，考古工作者有一项有趣的发现。
 
 
 
@@ -324,19 +355,19 @@ The key seems **to be missing（作主语补语）**.
 
 **some times ago**，an interesting  discovery   **was  made(被发现)**  by  archaeologists on the Aegan island of Kea .
 
-一个美国考古**队**在阿伊亚.依里尼海角的一座**古城**里**考察**了一座庙宇。
+一个美国考古**队**   **在**阿伊亚.依里尼**海角**的一座**古城**里**考察**了一座庙宇。
 
 An American team **explored** a  temple which stands  in an **ancient city**  on the   promontory of Ayia Irini.   
 
 这座古城肯定**一度**很繁荣，因为它**曾享**有高度的文明，房子一般有**3层楼高**，用石块**修建**。里面房间很大，墙壁**装饰华丽**。
 
-This  city  **at one time**  must have benn prosperous, for it enjoyed a high level of civilation, Houses, often 3 **storeys** heigh,were **built of stone**.
+This  city  **at one time**  must have been prosperous, for it enjoyed a high level of   **civilization**, Houses, often 3  **storeys** heigh,were **built of stone**.
 
 They had large rooms with **beautifully decorated** walls.
 
 城里甚至还**敷设**了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水**管道**。
 
-The city  was even equipped with a drainage systetm, for a great many clay  pipes  were  found beneath  the narrow streets.
+The city   **was  even equipped with** a drainage systetm, for a great many clay  pipes  were  found beneath  the narrow streets.
 
 
 
@@ -344,7 +375,7 @@ The city  was even equipped with a drainage systetm, for a great many clay  pipe
 
 考古工作者**考察**的这座庙宇从公元前15世纪直到罗马时代一直**是**  **祭祀祈祷**的**场所**。
 
-The temple which archaeologist **explored** was **used as** a place  of **worship**  from the  15 century B.C     until Roman  times.
+The temple which archaeologist **explored** was **used as** a place  of  **worship** from the  15 century B.C     until Roman  times.
 
 在庙中最神圣的一间**殿堂**里发现了15尊陶雕像的碎片。
 
@@ -352,7 +383,7 @@ The temple which archaeologist **explored** was **used as** a place  of **worshi
 
 clay fragments   of   15 statues were found in the most  sacred **room of the temple**.
 
-每一尊雕像**代表**一位女神，而且**一度**上过色。其中有一尊雕像，她的躯体是在**公元前**15世纪的**历史文物**中发现的，而她那身**异处的**脑袋却碰巧是在**公元前**5世纪的文物中找到的。
+每一尊雕像**代表**一位女神，而且**一度**上过色。其中有一尊雕像，她的躯体是在**公元前**15世纪的**历史文物**中发现的，而她那**身****异处的**脑袋却碰巧是在**公元前**5世纪的文物中找到的。
 
 
 
@@ -376,7 +407,7 @@ This head must haven been found in Classical Times,  and preserved carefully.
 
 却使在当时，它也属历史悠久的珍奇之物。
 
-it was old and precious even then .
+it was old and **precious** **even then .**
 
 考古工作者把这些碎片**重新 **  **拼装** 起来后，惊奇地发现那位女神**原来是**一位相貌十分摩登的女郎。
 
@@ -386,7 +417,7 @@ When the archaeologists         **reconstructed**      these fragments,  they we
 
 She **stood three  feet high**   and  hers **hands   rested on her hips.**
 
-**身穿一条拖地长裙**，尽管上了年纪，但体态确实优美。
+**身穿一条拖地长裙**，**尽管**上了年纪，但体态确实优美。
 
 **She was wearing a full-length skirt which swept the ground** , Despite her great age,her body is graceful  indeed .
 
@@ -400,7 +431,7 @@ But, **so far,** archaeologist have been unable to **disvcoved** her identity.
 
 ## Lesson 4 The double life of Alfred Bloggs
 
-These days, people who do manual work often receive far（far是副词） more money than people who work in offices. People who work in offices are frequently referred to as "white-collar workers' for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+These days, people who do manual work often receive far（far是副词） more money than people who work in offices. People who work in offices are frequently referred to as "white-collar workers' for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. **This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.**
 
 When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night. He took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.
 
@@ -500,9 +531,9 @@ he will be earning only half （这里的half作名词）as much as he used to, 
 ##  Lesson 5 The facts 确切数字
 
 
-Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refused to publish it. The article began: ‘Hundreds of steps lead to the high wall which surrounds the president's palace. ’The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
+Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refused to publish it. The article began: ‘Hundreds of steps lead to the high wall which surrounds the president's palace. ’The editor at once sent the journalist a fax instructing（现在分词作后置定语） him to find out the exact number of steps and the height of the wall.
 
- The journalist immediately set out to obtain these important facts, but he took a long time to send them Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that the he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
+ The journalist immediately set out to obtain these important facts, but he took a long time to send them Meanwhile, the editor was getting impatient, for the magazine would(使用 "would soon" 是因为主句使用了过去时态) soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet（**yet**作副词，adv. 又） another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that the he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
 
 **New words and expressions 生词和短语**
 set out to  着手;打算;出发去做某事;
@@ -543,13 +574,13 @@ However, he had at last been allowed to send a fax in which he informed the edit
 
 Editors of newspapers and magazines often go to extremes to provide  their readers with unimportant fact s and statistics .
 
-Last year  a journalist  had been **instructed**  by a well-known magazine  to write an article on **president's palace** in a new African republic .
+Last year  a journalist  had been **instructed**  by a **well-known** magazine  to **write an article on**    **president's palace** in a new African republic .
 
  When the article arrived, the editor read the first sentence  and then refused to  publish it.
 
 The article  began:" "Hundreds of steps lead to the high wall which surrounds the president's palace ".
 
-The editor at once  sent a fax **instructing**  him to find out the exact number of steps and the height of wall.
+The editor at once sent the journalist a fax **instructing**  him to find out the exact number of steps and the height of wall.
 
 
 
@@ -557,7 +588,7 @@ The editor at once  sent a fax **instructing**  him to find out the exact number
 
 
 
-记者立即出发去**核实**这些重要的事实，但过了好长时间不见他把数字**寄**来。**在此期间**，编辑等得不耐烦了，因为杂志马上要付印。他给记者**先后**发去两份传真，但对方毫无反应。**于是**他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑**无奈**，勉强按原样发稿了。一周之后，编辑终于接到了记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。**不过**，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的 1，084级台阶时，被抓了起来。
+记者立即出发去**核实**这些重要的事实，但过了好长时间不见他把数字**寄**来。**在此期间**，编辑等得不耐烦了，因为杂志马上要付印。他给记者**先后**发去两份传真，但**对方毫无反应**。**于是**他又发了一份传真，通知那位记者说，若再不迅速答复，将被解雇。但记者还是没有回复。编辑**无奈**，勉强按原样发稿了。一周之后，编辑终于接到了记者的传真。那个可怜的记者不仅被捕了，而且还被送进了监狱。**不过**，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的 1，084级台阶时，被抓了起来。
 
 The journalist immediately set out to obtain these important facts, but he took a long time to send them.  **Meanwhile** ,the editor was  getting  impatient ,for the magazine would soon go to press .
 
@@ -567,13 +598,11 @@ He sent  yet another fax informing the  journalist that if he didn't reply soon,
 
 When the journalist again failed to reply，the editor reluctantly published  the article  **as it  had originally been written(**引导方式状语从句).
 
-A week later  , the editor at last received the fax  from  journalist.
+A week later  , the editor **at last** received the fax  from  journalist.
 
 Not only had  the poor journalist  been arrested,but he had been sent to jail.
 
-However, he  had  at last been allowed to send a fax  in which he informed the editor that he had been arrested while counting the  1084 steps leading to the 15 feet wall   which  surrounded by president' palace.
-
-
+However, he had at last been allowed to send a fax in which he informed the editor that the he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
 
 
 
@@ -597,13 +626,16 @@ Piccadilly(1. 1) /'pikə'dili/n．皮卡迪利大街
 
 jewellery (1. 3)/'dʒu:əlri/n．珠宝（总称）
 
-admire v.欣赏
+admire v.欣赏    钦佩;
 
 velvet(1. 7)/'velvit/ n．天鹅绒，丝绒
 
 gaze v.凝视
 
 headlight(1. 9)/'hedlait/ n．（汽车等）前灯
+
+horn n.喇叭
+
 blare(1. 9) /bleə/ v．发嘟嘟声，吼叫
 
 staff(1. 12) /sta:f/ n．全体工作人员
@@ -616,19 +648,53 @@ ring(1. 6) /riŋ/ n．戒指
 ashtray(1. 16) /'æʃtrei/n．烟灰缸
 background(1. 6) /'bækgraund/n．背景
 
+got away  with 逃走 
+
+Just as 正在。。。时候
+
 Notes on the text 课文注释
 
 1 Piccadilly, 皮卡迪利，这是伦敦市中心一条著名的街。这条街从海德公园通向一个著名的广场，叫作“皮卡迪利广场”。
 2 with its headlights on and its horn blaring, …这是 with引导的独立主格结构，在句中表示伴随状况。
 3 but he was too busy helping himself to diamonds to notice any pain.但他只顾忙着抢劫钻石，根本顾不上疼痛了。这里 help oneself to sth. 是“擅自取用，侵占某物”的意思。
 
+"helping himself" 是一个动名词短语，作为 "was too busy" 的宾语补足语，
+
+moved off
+
 **参考译文**
 
-皮卡迪利大街附近的一条著名拱廊街道上，几家高档商店刚刚开始营业。在早晨的这个时候，拱廊街上几乎空无一人。珠宝店主泰勒先生正在欣赏新布置的橱窗。他手下两名店员从早上8点就开始忙碌，这时刚刚布置完毕。钻石项链、戒指漂亮地陈列在黑色丝绒上面。泰勒先生站在橱窗外凝神欣赏了几分钟就回到了店里。
+皮卡迪利大街附近的一条著名拱廊街道上，几家高档商店刚刚开始**营业**。在早晨的这个时候，拱廊街上**几乎空无一人**。珠宝店主泰勒先生正在欣赏**新布置**的橱窗。他**手下**两名店员从早上8点就开始忙碌，这时刚刚**布置**完毕。钻石项链、戒指漂亮地**陈列**在黑色丝绒上面。泰勒先生站在橱窗外凝神欣赏了几分钟**就回到了**店里。
 
-宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，呼啸着冲进了拱廊街，在珠宝店门口停了下来。一人留在驾驶座上，另外两个用黑色长筒丝袜蒙面的人跳下车来。他们用铁棒把商店橱窗玻璃砸碎。这一切发生时，泰勒先生正在楼上。他与店员动手向窗外投掷家具，椅子、桌子飞落到拱廊街上。一个窃贼被一尊很重的雕像击中，但由于他忙着抢钻石首饰，竟连疼痛都顾不上了。这场抢劫只持续了3分钟，因为窃贼争先恐后地爬上轿车，以惊人的速度开跑了。就在轿车离开的时候，泰勒先生从店里冲了出来，跟在车后追赶，一边还往车上扔烟灰缸、花瓶。但他已无法抓住那些窃贼了。他们已经带着价值数千镑的首饰逃之夭夭了。
+The expensive shops in a famous arcade near Piccadilly were just opening.
 
+At this time of the morning, the arcade was almost empty.
 
+Mr. Taylor, the owner of a jewellery shop was admiring a new window display. 
+
+Two of his assistants had been working busily since eight o'clock and had only just finished. 
+
+Diamond necklaces and rings had been beautifully **arranged** on a background of black **velvet**. 
+
+After **gazing** at the display for several minutes, Mr. Taylor went back into his shop.
+
+宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，**呼啸**着冲进了拱廊街，在珠宝店门口停了下来。一人**留**在**驾驶座**上，另外两个用黑色长筒丝袜**蒙面**的人跳下车来。他们用铁棒把商店橱窗玻璃砸碎。这一切发生时，泰勒先生正在楼上。他与店员动手向窗外投掷家具，椅子、桌子飞落到拱廊街上。一个窃贼被一尊很重的雕像击中，但由于他忙着抢钻石首饰，竟连疼痛都顾不上了。这场抢劫只持续了3分钟，因为窃贼**争先恐后地**爬上轿车，以**惊人**的速度**开跑**了。就在轿车离开的时候，泰勒先生从店里冲了出来，跟在车后追赶，**一边**还往车上扔烟灰缸、花瓶。但他已无法抓住那些窃贼了。他们已经带着价值数千镑的首饰**逃之夭夭**了。
+
+The silence was suddenly broken **when** a large car, with its headlights on and its **horn** **blaring**, **roared down** the arcade. It **came to a stop** outside the jeweller's. 
+
+One man stayed **at the wheel** while **two others** with black stockings over their faces jumped out and smashed the window of the shop with iron **bars**.
+
+While this **was going on,** Mr. Taylor was upstairs.
+
+He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade.
+
+One of the  thieves was struck by a heavy statue, but he was too busy helping himself  to diamonds  to notice any pain.
+
+The **raid** **was all over** in three minutes, for the men scrambled back into the car and it **moved off** at a **fantastic** speed. 
+
+**Just as it was leaving,** Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves
+
+They had **got away** with thousands of pounds worth of diamonds.
 
 
 
@@ -656,6 +722,14 @@ mutilate(title)/'mju:tileit/v．使残缺不全
 
 trousers n.裤子
 
+bank note n.纸币
+
+rescued v.抢救
+
+despair v.绝望
+
+concerns v.与xx有关
+
 safekeeping(1. 10)/'seif'ki:piŋ/n．妥善保管
 chew(1. 8)/tʃu:/ v．咀嚼
 Newcastle(1. 14) /'nju:'ka:sl/ n．纽卡斯尔（英国港
@@ -669,9 +743,11 @@ fiance n.未婚夫
 
 dismay n.沮丧
 
+claims  n.索赔
 
+So long as =as long as 只要
 
-‘So long as =as long as 只要
+examine v.检查
 
 **Notes on the text 课文注释**
 
@@ -682,9 +758,51 @@ dismay n.沮丧
 
 **参考译文**
 
-这种事情在你身上出现过吗？你有没有把裤子塞进洗衣机，然后又想起在裤子的后兜有一张大面值的纸币？当你把裤子抢救出来时，你有没有发现那张纸币已经变得比白纸还白？当英国人犯这种错误时，他们不必感到绝望（而许多国家的人都有这种绝望的感觉）。对英国人来说，值得庆幸的是英国银行有一个残钞鉴别组，负责处理那些把钱塞进机器或塞给狗的人提出的索赔要求。看起来，狗很喜欢咀嚼钱币。
+这种事情在你身上出现过吗？你有没有把裤子塞进**洗衣机**，然后又**想**起在裤子的**后兜**有一张大面值的纸币？当你把裤子**抢救**出来时，你有没有发现那张纸币已经变得比白纸还白？当英国人犯这种错误时，他们不必**感到绝望**（而许多国家的人都有这种绝望的感觉）。对英国人来说，值得庆幸的是英国银行有一个残钞鉴别组，**负责处理**那些把钱塞进机器或塞给狗的**人提出的**索赔要求。看起来，狗很喜欢咀嚼钱币。
 
-最近的一个案例与简·巴特林有关，她的未婚夫约翰拥有一家生意兴隆的家具店。有一天约翰的生意很好，他把一只装有3，000英镑的钱包放进微波炉内保存。然后，他和简一起去骑马。回家后，简用微波炉煮了晚饭，无意之中把她未婚夫的钱包也一起煮了。可以想像他们发现一只煮得很好看的钱包、钞票已化成灰时的沮丧心情。约翰去找银行经理，经理把约翰的钱包和纸币的残留物送到英国银行在纽卡斯尔的一个专门部门——残钞鉴别组。他们鉴定了这些残留物。约翰拿回了他损失的全部数额。“只要有东西可供识别，我们会把钱还给人家的，”银行的一位女发言人说。“去年，我们对21，000起索赔要求支付了150万英镑。”
+Has it happen to you? 
+
+Have you ever put your trousers in the  washing machine and then remembered there was a large bank note in your pocket.   
+
+When you  **rescued** your trousers,  did you find  the note  was whiter than white?
+
+When people in Britain made these mistakes, they needn't  despair  （however a lot of people do）。
+
+Fortunately for them， the bank  of England  has  a team called  Mutilated Ladies，which **deals with**  claims from people  who fed their money to  a  machine or their dog。 
+
+
+
+Dogs , it seems, love to e chew  up money.
+
+
+
+最近的一个案例与简·巴特林有关，她的未婚夫约翰拥有一家生**意兴隆的**家具店。有一天约翰的生意很好，他把一只装有3，000英镑的钱包放进微波炉内保存。然后，他和简一起去骑马。回家后，简用微波炉煮了晚饭，**无意之中**把她未婚夫的钱包也一起煮了。可以想像他们发现一只煮得很好看的钱包、钞票已化成灰时的**沮丧**心情。约翰去**找**银行经理，经理把约翰的钱包和纸币的残留物送到英国银行在纽卡斯尔的一个专门部门——残钞鉴别组。他们**鉴定**了这些残留物。约翰拿回了他损失的全部数额。“只要有东西可供识别，我们会把钱还给人家的，”银行的一位女**发言人**说。“去年，我们对21，000起索赔要求支付了150万英镑。”
+
+A recent case concerns Jane Butlin whose finace , John  ,runs a   successful   furniture business.
+
+John  had a very good day and  put  a wallet  containing 3000 pounds into the microwave  oven for safekeeping.
+
+Then he and Jane went  horse-riding . 
+
+When they got home ,Jane cooked their dinner  in microwave oven and **without realizing it**  ,cooked her fince's wallet. 
+
+Imagine their **dismay** when  they found a  beautifully-cooked wallet and notes **turned to** ash.
+
+John **went to  see** bank manager who sent the remains of  wallet and  money  to the  special department of the  Bank  of England  in Newcastle : the Mutilated ladies。The **examined** these remains and John  got 
+
+all his money back.
+
+So long as  there 's something to identify, we will give people  their money back .
+
+said a **spokeswoman** .
+
+“Last year ， we paid one point five million pounds on twenty one thousand claims
+
+
+
+
+
+
 
 
 
@@ -692,11 +810,13 @@ dismay n.沮丧
 
 
 
-The Great St. Bernard Pass connects Switzerland to Italy. At 2, 473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times. Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+The Great St. Bernard Pass connects Switzerland to Italy. At 2, 473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times. **Now that** a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
 
 During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars. As there are so many people about, the dogs have to be kept in a special enclosure. In winter, however, life at the monastery is quite different. The temperature drops to-30°and very few people attempt to cross the Pass. The monks prefer winter to summer for they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure. The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of the mountains, always receive a warm welcome at St. Bernard's monastery.
 
 **New words and expressions 生词和短语**
+
+wander v.漫步
 
 monastery（title）/'mɔnəstri/n．寺院，修道院
 enclosure（1. 12）/in'kləuʒə/n．围场，圈地
@@ -709,6 +829,12 @@ skier（1. 16）/'ski:ə/n．滑雪者
 rashly（1. 9）/'ræʃli/adj．莽撞地，冒失地
 Easter（1. 16）/'i:stə/n．复活节
 
+regular adj.经常的
+
+peace n.和平 宁静
+
+Now that 既然 ，由于
+
 **Notes on the text 课文注释**
 
 1 Now that a tunnel has been built through the mountains，由于一条穿山隧道已经开通。now that是连词，当“既然”，“由于”讲，引导一个原因状语从句，说明一种新情况。
@@ -717,14 +843,49 @@ Easter（1. 16）/'i:stə/n．复活节
   词性 - 副词修饰名词
 the rabbit here runs very fast。
 
-
 3 The monks prefer winter to summer，修道士们喜欢冬天而不喜欢夏天。 prefer…to…有“喜欢……而不喜欢……”的意思，to的前后要用名词或动名词来表示所对比的事物或活动。
 
 **参考译文**
 
-圣伯纳德大山口连接着瑞士与意大利，海拔2，473米，是欧洲最高的山口。11世纪建造的著名的圣伯纳德修道院位于离山口1英里远的地方。几百年来，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。这些最先从亚洲引进的狗，待人友好，早在罗马时代就给人当看门狗了。如今由于在山里开挖了隧道，翻越山口已不那么危险了。但每年还要派狗到雪地里去帮助那些遇到困难的旅游者。尽管修通了隧道，但仍有一些人想冒险徒步跨越圣伯纳德山口。
+圣伯纳德大山口连接着瑞士与意大利，海拔2，473米，是欧洲最高的山口。11世纪**建造**的著名的圣伯纳德修道院位于离山口1英里远的地方。**几百年来**，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。这些**最先**从亚洲**引进**的狗，待人友好，**早在罗马时代**就**给**人当看门狗了。如今**由于**在山里**开挖**了隧道，翻越山口已**不那么**危险了。但**每年**还要派狗到**雪地**里去帮助那些遇到困难的旅游者。尽管修通了隧道，但仍有**一些**人**想**冒险徒步跨越圣伯纳德山口。
 
-夏天的几个月里，修道院十分忙碌，因为有成千上万的人驾车通过山口，顺道来修道院参观。由于来人太多，狗被关在专门的围栏里。然而到了冬天，修道院里的生活则是另一番景象。气温下降到零下30度，试图跨越山口的人寥寥无几。修道士们喜欢冬天，而不太喜欢夏天。因为在冬天，他们可以更多地过上无人打扰的生活。狗也比较自由，被放出围栏，四处遛达。冬天常来修道院参观的只有一批批滑雪者。他们在圣诞节或复活节到那儿去。这些热爱高山清静环境的年轻人每年都受到圣伯纳德修道院的热烈欢迎。
+
+
+The Great St. Bernard Pass  connects Switzerland and Italy. At 2473 metres ,it is the highest mountain pass in Europe.
+
+The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. 
+
+These friendly dogs, which were first brought from Asia, were used as watchdogs **even in Roman times**.
+
+ **Now that** a tunnel has been built through the mountains, the Pass is less dangerous, 
+
+ but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. 
+
+ Despite the new tunnel, there are still **a few** people who **rashly** attempt to cross the Pass on foot.
+
+
+
+
+
+
+
+夏天的几个月里，修道院十分忙碌，因为有**成千上万**的人驾车通过山口，**顺道**来修道院参观。**由于**来人太多，狗被**关**在专门的围栏里。**然而**到了冬天，修道院里的生活则是另一番**景象**。气温**下降**到零下30度，**试图**跨越山口的人**寥寥无几**。修道士们喜欢冬天，而不太喜欢夏天。因为在冬天，他们可以更多地过上**无人打扰**的生活。狗也比较自由，**被放出围栏，四处遛达**。冬天**常来**修道院参观的只有**一批批**滑雪者。他们在圣诞节或复活节到那儿去。这些**热爱**高山清静环境的年轻人每年都**受到**圣伯纳德修道院的热烈欢迎。
+
+During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars.
+
+ As there are so many people about, the dogs have to be kept in a special enclosure. 
+
+In winter, however, life at the monastery is quite different. 
+
+The temperature drops to  minus thirty degrees and **very few** people attempt to cross the Pass. 
+
+The monks prefer winter to summer for they have more privacy.
+
+ The dogs have greater freedom, too, for they are allowed to **wander** outside their enclosure. 
+
+The only regular visitors to the monastery in winter **are parties of** skiers who go there at Christmas and Easter.
+
+These young people, who love the **peace** of the mountains, always receive a warm welcome at St. Bernard's monastery.
 
 
 
@@ -739,7 +900,7 @@ How do cats try to protect themselves when falling from great heights?
 
 Cats never fail to fascinate human beings. They can be friendly and **affectionate** towards humans, but they **lead** mysterious lives of their own as well. They never become **submissive** like dogs and horses. As a result, humans have learned to respect **feline** independence. Most cats remain **suspicious** of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives. Apparently, there is **a good deal** of truth in this idea. A cat's ability to survive falls is based on fact.
 
-Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months. All these cats had one experience in common: they had fallen off high buildings, **yet** only eight of them died from shock or injuries. Of course, New Yorkis the ideal place for such an interesting study, because there is **no shortage of** tall buildings. There are plenty of **high-rise** **windowsills** to fall, from! One cat, Sabrina, fell 32 **storeys**, yet only **suffered from** a broken tooth. ‘Cats behave like well-trained **paratroopers**, ’ a doctor said. It seems that the further cats fall, the less they **are likely to** injure themselves. In a long drop, they reach speeds of 60 miles an hour and more. At high speeds, falling cats have time to relax. They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground.
+Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months. All these cats had one experience in common: they had fallen off high buildings, **yet** only eight of them died from shock or injuries. Of course, New York is the ideal place for such an interesting study, because there is **no shortage of** tall buildings. There are plenty of **high-rise** **windowsills** to fall, from! One cat, Sabrina, fell 32 **storeys**, yet only **suffered from** a broken tooth. ‘Cats behave like well-trained **paratroopers**, ’ a doctor said. It seems that the further cats fall, the less they **are likely to** injure themselves. In a long drop, they reach speeds of 60 miles an hour and more. At high speeds, falling cats have time to relax. They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground.
 
 **New words and expressions 生词和短语**
 
@@ -752,6 +913,8 @@ lead v,;过（某种生活）
 submissive  adj.顺从的
 
 feline（1. 4）/'fi:lain/adj．猫的
+
+suspicious adj.可疑的
 
 belief  n.看法
 
@@ -768,6 +931,8 @@ submissive（1. 3）/səb'misiv/adj．服从的，顺从的
 air-resistance（1. 16）/'eə-ri'zistlns/n．空气阻力
 impact（1. 16）/'impækt/n．冲击力
 
+suffered from 遭受
+
 **Notes on the text 课文注释**
 
 1 Cats never fail to fascinate human beings. 在这句话中有一个否定词 never和一个含有否定意义的动词 fail，这两个否定词就组成了双重否定，而双重否定往往用来表示肯定。这句话可以译成：“猫总能引起人们的极大兴趣。”
@@ -777,16 +942,66 @@ impact（1. 16）/'impækt/n．冲击力
 
 **参考译文**
 
-猫总能引起人们的极大兴趣。它们可以对人友好，充满柔情。但是，它们又有自己神秘的生活方式。它们从不像狗和马一样变得那么顺从。结果是人们已经学会尊重猫的独立性。在它们的一生中，大多数猫都对人存有戒心。最使我们感兴趣的一件事情就是一种通俗的信念——猫有九条命。显然，这种说法里面包含着许多真实性。猫在跌落时能够大难不死是有事实作为依据的。
+猫总能引起人们的极大兴趣。它们可以**对人**友好，充满柔情。但是，它们又有自己神秘的生活方式。它们从不**像**狗和马一样变得那么顺从。**结果是**人们已经学会尊重猫的独立性。**在它们的一生中**，大多数猫都**对**人存有戒心。最使我们**感兴趣**的一件事情就是一种**通俗的信念**——猫有九条命。显然，这种**说法**里面包含着许多真实性。猫在跌落时能够**大难不死**是有事实作为依据的。
 
-最近，纽约动物医疗中心对132只猫进行了为期5个月的综合研究。所有这些猫都有一个共同的经历：它们都曾从高层建筑上摔下来过，但只有其中的8只猫死于震荡或跌伤。当然，纽约是进行这种有趣的试验的一个理想的地方，因为那里根本不缺乏高楼大厦，有的是高层的窗槛从上往下坠落。有一只叫萨伯瑞娜的猫从32层楼上掉下来，但只摔断了一颗牙。“猫就像训练有素的跳伞队员，”一位医生说。看起来，猫跌落的距离越长，它们就越不会伤害自己。在一个长长的跌落过程中，它们可以达到每小时60英里甚至更快的速度。在高速下落中，猫有时间放松自己。它们伸展开四肢，就像飞行中的松鼠一样。这样就加大了空气阻力，并减小了它们着地时冲击力带来的震动。
+
+
+Cats never fail to fascinate human beings。The can be friendly  and  affectionate towards humans，but
+
+ they lead mysterious lives of their own as well。
+
+They never become **submissive**   **like** dogs and horses. 
+
+ **As a result**, humans have learned to respect **feline** independence. 
+
+
+
+Most cats **remain** **suspicious** of humans **all their lives**.
+
+One of the things that **fascinates** us most about cats is the **popular belief** that they have nine lives. 
+
+Apparently, there is **a good deal of **  truth **in** this idea
+
+A cat's **ability** to survive falls is based on fact.
+
+
+
+**最近**，纽约动物医疗中心对132只猫**进行**了**为期**5个月的综合**研究**。所有这些猫都有一个**共同的**经历：它们都曾从高层建筑上摔下来过，**但**只有其中的8只猫死于震荡或跌伤。**当然**，纽约是**进行**这种有趣的**试验**的一个理想的地方，因为那里根本不缺乏高楼大厦，**有的是**高层的窗槛从上往下坠落。有一只叫萨伯瑞娜的猫从32层楼上掉下来，**但**只摔断了一颗牙。“猫就**像**训练有素的跳伞队员，”一位医生说。**看起来**，猫跌落的距离越长，它们就越不会伤害自己。在一个长长的跌落过程中，它们可以达到每小时60英里甚至更快的速度。**在高速下落中**，猫有时间放松自己。它们伸展开**四肢**，就像飞行中的松鼠一样。这样就**加大**了空气阻力，并**减小**了它们**着地**时冲击力带来的震动。
+
+
+
+Recently the  New York animal Medical Centre made  a study of 132 cats **over a period of** five months.
+
+
+
+All these cats had one experience **in common**: they had **fallen off** high buildings, **yet** only eight of them died from shock or injuries.
+
+Of course, New York is the ideal place for such an interesting study, because there is **no shortage of** tall buildings. 
+
+There are plenty of **high-rise** **windowsills** to fall, from!
+
+One cat, Sabrina, fell 32 **storeys**, **yet** only **suffered from** a broken tooth.
+
+‘Cats behave like well-trained **paratroopers**, ’ a doctor said.
+
+It seems that the further cats fall, the less they **are likely to** injure themselves.
+
+ In a long drop, they **reach speeds** of 60 miles an hour and more.
+
+**At high speeds,** falling cats have time to relax. They stretch out their legs like flying squirrels. 
+
+This increases their air-resistance and reduces the shock of impact when they hit the ground.
+
+
+
+
 
 ## Lesson 10 The loss of the Titanic ＂泰坦尼克＂号的沉没
 
 
 What would have happened if only two of the sixteen water-tight compartments had been flooded?
 
-The great ship, Titanic, **sailed for** New York from Southampton on April 10th, 1912. She was carrying 1, 316 passengers and a crew of 891. Even by modern standards, the 46, 000 ton Titanic was a **colossal** ship. At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen **watertight** **compartments**. Even if two of these were **flooded**, she would still be able to float. The tragic sinking of this great **liner** will always be remembered, for she went down on her first **voyage** with heavy loss of life.
+The great ship, Titanic, **sailed for** New York from Southampton on April 10th, 1912. She was carrying 1, 316 passengers and a crew of 891. Even by modern standards, the 46, 000 ton Titanic was a **colossal** ship**. At that time**, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen **watertight** **compartments**. Even if two of these were **flooded**, she would still be able to float. The tragic sinking of this great **liner** will always be remembered, for she went down on her first **voyage** with heavy loss of life.
 
 Four days after **setting out**, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned **sharply** to avoid a direct collision. The Titanic turned just in time, **narrowly** missing the immense wall of ice which rose over 100 feet out of the water beside her. Suddenly, there was a **slight** **trembling** sound from below, and the captain went down to see what had happened. The noise had been so **faint** that no one thought that the ship had been damaged. Below, the captain realized to his **horror** that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people **plunged** into the icy water. As there were not enough lifeboats for everybody, 1, 500 lives were lost.
 
@@ -833,15 +1048,15 @@ trembling n.颤抖
 
 **参考译文**
 
-巨轮“泰坦尼克”号1912年4月10日从南安普敦起锚驶向纽约。船上**载**有1，316名乘客与891名船员。即便用现代标准来衡量，46，000吨的“泰坦尼克”号也算得上一艘巨轮了。当时，这艘轮船不仅是造船**史上**建造的最大的一艘船，而且也**被认为**是不会沉没的。因为船由16个密封舱组成，即使有两个舱进水，仍**可**漂浮在水面上。然而，这艘巨轮首航就**下沉**，造成大批人员死亡。人们**将   ****永远**记着这艘**巨轮的 ****沉没惨剧**。
+巨轮“泰坦尼克”号1912年4月10日**从**南安普敦起锚驶**向**纽约。船上**载**有1，316名乘客与891名船员。即便用现代标准来衡量，46，000吨的“泰坦尼克”号也算得上一艘巨轮了。**当时**，这艘轮船不仅是造船**史上**建造的最大的一艘船，而且也**被认为**是不会沉没的。因为船由16个密封舱组成，即使有两个舱进水，仍**可**漂浮在水面上。然而，这艘巨轮首航就**下沉**，造成大批人员死亡。人们**将   ****永远**记着这艘**巨轮的 ****沉没惨剧**。
 
-the great ship, titanic sailed for New York fom  Southampton on April.10th. 1912   ,She was  **carrying** 1316 passengers and a  crew of 891.  even by modern standards, the 46000 ton , taitinc  was a  colossal ship. 
+the great ship, titanic sailed for New York fom  Southampton on April 10th. 1912   ,She was  **carrying** 1316 passengers and a  crew of 891.  even by modern standards, the 46000 ton , taitinc  was a  colossal ship. 
 
 at that time ,this  ship was not only the largest ship  that had ever been built ,but also was  regarded as    unsinkable, 
 
 for the ship  had/consits of 16  watertight  comparments, even if two of these were flooded, the boat would still be able to float . however ,for this boat went down on her  first voyage with heavy loss of life, . the tragic sinking of this great  liner  will **always**  be  rememberd
 
-“泰坦尼克”起航后的第4天，它正行**驶**     **在** 北大西洋冰冷的海面上。突然，瞭望员发现一座冰山。警报**响**过不久，巨轮急转弯，以**避免**与冰山**正面**collision。“泰坦尼克”这个弯拐得**及时**，**紧贴着**高出海面100**英尺**的巨大的冰墙**擦**过去。突然，从船舱**下部** **传来**一声轻微的**颤**音，船长走下船舱去查看究竟。由于这个声音非常**轻**，没人会想到船身已遭损坏。**在下面**，船长**惊恐地**发现“泰坦尼克”号正在急速下沉，16个密封舱已有5个进水。于是，他**发出**了弃船**的命令**，几百人跳进了**冰冷刺骨**的海水里。由于没有足够的救生艇运载所有乘客，结果1，500人**丧生**。
+“泰坦尼克”起航后的第4天，它正行**驶**     **在** 北大西洋冰冷的海面上。突然，瞭望员发现一座冰山。警报**响**过不久，巨轮急转弯，以**避免**与冰山**正面**collision。“泰坦尼克”这个弯拐得**及时**，**紧贴着**高出海面100**英尺**的巨大的冰墙**擦**过去。突然，从船舱**下部** **传来**一声轻微的**颤**音，船长走下船舱去查看究竟。由于这个声音非常**轻**，没人会想到船身已遭损坏。**在下面**，船长**惊恐地**发现“泰坦尼克”号正在急速下沉，16个密封舱已有5个进水。于是，他**发出**了弃船**的命令**，几百人跳进了**冰冷刺骨**的海水里。**由于**没有足够的救生艇运载所有乘客，结果1，500人**丧生**。
 
 4 days after setting out , while the titanic  was sailing across  the icy waters  of the  north Atlantic .
 
@@ -851,7 +1066,7 @@ the titanic turned just **in time** ,**narrowly** **missing（避开）** the **
 
 suddenly,there was  a slight  **trembling** soud    from below          ，and  the captain went down to see what had happend ,.     The noise had  been so **faint**  that no one thought that the ship had been damaged,.
 
-**Below**,the captain **realized to his horror**  that the titanic was sinking rapidly  ,  for five of sixteen compartments had already been flooded. the order to abandon ship was given  and hundreds of people **plunged** inyto the  icy water, As there were not enough lifeboats for everybody, 1500 lives were **lost**.
+**Below**,the captain **realized to his horror**  that the titanic was sinking rapidly  ,  for five of sixteen compartments had already been flooded. the order to abandon ship was given  and hundreds of people **plunged** inyto the  icy water, **As** there were not enough lifeboats for everybody, 1500 lives were **lost**.
 
 
 
@@ -1242,4 +1457,412 @@ Suddenly the door of the storeroom was opened and a man entered, Mrs Richards re
 
 
 The man **let out a cry** and **jumped back** **several paces**. When Mrs. Richards walked towards him, he **fled**, slamming the door behind him.
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 14: A noble **gangster **  贵族歹徒
+
+
+
+How did Hawkwood make money in times of peace?
+
+There was a time when the owners of shops and businesses in Chicago
+
+had to pay large sums of money to gangsters in return for 'protection'.
+
+If the money was not paid promptly,
+
+the gangsters would quickly put a man out of business by destroying his shop.
+
+Obtaining 'protection money' is not a modern crime.
+
+As long ago as the fourteenth century,
+
+an Englishman, Sir John Hawkwood,
+
+made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.
+
+Six hundred years ago,
+
+Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence.
+
+He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.
+
+Whenever the Italian city-states were at war with each other,
+
+Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.
+
+In times of peace, when business was bad,
+
+Hawkwood and his men would march into a city-state,
+
+and after burning down a few farms, would offer to go away if protection money was paid to them.
+
+Hawkwood made large sums of money in this way.
+
+In spite of this, the Italians regarded him as a sort of hero.
+
+When he died at the age of eighty,
+
+the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.
+
+New words and expressions 生词和短语
+
+noble adj.贵族的
+
+   gangster
+n.  歹徒,强盗
+
+   Chicago
+n.  芝加哥(美国城市)
+
+   protection
+n.  保护
+
+   promptly
+adv. 准时地
+
+   destroy
+v.  毁掉;消灭
+
+   remarkable
+adj. 不寻常的
+
+   band
+n.  帮,团伙
+
+
+
+march v.行进
+
+   Florence
+n.  佛罗伦萨(意大利城市)
+
+   city-state
+n.  (古代)城邦
+
+   hire
+v.  租出,雇给
+
+   prince
+n.  君主,诸候
+
+   Florentine
+n.  佛罗伦萨人
+
+   funeral
+n.  葬礼
+
+   dedicate
+v.  奉献,题献给
+
+   memory
+n.  纪念
+
+   valiant
+adj. 英勇的
+
+
+
+　**自学导读
+Notes on the text课文注释**
+1 in return for…，作“作为……的报答”讲。
+2 out of business, 倒闭，破产。
+3 as long ago as, 作“追溯到”、“早在”讲。注意要与as long as分开，后面这个短语作“只要”或“长达……之久”讲。
+
+
+
+4 people would rather pay large sums of money than have their life work destroyed by gangsters,
+人们情愿支付一大笔钱，也不愿自己毕生的心血毁于歹徒之手。
+5 made a name for himself, 出名了。
+6 be at war with…, 与……处于战争状态。
+7 in times of peace, 在和平时期。
+8 a sort of hero, 某种英雄。sort of作“可以说是一种”讲。
+
+Hawkwood and his men would march into a city-state,
+
+and after burning down a few farms, would offer to go away if protection money was paid to them.
+
+would" 用来表示过去常常或习惯性发生的动作，而不是简单的过去时。这种用法描绘了 Hawkwood 和他的手下过去经常做的事情。
+
+参考译文
+
+  曾经有一个时期,芝加哥的**店主**和商行的**老板们**不得不**拿**出大笔的钱给歹徒以换取"保护"。如果交款不及时,歹徒们就会很快**捣毁**他的商店,让他破产.**榨取**"保护金"并不是一种现代的罪恶行径.早在14世纪,英国人约翰.霍克伍德就有过非凡的发现:"人们情愿拿出大笔的钱,也不愿**毕生的心血**毁于歹徒之手.
+
+There was a time when the **owners** of shops and businesses in Chicago  had to pay **large sums of** money to gangsters in return for 'protection'.
+
+
+
+If the money was not paid **promptly**, the gangsters would quickly **put** a man **out of business** by destroying his shop.
+
+**Obtaining** 'protection money' is not a modern crime.
+
+As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay **large sums of** money than have their **life work** destroyed by gangsters.
+
+
+
+  600年前,约翰.霍克伍德爵士**带**着一队士兵来到意大利,在佛罗伦萨附近**驻扎**下来,很快就出了名.意大利人叫他乔凡尼.阿库托.每次意大利各城邦**之间**   **打伏**,霍克伍德把他的士兵雇佣给愿给他出高价的君主。和平时期,当**生意萧条**时,霍克伍德便带领士兵进入某个城邦,纵火烧毁一两个农场,然后提出,如向他们缴纳保护金,他们便主动**撤离**。霍克伍德用这种方法挣了大笔钱.**尽管如此**,意大利人**还**是把他视作**某种**英雄。他**80岁**那年死去时,佛罗伦萨人为他举行了国葬,并为他画像以纪念这位"骁勇无比的战士、**杰出的**领袖乔凡尼.阿库托先生."
+
+
+
+Six hundred years age .
+
+Sir John Hawkwood arrived in Italy with a band of soldiers and **settled** near Florence.
+
+He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.
+
+Whenever the Italian city-states were at war with each other,
+
+Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.
+
+
+
+
+
+In times of peace, when business was bad，Hawkwood and his men would march into a city-state,
+
+and after burning down a few farms, would offer to **go away** if protection money was paid to them.
+
+
+
+Hawkwood made large sums of money in this way.
+
+In spite of this, the Italians regarded him as a sort of hero.
+
+When he died at age of eighty，  the Florentines **gave** him a state **funeral** and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 15 Fifty pence worth of trouble
+
+
+
+Did George get anything for his fifty pence? What?
+
+Children always appreciate small gifts of money.
+
+Mum or dad, of course, provides a regular supply of pocket money,
+
+but uncles and aunts are always a source of extra income.
+
+With some children, small sums go a long way.
+
+If fifty pence pieces are not exchanged for sweets,
+
+they rattle for months inside money boxes.
+
+Only very thrifty children manage to fill up a money box.
+
+For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.
+
+My nephew, George, has a money box but it is always empty.
+
+Very few of the fifty pence pieces and pound coins I have given him have found their way there.
+
+I gave him fifty pence yesterday and advised him to save it.
+
+Instead, he bought himself **fifty pence worth of trouble.**
+
+On his way to the sweet shop,
+
+he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain.
+
+George took off his jacket,
+
+rolled up his sleeves and pushed his right arm through the drain cover.
+
+He could not find his 50 pence piece anywhere, and what is more, he could not get his arm out.
+
+A crowd of people gathered round him and a lady rubbed his arm with soap and butter,
+
+but George was firmly stuck.
+
+The fire brigade was called and two fire fighters **freed** George using a special type of grease.
+
+George was not too upset by his experience,
+
+because the lady who owns the sweet shop heard about his troubles and rewarded him with a large box of chocolates.
+
+
+
+New words and expressions 生词和短语
+
+7
+
+appreciate
+
+8
+
+v. 欣赏，感激
+
+9
+
+pocket money
+
+
+
+10
+
+零用钱
+
+
+
+rattle v.叮当响
+
+11
+
+thrifty
+
+12
+
+adj. 节约的
+
+13
+
+nephew
+
+14
+
+n. 侄子，外甥
+
+15
+
+bounce
+
+16
+
+v. 弹起，跳起
+
+17
+
+pavement
+
+18
+
+n. 人行道
+
+
+
+rubbed  V.擦了 抹了
+
+rolled up his sleeves  卷起袖子
+
+
+
+firmly  adv.坚定地
+
+19
+
+stick (stuck, stuck)
+
+20
+
+v. 卡住，夹住，不能再动
+
+21
+
+brigade
+
+22
+
+n. 旅，（消防）队
+
+23
+
+grease
+
+24
+
+n. 润滑油
+
+25
+
+
+
+freed v。释放，解脱 原型free
+
+**Notes on the text课文注释**
+1 with some children, 介词with此处作“对于”讲。
+2 go a long way, 可以维持很久。
+3 If fifty pence pieces are not exchanged for sweets, 如果50便士的分币没有用来换糖果的话。exchange…for…作“以……换……”讲，注意英语中的便士有两种复数形式pence和pennies, 但用法不同。如：a fifty pence是指1个50便士的硬币，而fifty pennies是指50个1便士的硬币。
+4 have found their way there, 其中there是指储蓄罐。find one's way在这里作“进入”讲，即放到“储蓄罐”里。
+5 what is more, 更有甚者。是固定词组，此处用作插入语。
+
+
+
+small gifts of money/ gifts of money 零花钱
+
+
+
+参考译文
+
+
+
+孩子们总是喜欢得到一些零花钱。爸爸妈妈当然经常**给**孩子零花钱，但是，叔舅婶姨也是孩子们额外收入来源。**对于**有些孩子来说，少量的钱可以花很长一段时间。如果50便士不拿来换糖吃，则可以放在**储蓄罐里**叮当响上好几月。但是能把储蓄罐**装满**的只有**屈指可数**的几个特别节俭的孩子。对大部分孩子来说，用50便士来买一大块好的巧克力，是算不了什么的。
+
+Children always appreciate small gifts of money.
+
+Mum or dad, of course, provides a regular supply of pocket money,but uncles and aunts are always a source of extra income.
+
+**With** some children, small sums go a long way.
+
+If fifty pence pieces are not exchanged for sweets，they rattle for months inside **money boxes**.
+
+Only very thrifty children manage to fill up a money box.For **most of them,** fifty pence is a small price to pay for a nice big bar of chocolate.
+
+
+
+
+
+
+
+
+
+
+
+我的外甥乔治有一个储蓄罐，但总是空空的。我给了不少50便士的硬币，但没有几个存到储蓄罐里。昨天，我给了他50便士让**存**起来，却拿这钱给自己买了50便士的麻烦。在他去糖果店的路上，50便士掉在地上，在人行道上跳了几下，掉进了阴沟里。乔治脱掉**外套**，卷起袖子，将右胳膊**伸**进了**阴沟盖。**但他摸了半天也没找到那50便士硬币，**他的胳膊反倒退不出来了**。这时在他周围上了许多人，一位女士在乔治胳膊上抹了肥皂，黄油，但乔治的胳膊仍然卡得紧紧的。有人打电话叫来消防队，两位消防队员使用了一种特殊的润滑剂才使乔治得以解脱。不过，此事并没使乔治过于伤心，因为糖果店老板娘听说了他遇到的麻烦后，**赏**给他一大**盒**巧克力。
+
+My nephew, George, has a money box but it is always empty.
+
+**Very few of** the fifty pence pieces and pound coins I have given him have **found their way there.**
+
+I gave him fifty pence yesterday and advised him to save it.
+
+Instead, he bought himself fifty pence worth of trouble.
+
+On his way to the sweet shop,he dropped his fifty pence and it bounced along the pavement and then disappeared **down a drain**.
+
+
+
+George **took off** his jacket, rolled up his sleeves and pushed his right arm through the drain cover.
+
+He could not find his 50 pence piece anywhere, **and what is more**, he could not get his arm out.
+
+
+
+A crowd of people gathered round him and a lady rubbed his arm with soap and butter,but George was firmly stuck.
+
+The fire brigade was called and two fire fighters freed George using a special type of grease.
+
+
+
+George was not too upset by his experience，because the lady who owns the sweet shop heard about his troubles and rewarded him with a large **box** of chocolates.
 
