@@ -932,7 +932,7 @@ i mean it s not completely impossible,but its pretty nonsense
 
 
 
-learning english takes time and immersion,, you gotta be constantly exposed to and  using english   both in and   out of school  ,day in and day out
+learning english takes time and immersion,, you gotta be constantly exposed to and  using english   both in and   out of school  **,day in and day out**
 
 now ,those content creators you see  sure  they have some quicks tips to share and their english might be **top notch(顶尖).**
 

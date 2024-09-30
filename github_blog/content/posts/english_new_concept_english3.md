@@ -8,52 +8,100 @@ draft: true
 
 ## 同义词thesaurus
 
-| at once，immediately                                         | 马上             |
-| ------------------------------------------------------------ | ---------------- |
-| a great many,a good deal of，large sums of                   | adj.许多         |
-| accurate,precise                                             | adj.准确的       |
-| Meanwhile，During the xxx                                    | 期间             |
-| feline，cat                                                  | n 猫             |
-| human beings, humans                                         | 人类             |
-| Apparently,Obviously                                         | adv.显然地       |
-| of their own ，on their own                                  | 他们自己         |
-| common,popular                                               | adj.普遍的       |
-| but, yet                                                     | conj, 但是       |
-| However                                                      | 然而             |
-| drop,reduce，deduct                                          | 下降             |
-| So long as ，as long as                                      | 只要             |
-| robbery，raid                                                | n.抢劫           |
-| In spite of ，Desipte                                        | 尽管             |
-| chase，run after                                             | 追逐             |
-| slight  ，faint                                              | 轻微的           |
-| great，large，colossal                                       | adj.巨大的       |
-| dinghy（艇）  ，boat，ship，liner，                          | 船(体型从小到大) |
-| gaze, stare                                                  | v.凝视           |
-| captivate，fascinate                                         | v.吸引           |
-| blatantly，in public                                         | v.公然地         |
-| rotate,twist                                                 | v.旋转           |
-| promptly（准时，马上），immediately（马上），rapidly（快速地），quickly |                  |
-| give，  provides  ，provide  sb with sth和provide sth for sb |                  |
-| When it comes to/Speaking of  说到。。。。                   |                  |
-|                                                              |                  |
-|                                                              |                  |
-|                                                              |                  |
-|                                                              |                  |
-|                                                              |                  |
-|                                                              |                  |
-|                                                              |                  |
-|                                                              |                  |
+| at once，immediately                                         | 马上               |
+| ------------------------------------------------------------ | ------------------ |
+| a great many,a good deal of，large sums of，a number of ，considerable，a huge number of | adj.许多           |
+| accurate,precise                                             | adj.准确的         |
+| Meanwhile，During the xxx                                    | 期间               |
+| feline，cat                                                  | n 猫               |
+| human beings, humans                                         | 人类               |
+| Apparently,Obviously，Clearly                                | adv.显然地         |
+| of their own ，on their own                                  | 他们自己           |
+| common,popular                                               | adj.普遍的         |
+| but, yet,however                                             | conj, 但是         |
+| However                                                      | 然而               |
+| drop,reduce，deduct                                          | 下降               |
+| So long as ，as long as                                      | 只要               |
+| robbery，raid                                                | n.抢劫             |
+| In spite of  this，Desipte this                              | 尽管               |
+| chase，run after                                             | 追逐               |
+| slight  ，faint                                              | 轻微的             |
+| great，large，colossal，enormous，gigantic                   | adj.巨大的         |
+| dinghy（艇）  ，boat，ship，liner，Cruise（游轮）            | 船(体型从小到大)   |
+| gaze, stare                                                  | v.凝视             |
+| captivate，fascinate                                         | v.吸引             |
+| blatantly，in public                                         | v.公然地           |
+| rotate,twist                                                 | v.旋转             |
+| promptly（准时，马上），immediately（马上），rapidly（快速地），quickly |                    |
+| give，  provides  ，provide  sb with sth和provide sth for sb |                    |
+| When it comes to/Speaking of  说到。。。。                   |                    |
+| council（委员会），committee(委员会 )   communtiy（社区）,   |                    |
+| endearing，adorable                                          | adj.可爱的         |
+| decoration，embellishment                                    | n.装饰             |
+| playback ，record                                            | v，录音            |
+| remarkable，phenomenal ，extraordinary ，tremendous非凡的  exceptional 杰出的 |                    |
+| further ，*facilitate*                                       | v,促进             |
+| punctually，promptly                                         | adv.准时的         |
+| last, go on                                                  | 进行               |
+| take interests in ， be interested in                        | 对。。。感兴趣     |
+| graceful，elegant                                            | adj。优雅的        |
+| peculiar（adj。特别的，奇异的），particular（adj。特指的）,odd(adj.古怪的) |                    |
+| gardens， park                                               | 公园               |
+| capable，competent                                           | adj.有能力的       |
+| legit，legal                                                 | adj。合法的        |
+| notably ，particularly                                       | adv.特别的，尤其的 |
+| manage to do， pull off                                      | 成功完成           |
+| valiant ,brave                                               | adj.勇敢的         |
+| ethical ，moral                                              | adj.道德的         |
+| frugal ，thrifty                                             | adj.节约的         |
+| tapping into,utilize                                         | 利用               |
+| anxious，nervous                                             | adj.焦虑的         |
+| neglect，omit                                                | v.忽视             |
+| flat ,apartment                                              | n.公寓             |
+| appeal， captivate                                           | v.吸引             |
+| competency ,ability,capability                               | n。能力            |
+| integral , necessary                                         | adj.必须的         |
+| To our surprise, To our dismay                               |                    |
+| compliment，praise                                           | n.赞扬             |
+| gripe n。v  complain v                                       | 抱怨               |
+
+
+
+## 反义词
+
+|                       |                       |
+| --------------------- | --------------------- |
+| inclusive  adj.包含的 | exclusive adj。独家的 |
+|                       |                       |
+|                       |                       |
+
+
 
 
 
 
 ## 派生词
 
-| statistics |      |
-| ---------- | ---- |
-|            |      |
-|            |      |
-|            |      |
+| statistics n.统计                                            |      |
+| ------------------------------------------------------------ | ---- |
+| certify v. certified  v.adj.  certification.n.  证明         |      |
+| electronic（adj 电子的） electronical （adj.电子的）electric（adj.电的。n。供电） |      |
+| exhibit v。展览， n。展览品  exhibition  n。展览             |      |
+| accuse adj。 accusation  n。指控                             |      |
+| racist adj。种族主义的   racism n。种族歧视                  |      |
+| reside v.居住在，residence n.住宅，resident n.居民           |      |
+| refuge n.避难所，refugee n.难民                              |      |
+| commerce n.商业，commercial  adj.商业的；                    |      |
+| opposite，adj。相反的，n.对立面   opposition n.反对          |      |
+| scenery n。风景   scenic adj。风景优美的                     |      |
+| complex adj.复杂的  complexities  n.错综复杂的事物           |      |
+| democratize vt,使民主化;democracy n.民主  democratic  adj.民主的 |      |
+| revolution n。革命  revolutionize 。vt.革命;                 |      |
+| immense (adj),immensity n.巨大                               |      |
+| relation n.关系 relational   adj。相关的                     |      |
+| initial adj。最开始的  initiate v。开始                      |      |
+| supportive  adj。支持的。 support  v.支持                    |      |
+| possess v。具有，  possession  n。个人财产                   |      |
 
 ## 长得像的词
 
@@ -63,17 +111,44 @@ draft: true
 | complain;compliment  | v.抱怨；v,n.称赞   |
 | twist，swift         | v.旋转;adj.迅速的  |
 | state（n.状态，州，国家），status（n.状态），    statue(n.雕像) |  |
-|         |  |
-|         |  |
-|         |  |
-|         |  |
-|         |  |
+| promptly adv. 迅速地，准时地    prompt adj.迅速的 n.v.提示   |  |
+| suspend v. 悬挂  suspension n. 悬，吊，暂停 |  |
+| random， ransom（n.赎金） |  |
+| regular adj。定时的， regulation n.法规     regulatory adj。监管的 |  |
+| rotate（v。旋转）  resonate（v。引起共鸣）                   |  |
+| various adj.各种各样的   variation  n。变化  variety。n.不同种类， | |
+| diversity  n.多样性，diverse adj.多种多样的 | |
+| comparison n。比较 compromise n。妥协 | |
+|  | |
+
+## 0帧起手
+
+| 0帧起手                       |              |
+| ----------------------------- | ------------ |
+| by the time                   | 到…的时候;   |
+| day in and day out            | 日复一日     |
+| sure enough                   | 果然         |
+| Despite +n ,                  | 尽管         |
+| xxxx  as well                 | 还           |
+| rarely 很少地                 |              |
+| barely 仅仅，勉强可能         |              |
+| Ironically，                  | 讽刺的是     |
+| Inevitably                    | 不可避免的， |
+| mitigate its potential risks. | 降低风险     |
+| Acting on a sudden impulse,   | 一时冲动     |
+| Contribute with expertise to  |              |
+| once upon a time.             | 从前         |
+|                               |              |
+
+
+
+
 
 ## Lesson 1 A puma at large 逃遁的美洲狮
 
 Pumas are large, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. However（加了逗号however是副词，没有逗号当连词用）, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
 
-The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her. It immediately ran away when she saw it, and experts confirmed （confirmed跟了一个宾语从句）that a puma will （宾语从句这里用will 因为这句话是一个客观事实）not attack a human being unless it is cornered. The search proved （prove是系动词 ）difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits. Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of "cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal was a puma, but where had it come from? As no pumas had been reported missing from any zoo in the country, this one must have been （ must have been 虚拟语气 表示推测）in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught. It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.
+The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her. It immediately ran away when she saw it, and experts confirmed （confirmed跟了一个宾语从句）that a puma will （宾语从句这里用will 因为这句话是一个客观事实）not attack a human being unless it is cornered. The search proved （prove是系动词 ）difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits. Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of "cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal was a puma, but where had it come from? As no pumas had been reported missing from any zoo in the country, this one must have been （ must have been 不是虚拟语气 表示推测）in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught. It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.
 
 **New words and expressions 生词和短语**
 
@@ -121,9 +196,24 @@ clinging  v.依附
 
 
 
+在英语中，**"forty-five miles south of London"** 这种表达方式中不需要加介词。这是因为“south of London”已经是一个方位短语，表示“在伦敦以南”的位置。“forty-five miles”则进一步修饰了这个方位，表示具体的距离。
+
+所以，整个短语 **"forty-five miles south of London"** 可以直接理解为“距离伦敦南方45英里处”，不需要额外的介词。
+
+不过，如果你用介词，也可以，比如：
+
+- **"at a location forty-five miles south of London"**  
+  但这会使表达更冗长，通常不这样说。直接使用“forty-five miles south of London”更简洁和自然。
+
+这种结构在英语中很常见，例如：
+
+- **"ten kilometers east of the city"** （在城市以东十公里处）
+- **"three blocks north of the station"** （在车站以北三个街区处）
+
+
+
 3 feel obliged to do sth. 是“感到不得不做某事”的意思。
-4 it left behind it a trail of, 它身后留下一串……。 句末重心原则 原句应该是 left a trail ofxxx   behind it          svoo  宾语补语  behind it作补语 a trail ofxxx is behind it
-a trail of作left的宾语，behind it是状语，提到宾语之前是为了使句子结构更紧凑。
+4 it left behind it a trail of, 它身后留下一串……。 句末重心原则 原句应该是 left a trail ofxxx   behind it          svoo  宾语补语  behind it作**补语** a trail ofxxx is behind it
 5 puma fur was found clinging to bushes中，clinging是现在分词， clinging to bushes此处作主语puma fur的主语补足语。下文中As no pumas had been reported missing…一句中，missing也是现在分词作主语补足语。
 
 
@@ -405,7 +495,7 @@ The body of one statue  was found  **among remains(作状语)** dating from the 
 
 This head must haven been found in Classical Times,  and preserved carefully.
 
-却使在当时，它也属历史悠久的珍奇之物。
+**却使在当时**，它也属历史悠久的珍奇之物。
 
 it was old and **precious** **even then .**
 
@@ -847,15 +937,17 @@ the rabbit here runs very fast。
 
 **参考译文**
 
-圣伯纳德大山口连接着瑞士与意大利，海拔2，473米，是欧洲最高的山口。11世纪**建造**的著名的圣伯纳德修道院位于离山口1英里远的地方。**几百年来**，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。这些**最先**从亚洲**引进**的狗，待人友好，**早在罗马时代**就**给**人当看门狗了。如今**由于**在山里**开挖**了隧道，翻越山口已**不那么**危险了。但**每年**还要派狗到**雪地**里去帮助那些遇到困难的旅游者。尽管修通了隧道，但仍有**一些**人**想**冒险徒步跨越圣伯纳德山口。
+圣伯纳德大山口连接着瑞士与意大利，海拔2，473米，是欧洲最高的山口。11世纪**建造**的著名的圣伯纳德修道院位于离山口1英里远的地方。**几百年来**，圣伯纳德修道院驯养的狗拯救了许多翻越这道山口的旅游者的生命。这些**最先**从亚洲**引进**的狗，待人友好，**早在罗马时代**就**给**人当看门狗了。如今**由于**在山里**开挖**了隧道，翻越山口已**不那么**危险了。但**每年**还要派狗到**雪地**里去帮助那些**遇到困难**的旅游者。尽管修通了隧道，但仍有**一些**人**想**冒险徒步跨越圣伯纳德山口。
 
 
 
 The Great St. Bernard Pass  connects Switzerland and Italy. At 2473 metres ,it is the highest mountain pass in Europe.
 
-The famous monastery of St. Bernard, which was founded in the eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. 
+The famous monastery of St. Bernard, which was **founded** in the eleventh century, lies about a mile away. 
 
-These friendly dogs, which were first brought from Asia, were used as watchdogs **even in Roman times**.
+For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. 
+
+These friendly dogs, which were first **brought** from Asia, were used as watchdogs **even in Roman times**.
 
  **Now that** a tunnel has been built through the mountains, the Pass is less dangerous, 
 
@@ -869,11 +961,11 @@ These friendly dogs, which were first brought from Asia, were used as watchdogs 
 
 
 
-夏天的几个月里，修道院十分忙碌，因为有**成千上万**的人驾车通过山口，**顺道**来修道院参观。**由于**来人太多，狗被**关**在专门的围栏里。**然而**到了冬天，修道院里的生活则是另一番**景象**。气温**下降**到零下30度，**试图**跨越山口的人**寥寥无几**。修道士们喜欢冬天，而不太喜欢夏天。因为在冬天，他们可以更多地过上**无人打扰**的生活。狗也比较自由，**被放出围栏，四处遛达**。冬天**常来**修道院参观的只有**一批批**滑雪者。他们在圣诞节或复活节到那儿去。这些**热爱**高山清静环境的年轻人每年都**受到**圣伯纳德修道院的热烈欢迎。
+夏天的几个月里，修道院十分忙碌，因为有**成千上万**的人驾车通过山口，**顺道**来修道院参观。**由于**来人太多，狗被**关**在专门的**围栏**里。**然而**到了冬天，修道院里的生活则是另一番**景象**。气温**下降**到零下30度，**试图**跨越山口的人**寥寥无几**。修道士们喜欢冬天，而不太喜欢夏天。因为在冬天，他们可以更多地过上**无人打扰**的生活。狗也比较自由，**被放出围栏，四处遛达**。冬天**常来**修道院参观的只有**一批批**滑雪者。他们在圣诞节或复活节到那儿去。这些**热爱**高山清静环境的年轻人每年都**受到**圣伯纳德修道院的热烈欢迎。
 
 During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars.
 
- As there are so many people about, the dogs have to be kept in a special enclosure. 
+ As there are so many people about, the dogs have to be kept in a special **enclosure**. 
 
 In winter, however, life at the monastery is quite different. 
 
@@ -898,7 +990,7 @@ These young people, who love the **peace** of the mountains, always receive a wa
 
 How do cats try to protect themselves when falling from great heights?
 
-Cats never fail to fascinate human beings. They can be friendly and **affectionate** towards humans, but they **lead** mysterious lives of their own as well. They never become **submissive** like dogs and horses. As a result, humans have learned to respect **feline** independence. Most cats remain **suspicious** of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives. Apparently, there is **a good deal** of truth in this idea. A cat's ability to survive falls is based on fact.
+Cats never fail to fascinate human beings. They can be friendly and **affectionate** towards humans, but they **lead** mysterious lives of their own as well. They never become **submissive** like dogs and horses. As a result, humans have learned to respect **feline** independence. Most cats remain **suspicious** of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives. Apparently, there is **a good deal of** truth in this idea. A cat's ability to survive falls is based on fact.
 
 Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months. All these cats had one experience in common: they had fallen off high buildings, **yet** only eight of them died from shock or injuries. Of course, New York is the ideal place for such an interesting study, because there is **no shortage of** tall buildings. There are plenty of **high-rise** **windowsills** to fall, from! One cat, Sabrina, fell 32 **storeys**, yet only **suffered from** a broken tooth. ‘Cats behave like well-trained **paratroopers**, ’ a doctor said. It seems that the further cats fall, the less they **are likely to** injure themselves. In a long drop, they reach speeds of 60 miles an hour and more. At high speeds, falling cats have time to relax. They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground.
 
@@ -1109,7 +1201,9 @@ smuggler（1. clearly 4）/'smʌglə/n．走私者
 
 Customs Officer 海关官员
 
-Customs n.海关
+
+
+customs n.海关
 
 custom  n.习俗 ;adj.定制
 
@@ -1117,15 +1211,17 @@ customer n.顾客
 
 costume n.服装 
 
+consumer n。消费者
+
 
 
 officious（1. 7）/ə'fiʃəs/adj．爱管闲事的
 
 declare（1. 3）/di'kleə/v．申报
 
-go through  检查
+go through  检查 、经过
 
- with great care 小心翼翼地
+with great care 小心翼翼地
 
 dreadful（1. 14）/'dredfəl/adj．可怕的，一团糟的
 
@@ -1206,13 +1302,13 @@ I saw the Officer's face light up 表示过程
 
 **参考译文**
 
-**现在的**海关官员往往相当宽容。但是，当你**通过**绿色通道，没有任何东西需要申报时，他们仍可以拦住你。甚至是最诚实的人也常**被弄得**觉得有罪似的，而老练的职业走私犯即使在手提箱里**藏**着500只金表，**却**也**处之泰然**。最近一次，我出国**归来**，碰上一位**特别 ****好管闲事**的年轻海关官员，他**显然**把我**当**成了走私犯。
+**现在的**海关官员往往相当宽容。但是，当你**通过**绿色通道，没有任何东西需要申报时，他们仍可以**拦**住你。甚至是最诚实的人也常**被弄得**觉得有罪似的，而老练的职业走私犯即使在手提箱里**藏**着500只金表，**却**也**处之泰然**。最近一次，我出国**归来**，碰上一位**特别 ****好管闲事**的年轻海关官员，他**显然**把我**当**成了走私犯。
 
-Customs officer are quite tolerant these days .But,when you are going through the Green Channel and having nothing to declaret the could still stop you .Even really  honest people are often made to feel guity
+Customs officer are quite tolerant **these days** .But,when you are going through the Green Channel and having nothing to declaret the could still stop you .Even really  honest people are often made to feel guity
 
 the  **hardened** professional  smuggler is   **never troubled by such feelings** ，ont the  other hand,even if  he has  five hundred gold watches hidden   in his  suitcase 。
 
-When  i **returned from abord** recently, a particulatly **officious** young Customs office **clearly**  **regarded** me as a smuggler. 
+When  i **returned from abroad** recently, a particulatly **officious** young Customs office **clearly**  **regarded** me as a smuggler. 
 
 
 
@@ -1234,7 +1330,7 @@ Not at all,  i answered.
 
 那位官员十分仔细地把箱子检查了一遍。**所有**细心包装好的**东西****一会儿工夫**就乱成了一团。我**相信**那箱子**再也关不上了**。突然，我看到官员脸上**露出了得意的神色**。他在我的**箱底******发现****了一只小瓶，高兴地一把抓了起来。
 
-that office went through the suitcase **with great care.**  all the things that i had  packed carefully  were **soon** in  a  dreadful mess, i felt sure that  i would  never be able to  close the case again。  Suddenly， i  saw the officer's face light up。 he had spotted a tiny bottle at the bottom of the case and he  pounced on it with delight.
+that office went through the suitcase **with great care.**  all the things that i had  packed carefully  were **soon** **in  a  dreadful mess**, i felt sure that  i would  never be able to  close the case again。  Suddenly， i  saw the officer's face light up。 he had spotted a tiny bottle at the bottom of the case and he  pounced on it with delight.
 
 
 
@@ -1259,7 +1355,7 @@ The customs office  unscrewed the cap and  put the bottle to his nostril.    He 
 
 What was exceptional about the two men's stay on the desert island?
 
-Most of us have formed an unrealistic picture of life on a desert island. We sometimes imagine a desert island to be a sort of paradise where the sun always shines. Life there is simple and good. Ripe fruit falls from the trees and you never have to work. The other side of the picture is quite the opposite. Life on a desert island is wretched. You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes. Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.
+Most of us have formed an unrealistic picture of life on a desert island. We sometimes imagine a desert island to be a sort of paradise where the sun always shines. Life there is simple and good. Ripe fruit falls from the trees and you never have to work. **The other side of the picture is quite the opposite**. Life on a desert island is wretched. You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes. Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.
 
 Two men who recently spent five days on a coral island wished they had stayed there longer. They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired. During the journey, their boat began to sink. They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island. There were hardly any trees on the island and there was no water, but this did not prove to be a problem. The men collected rainwater in the rubber dinghy. As they had brought a spear gun with them, they had plenty to eat. Theycaught lobster and fish every day, and, as one of them put it ‘ate like kings’. When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.
 
@@ -1269,7 +1365,7 @@ exceptional adj,异常的，罕见的，杰出的，特别的
 
 unrealistic adj.不切实际的
 
-deset adj.无人的;
+desert adj.无人的;
 
 desert island（title）/'dezət-ailənd/荒岛
 
@@ -1329,7 +1425,7 @@ Robinson Crusoe （11. 6-7）/'rɔbinsən'kru:səu/鲁滨孙·克鲁索（小说
 
 
 
-Most of us  have **formed**  an unrealistic  picture of life on a desert island。 we sometimes imagine  the island to be a sort of （有点，） paradise where the  sun always shines。   life  there is simple and good。Ripe fruit  falls from the trees and  people never have to work, **the other side  of picture  is on the opposite** .Life on a desert island is wretched.  You either starve to death or live like  Robinson Crusoe,
+Most of us  have **formed**  an unrealistic  picture of life on a desert island。 we sometimes imagine  the island to be a sort of （有点，） paradise where the  sun always shines。   life  there is simple and good。Ripe fruit  falls from the trees and  people never have to work, **the other side  of picture  is on the opposite** .Life on a desert island is **wretched**.  You either starve to death or live like  Robinson Crusoe,
 
 ，waiting for a  boat which never comes。   Perhap**s there is an elemnent  of truth in both these pictures**，but few of us have had the opportunity to find out.
 
@@ -1339,13 +1435,13 @@ Most of us  have **formed**  an unrealistic  picture of life on a desert island�
 
 
 
-最近有两个人在一座珊瑚岛上呆了5天，他们真希望在那儿**再多******待****一些日子。他们****驾****着一条严重损坏的小船从维尔京群岛去迈阿密修理。**途中**，船开始下沉，他们迅速把食物、火柴、罐装啤酒往一只救生筏上**装**。然后在加勒比海上划行了几英里，到了一座珊瑚岛上。
+最近有两个人在一座珊瑚岛上**呆**了5天，他们真希望在那儿**再多******待****一些日子。他们****驾****着一条严重损坏的小船从维尔京群岛去迈阿密修理。**途中**，船开始下沉，他们迅速把食物、火柴、罐装啤酒往一只救生筏上**装**。然后在加勒比海上划行了几英里，到了一座珊瑚岛上。
 
 岛上几乎没有一棵树，也没有淡水，但这不算什么问题。他们用橡皮艇**蓄积**雨水。**由于**他们随身**带**了一支捕鱼枪，因此，吃饭不愁。他们天天捕捉龙虾和鱼，正如其中一位所**说**，吃得“像国王一样好”。5天后，一条油轮从那儿**路过**，搭救了他们。这二位不得不离开那个荒岛时，还真的感到**遗憾**呢！
 
-Recently two men  who spent five days on a coral island wished they had  stayed longer. there were taking a  badly damaged boat from    Virgin Islands to  Miami to  have it repaired,  **During the journey**, the boat began to sink,  they rapidly loaded  a  small rubber dinghy  with the food ,matches, and cans of beer  and rowed for a few miles  acrossed the Caribbean util they arrived  at coral island。
+Recently two men  who spent five days on a coral island wished they had  stayed longer. they were taking a  badly damaged boat from    Virgin Islands to  Miami to  have it repaired,  **During the journey**, the boat began to sink,  they rapidly **loaded**  a  small rubber dinghy  with the food ,matches, and cans of beer  and **rowed** for a few miles  acrossed the Caribbean util they arrived  at coral island。
 
-they **were hardly  any trees**  on the island and there was no water。**but this didnt prove to be a problem**。 they  collected  rainwater in the  rubber dinghy  。**As **they had brought a spear gun with them ,    they had plenty to eat. the caught lobster and fish every day. **as one of them   put it like** 'ate like kings',  
+they **were hardly  any trees**  on the island and there was no water。**but this didnt prove to be a problem**。 they  collected  rainwater in the  rubber dinghy  。**As **they had brought a spear gun with them ,    they had plenty to eat. the caught lobster and fish every day. **as one of them   put it ** 'ate like kings',  
 
 when a passing tanker rescued them five days later,both men were   genuinely **sorry** that they had to leave.
 
@@ -1430,7 +1526,7 @@ She had told him **to come** straight in if ever she failed to open the door and
 
 After Mrs Richards  ‘s husband had **gone to work**，She sent her childeren to school and went upstairs to her bedroom.she was too excited to do any  housework  that morning ,for in the evening she would be going to a facncy-dress party with her husband.
 
- She intended to **dress up** as a ghost and as she had made her costume **the** **night before**, she **was impatient to try it on.**
+ She intended to **dress up** as a ghost and as she had made her costume  **the night before**, she **was impatient to try it on.**
 
  Although the dress consisted  only of a sheet, it was very **effective**.   
 
@@ -1442,7 +1538,7 @@ After putting it on,  Mrs Richards  went downstairs. she wanted to find out whet
 
 理查兹夫人**刚刚****走进**餐厅，前门就传来敲门声。她知道来人一定是面包师。她曾告诉过面包师，如果她不去开门，他可直接进门，把面包放在厨房的桌上。理查兹夫人不想吓唬这个可怜的人，便赶紧躲到了楼梯下的小储藏室里。她听见前门被打开，****走廊里响起了重重的脚步声****。突然贮藏室门开了，一个男人走了进来。理查兹夫人**这才想到一**定是供电局来人查电表了。她说了声“是我，别怕！”然后想进行**一番****解释**，但已来不及了。那人****大叫**了一声**，**惊退了几步**。理查兹夫人朝他走去，只见他“砰”的一声关上门**逃走**了。
 
-Just as Mrs. Rechard was entering the dining room,  there was a knock(n.名词) on the front door.  She knew that it must be a baker.  
+Just as Mrs. Rechard was entering the dining room,  there was a knock(n.名词) **on the front door**.  She knew that it must be a baker.  
 
  She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table.
 
@@ -1491,6 +1587,10 @@ As long ago as the fourteenth century,
 an Englishman, Sir John Hawkwood,
 
 made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.
+
+
+
+
 
 Six hundred years ago,
 
@@ -1584,6 +1684,9 @@ Notes on the text课文注释**
 
 4 people would rather pay large sums of money than have their life work destroyed by gangsters,
 人们情愿支付一大笔钱，也不愿自己毕生的心血毁于歹徒之手。
+
+would rather do  than do
+
 5 made a name for himself, 出名了。
 6 be at war with…, 与……处于战争状态。
 7 in times of peace, 在和平时期。
@@ -1607,15 +1710,15 @@ If the money was not paid **promptly**, the gangsters would quickly **put** a ma
 
 **Obtaining** 'protection money' is not a modern crime.
 
-As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay **large sums of** money than have their **life work** destroyed by gangsters.
+As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people **would rather** pay **large sums of** money **than** have their **life work** destroyed by gangsters.
 
 
 
-  600年前,约翰.霍克伍德爵士**带**着一队士兵来到意大利,在佛罗伦萨附近**驻扎**下来,很快就出了名.意大利人叫他乔凡尼.阿库托.每次意大利各城邦**之间**   **打伏**,霍克伍德把他的士兵雇佣给愿给他出高价的君主。和平时期,当**生意萧条**时,霍克伍德便带领士兵进入某个城邦,纵火烧毁一两个农场,然后提出,如向他们缴纳保护金,他们便主动**撤离**。霍克伍德用这种方法挣了大笔钱.**尽管如此**,意大利人**还**是把他视作**某种**英雄。他**80岁**那年死去时,佛罗伦萨人为他举行了国葬,并为他画像以纪念这位"骁勇无比的战士、**杰出的**领袖乔凡尼.阿库托先生."
+  600年前,约翰.霍克伍德爵士**带**着一队士兵来到意大利,在佛罗伦萨附近**驻扎**下来,很快就出了名.意大利人叫他乔凡尼.阿库托.每次意大利各城邦**之间**   **打伏**,霍克伍德把他的士兵雇佣给愿给他出高价的君主。和平时期,当**生意萧条**时,霍克伍德便带领士兵进入某个城邦,纵火烧毁一两个农场,然后提出,如向他们缴纳保护金,他们便**主动** **撤离**。霍克伍德用这种方法挣了大笔钱.**尽管如此**,意大利人**还**是把他视作**某种**英雄。他**80岁**那年死去时,佛罗伦萨人为他举行了国葬,并为他画像以**纪念**这位"骁勇无比的战士、**杰出的**领袖乔凡尼.阿库托先生."
 
 
 
-Six hundred years age .
+Six hundred years ago .
 
 Sir John Hawkwood arrived in Italy with a band of soldiers and **settled** near Florence.
 
@@ -1637,7 +1740,7 @@ and after burning down a few farms, would offer to **go away** if protection mon
 
 Hawkwood made large sums of money in this way.
 
-In spite of this, the Italians regarded him as a sort of hero.
+In spite of this, the Italians regarded him as **a sort of** hero.
 
 When he died at age of eighty，  the Florentines **gave** him a state **funeral** and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.
 
@@ -1816,9 +1919,9 @@ small gifts of money/ gifts of money 零花钱
 
 
 
-孩子们总是喜欢得到一些零花钱。爸爸妈妈当然经常**给**孩子零花钱，但是，叔舅婶姨也是孩子们额外收入来源。**对于**有些孩子来说，少量的钱可以花很长一段时间。如果50便士不拿来换糖吃，则可以放在**储蓄罐里**叮当响上好几月。但是能把储蓄罐**装满**的只有**屈指可数**的几个特别节俭的孩子。对大部分孩子来说，用50便士来买一大块好的巧克力，是算不了什么的。
+孩子们总是喜欢得到一些零花钱。爸爸妈妈**当然**经常**给**孩子零花钱，但是，叔舅婶姨也是孩子们额外收入来源。**对于**有些孩子来说，**少量**的钱可以花很长一段时间。如果50便士不拿来换糖吃，则可以放在**储蓄罐里**叮当响上好几月。但是能把储蓄罐**装满**的只有**屈指可数**的几个特别节俭的孩子。对大部分孩子来说，用50便士来买一大块好的巧克力，是算不了什么的。
 
-Children always appreciate small gifts of money.
+Children always appreciate **small gifts of money.**
 
 Mum or dad, of course, provides a regular supply of pocket money,but uncles and aunts are always a source of extra income.
 
@@ -1865,4 +1968,2453 @@ The fire brigade was called and two fire fighters freed George using a special t
 
 
 George was not too upset by his experience，because the lady who owns the sweet shop heard about his troubles and rewarded him with a large **box** of chocolates.
+
+
+
+
+
+## Lesson 16 Mary had a little lamb
+
+
+
+Was Dimitri right to apologize to his neighbour? Why not?
+
+
+
+Mary and her husband Dimitri lived in the tiny village of Perachora in southern Greece.
+
+One of Mary's prize possessions was a little white lamb which her husband had given her.
+
+She kept it tied to a tree in a field during the day and went to fetch it every evening.
+
+One evening, however the lamb was missing.
+
+The rope had been cut, so it was obvious that the lamb had been stolen.
+
+When Dimitri came in from the fields, his wife told him what had happened.
+
+Dimitri at once set out to find the thief.
+
+He knew it would not prove difficult in such a small village.
+
+After telling several of his friends about the theft,
+
+Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.
+
+Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb.
+
+He told him he had better return it or he would call the police.
+
+Aleko denied taking it and led Dimitri into his backyard.
+
+It was true that he had just bought a lamb he explained,
+
+but his lamb was black.
+
+Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.
+
+While they were talking it began to rain and Dimitri stayed in Aleko's house until the rain stopped.
+
+When he went outside half an hour later,
+
+he was astonished to find that the little black lamb was almost white.
+
+Its wool, which had been dyed black,
+
+had been washed clean by the rain!
+
+
+
+
+
+prize
+
+8
+
+adj. 珍贵的，宝贵的
+
+9
+
+tie
+
+10
+
+v. 拴，系
+
+11
+
+theft
+
+12
+
+n. 偷盗行为，偷盗案
+
+13
+
+accuse
+
+14
+
+v. 指控
+
+15
+
+deny
+
+16
+
+v. 否认
+
+17
+
+ashamed
+
+18
+
+adj. 感到羞耻，惭愧
+
+19
+
+apologize
+
+20
+
+v. 道歉
+
+21
+
+dye
+
+22
+
+v. 染
+
+23
+
+wool n.羊毛
+
+rashly  adv.鲁莽的
+
+
+
+
+
+**自学导读
+Notes on the text课文注释**
+1 it would not prove difficult, 是不难做到的。
+prove是连系动词，作“证明是”讲，本句子与it would not be difficult相同。
+2 accuse sb. of (doing) sth. 作“指责、指控某人做某事”解。
+3 he had better return it, 他最好把羔羊还给迪米特里。
+had better用来表达一种建议，建议在将来某一具体场合采取的动作。这个短语比should和ought to的语气更强烈，常带有威胁、告诫或催促的意思。
+4 denied taking it…,
+deny后面可接动名词作宾语，也可接宾语从句。
+5 apologize to sb. for (doing)sth. , 是“因（做）某事向某人道歉”的意思。
+
+
+
+参考译文
+
+
+
+玛丽与丈夫迪米特里住在希腊南部一个叫波拉考拉的小村庄里。玛丽最珍贵的财产之一就是丈夫送给她的一只白色小羔羊。**白天**，玛丽把羔羊拴在地里的一颗树上，每天晚上把它牵回家。可是，一天晚上，那只小羔羊失踪了。绳子被人割断，很明显小羔羊是被人偷走了。
+
+Mary and her husband Dimitri lived in the tiny village of Perachora in southern Greece.
+
+One of Mary's prize possessions was a little white lamb which her husband had given her.
+
+She kept it tied to a tree in a field during the day and **went to** fetch it every evening.
+
+
+
+One evening, however the lamb was missing.
+
+The rope had been cut, so it was obvious that the lamb had been stolen.
+
+
+
+
+
+
+
+
+
+迪米特里从地里回来，妻子把情况跟他一说，他马上出去找偷羔羊的人。他知道在这样一个小村庄里抓住小偷并不困难。把失窃的事告诉几个朋友后，迪米特里发出他的邻居阿列科家突然**多**了一只小羔羊。迪米特里立刻去了阿列科家，气呼呼地指责他偷了羔羊，告诉他最好把羊交还，否则就去叫警察。阿列科不承认，并把迪米特里领进院子。**不错**，他的确刚买了一只羔羊，阿列科解释说，但他的羔羊是黑色的。迪米特里为自己的鲁莽而感到不好意思，向阿列科道了歉，说是错怪了他。就在他俩说话的时候，天下起了雨，迪米特里便呆在阿列科家里**避雨**，一直等到雨停为止。半小时后，当他从屋里出来时，他惊奇地发现小黑羔羊全身几乎都变成白色。原来羊毛上染的黑色被雨水冲掉了！
+
+When Dimitri came in from the fields, his wife told him what had happened.
+
+Dimitri at once set out to find the thief.
+
+He knew it would not prove difficult in such a small village. 
+
+After telling several of his friends about the theft,Dimitri found out that his neighbour, Aleko, had suddenly **acquired** a new lamb.
+
+Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb.
+
+He told him he had better return it or he would call the police.
+
+Aleko denied taking it and **led Dimitri into his backyard.**
+
+**It was true** that he had just bought a lamb he explained,but his lamb was black.
+
+
+
+Ashamed of **having acted** so rashly, Dimitri apologized to Aleko for **having accused** him.
+
+While they were talking it began to rain and Dimitri stayed in Aleko's house until the rain stopped.
+
+
+
+When he went outside half an hour later,he was astonished to find that the little black lamb was almost white.
+
+Its wool, which had been dyed black,had been washed clean by the rain!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 17 The longest suspension bridge in the world
+
+
+
+The longest suspension bridge in the world
+
+How is the bridge supported?
+
+Verrazano, an Italian about whom little is known,sailed into New York Harbour in 1524 and named it Angouleme.
+
+He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river.'
+
+Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal,for on November 21st, 1964, the longest suspension bridge in the world was named after him.
+
+The Verrazano Bridge, which was designed by Othmar Ammann, joins Brooklyn to Staten Island.
+
+It has a span of 4, 260 feet.
+
+The bridge is so long that the shape of the earth **had to be taken into account** by its designer.
+
+Two great towers support four huge cables.
+
+The towers are built on immense underwater platforms made of steel and concrete.
+
+The platforms extend to a depth of over 100 feet under the sea.
+
+These alone took sixteen months to build.
+
+Above the surface of the water, the towers rise to a height of nearly 700 feet.
+
+They support the cables from which the bridge has been suspended.
+
+Each of the four cables contains 26, 108 lengths of wire.
+
+It has been estimated that if the bridge were packed with cars,
+
+it would still only be carrying a third of its total capacity.
+
+However, size and strength are not the only important things about this bridge.
+
+Despite its immensity, it is both simple and elegant,
+
+fulfilling its designer's dream to creat 'an enormous object drawn as faintly as possible'.
+
+New words and expressions 生词和短语
+
+7
+
+suspension
+
+8
+
+n. 悬，吊
+
+9
+
+agreeable
+
+10
+
+adj. 宜人的
+
+11
+
+situation
+
+12
+
+n. 地点，地方
+
+13
+
+locate
+
+14
+
+v. 位于
+
+15
+
+immortal
+
+16
+
+adj. 永生的，流芳百世的
+
+17
+
+Brooklyn
+
+18
+
+n. 布鲁克林（纽约一区名）
+
+19
+
+Staten
+
+20
+
+n. 斯塔顿（岛）
+
+21
+
+span
+
+22
+
+n. 跨度
+
+23
+
+cable
+
+24
+
+n. 缆索
+
+25
+
+concrete
+
+26
+
+n. 混凝土
+
+27
+
+suspend
+
+28
+
+v. 悬挂
+
+29
+
+length
+
+30
+
+n. 根，段
+
+31
+
+estimate
+
+32
+
+v. 估计
+
+33
+
+capacity
+
+34
+
+n. 承受量
+
+35
+
+immensity
+
+36
+
+n. 巨大
+
+37
+
+elegant
+
+38
+
+adj. 优美别致的
+
+39
+
+faintly
+
+40
+
+adv. 微细地
+
+41
+
+参考译文
+
+42
+
+1 describe…as…作“把……描绘成……”、“认为……”讲。
+2 located within two small hills    in the midst  of   which flowed a great river, 位于两座小山之间，一条大河滔滔流过。
+located…是过去分词短语作定语，修饰situation;in the midst of which引导一个定语从句，which指two small hills。in the midst of, 在……之中。
+
+从句( in the midst of 是whiche的定语 ）  which    (flowed a great rive ）
+
+  Verrazano, an Italian about whom little is known,
+
+ little is known  about whom （改成陈述句）
+
+
+
+3 by no means, 无论如何，决不。
+4 be named after sb. , 以某人的名字命名。
+5 be taken into account, 被考虑到。
+6 It has been estimated…, 据估计，……。
+7 be packed with…作“挤满……”、“装满……”解。
+
+
+
+1524年，一位**鲜为人知**的意大利人维拉萨诺驾船驶进纽约港，并将该港名为安古拉姆。他对该港作了这样的描述："地理位置十分适宜，位于两座小山的中间，一条大河从中间流过"。虽然维拉萨诺绝对**算**不上一个伟大的探险家，**但他的名字将流芳百世**，因为1964年11月21日建成的一座世界上最长的吊桥是以他的名字命名。
+
+
+
+
+
+Verrazano, an Italian **about whom little is known,**sailed into New York Harbour in 1524 and named it Angouleme.
+
+
+
+He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river.
+
+（
+
+In the midst of two small hills flowed a great river.
+A great river flowed in the midst of two small hills.
+
+）
+
+
+
+Though Verrazano is by no means **considered** to be a great explorer, his name will probably **remain** **immortal**,for on November 21st, 1964, the longest suspension bridge in the world was named after him.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+维拉萨诺大桥由奥斯马.阿曼设计，**连结**着布鲁克林与斯塔顿岛，桥长4,260英尺。由于桥身太长，设计者不得不考虑了地表的形状。两座巨塔支撑着4根**粗大**的钢缆。塔身建在巨大的水下钢盘混凝土平台上。平台**深入海底**100英尺。仅这两座塔就花了16个月才建成。塔身 **高** 出水面将**近**700英尺。高塔支撑着钢缆，而钢缆又悬吊着大桥，4根钢缆中的每根由26，108股钢绳组成。据估计，若桥上**摆满**了汽车，也只不过是桥的总**承载力**的1/3。然而，这座桥重要特点不仅是它的规模与强度。尽管此桥很大，**但它的结构简单**，**造型**优美，实现了设计者企图创造一个"**尽量**用细**线**条勾画出一个庞然大物"的梦想。
+
+The Verrazano Bridge, which was designed by Othmar Ammann**, joins Brooklyn to Staten Island.**
+
+It has a **span** of 4, 260 feet.
+
+The bridge is so long that the shape of the earth had to be **taken into account** by its designer.
+
+Two great towers support four huge **cables**.
+
+The towers are built on immense underwater platforms **made of** steel and concrete.
+
+The platforms **extend to a depth of** over 100 feet under the sea.
+
+These alone **took** **sixteen months** **to build.**
+
+Above the surface of the water, the towers rise to a height of nearly 700 feet.
+
+[, **narrowly** missing the immense wall of ice which rose over 100 feet out of the water beside her. ]
+
+They support the cables from which the bridge has been suspended.Each of the four cables contains 26, 108 lengths of wire.
+
+It has been estimated that if the bridge **were packed with** cars,it would still only be carrying a third of its total capacity.
+
+However, size and strength are not the only important things about this bridge.
+
+Despite its immensity, it is both simple and elegant,fulfilling its designer's dream to create 'an enormous object drawn as faintly as possible'.
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 18  Electric currents in modern art  现代艺术的电流
+
+
+
+How might some of the exhibits have been dangerous?
+
+
+
+might  + have been  
+
+
+
+
+
+Modern sculpture rarely surprises us any more.
+
+The idea that modern art can only be seen in museums is **mistaken**.
+
+**Even people who take no interest in art cannot have failed to notice examples of modern sculpture on display in public places.**
+
+Strange forms stand in gardens, and outside buildings and shops.
+
+We have got quite used to them.
+
+Some **so-called** 'modern' pieces have been on display for nearly eighty years.
+
+
+
+
+
+
+
+In spite of this, some people--including myself--were surprised by a recent exhibition of modern sculpture.
+
+The first thing I saw when I entered the art gallery was a notice which said:
+
+'Do not touch the exhibits, some of them are dangerous!'
+
+The objects on display were pieces of moving sculpture.
+
+**Oddly** shaped forms that are suspended from the ceiling
+
+and move in response to a gust of wind are quite familiar to everybody.
+
+These objects, however, were different.
+
+Lined up against the wall, there were long thin wires attached to metal spheres.
+
+The spheres had been magnetized and attracted or repelled each other all the time.
+
+In the centre of the hall,
+
+there were a number of tall structures which contained coloured lights.
+
+These lights **flickered** continuously like traffic lights which have gone mad.
+
+Sparks were emitted from small black boxes and red lamps flashed on and off angrily.
+
+It was rather like an exhibition of **prehistoric** electronic equipment.
+
+These **peculiar** forms not only seemed designed to shock people emotionally,
+
+but to give them electric shocks as well!
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+7
+
+current
+
+8
+
+n. 电流
+
+9
+
+sculpture
+
+10
+
+n. 雕塑
+
+11
+
+mistaken
+
+12
+
+adj. 错误的
+
+13
+
+gallery
+
+14
+
+n. 美术馆
+
+15
+
+exhibit
+
+16
+
+n. 展品，陈列品
+
+17
+
+oddly
+
+18
+
+adv. 古怪的
+
+19
+
+attach
+
+20
+
+v. 连，系
+
+21
+
+sphere
+
+22
+
+n. 球体
+
+23
+
+magnetize
+
+24
+
+v. 使磁化
+
+25
+
+repel
+
+26
+
+v. 排斥
+
+27
+
+flicker
+
+28
+
+v. 闪烁
+
+29
+
+emit
+
+30
+
+v. 放射
+
+31
+
+flash
+
+32
+
+v. 闪光
+
+33
+
+prehistoric
+
+34
+
+adj. 史前的，老掉牙的
+
+35
+
+electronic
+
+36
+
+adj. 电子的
+
+37
+
+peculiar
+
+38
+
+adj. 奇异的
+
+39
+
+shock
+
+40
+
+v. 令人震惊，刺激人
+
+41
+
+emotionally
+
+42
+
+adv. 事情上
+
+ceiling   n.天花板
+
+ a gust of wind 一阵风
+
+gust n.一阵强风
+
+pieces n。作品
+
+so-called adj.所谓的
+
+　　自学导读
+Notes on the text课文注释**
+1 The idea that… is mistaken.
+此处that引导的从句作idea的同位语。
+2 take no interest in…，作“对……不感兴趣”解。
+3 cannot have failed to notice, 不至于没注意到。
+
+“cannot+have+过去分词”表示对于过去的事所作的不肯定的推测。
+
+might  + have been  
+
+
+
+
+
+
+
+4 move in response to a gust of wind，随风飘荡。
+in response(to)作“回答’、“响应”、“作出反应”讲。此处是“（展品）随风而动”的意思。
+5 be familiar to…是“为……所熟悉”的意思。
+6 Lined up against the wall, 靠墙排列着。
+7 like traffic lights which have gone mad, 就像失去控制的红绿灯一样。
+go mad作“发疯”、“发狂”讲。
+8 on and off（亦作 off and on）作“断断续续地”、“有时”讲。
+9 These peculiar forms not only seemed designed…，其中seemed是系动词，seemed designed 作用与were designed是一样的。
+
+
+
+familiar to 和 familiar with 是两个相近的词组，都有“熟悉”的意思，但是他们用法却有很大的不同，今天我们一起来学习一下。
+
+\1. familiar to：这个词组的意思是“（某事物）对（某人）来说是熟悉的”。主语一般是事物，to 后一般接人。
+
+\2. familiar with：这个词组的意思是“（某人）对（某人或某事物）熟悉”，主语一般是人，with 后可接人也可接物。
+
+
+
+43
+
+参考译文
+
+44
+
+现代雕塑**不再**使我们感到惊讶了。那种认为现代艺术只能在博物馆里才能看到的观点是错误的。即使是对艺术不感兴趣的人也不**会注意**到在公共场所展示的现代**艺术品**。公园里、大楼和商店外**竖立着**的奇形怪状的雕塑，对这些，我们已经**司空见惯**了。有些所谓的"现代"艺术品在那里已经陈列了近80年了。
+
+Modern sculpture **rarely** surprises us **any more（再也）**.
+
+The idea that modern art can only be seen in museums is mistaken.
+
+Even people who take no interest in art  cannot have failed to notice examples of modern sculpture on display in public places.
+
+Strange forms **stand** **in** gardens, and outside buildings and shops.
+
+We have got quite used to them.
+
+Some so-called 'modern' pieces have been on display for nearly eighty years.
+
+
+
+尽管如此，最近举办的一次现代雕塑展览还是使一些人（包括我在内）**大吃了一惊**。走进**展厅**首先看到的是一张**告示**，上面写着"切勿触摸**展品**，某些展品有危险！"展品都是些活动的雕像。人们所熟悉的是**悬挂在天花板上**、造型奇特、随风飘荡的雕塑品。这些展品却**使人大开眼界**。靠墙排列着许多细长的电线，而电线又**连**着**金属球**。金属球经过磁化，互相之间**不停地**相互**吸引**或相互**排斥**。展厅中央是装有彩色灯泡的许多高高的构件，灯泡一刻不停地闪烁着，**就像**失去了控制的红绿灯。小黑盒子里迸出火花，**红色灯泡发怒似地忽明忽暗**。这儿**倒像是**在展览古老的电子设备。好像设计这些**奇形怪状**的展品不仅是为了给人感情上的**强烈刺激，**而且还想给人以电击似的！
+
+
+
+In spite of this, some people--including myself--**were surprised by** a recent exhibition of modern sculpture.
+
+The first thing I saw when I entered the art gallery was a notice which said:'Do not touch the exhibits, some of them are dangerous!'
+
+The objects on display were pieces of moving sculpture.
+
+
+
+Oddly shaped forms that **are suspended from the ceiling** and move in response to a gust of wind are quite familiar to everybody.
+
+These objects, however, were different.
+
+Lined up **against** the wall, there were long thin wires attached to metal spheres.
+
+The spheres had been magnetized and attracted or **repelled** each other all the time.
+
+In the centre of the hall, there were a number of tall structures which contained coloured lights.
+
+These lights flickered continuously like traffic lights which have gone mad.
+
+Sparks were emitted from small black boxes and red lamps flashed on and off angrily.
+
+It **was rather like** an exhibition of prehistoric electronic equipment.
+
+These **peculiar** forms not only seemed designed to **shock** people emotionally,but to give them electric shocks as well!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 19  A very dear cat
+
+
+
+Why was Rastus 'very dear' in more ways than one?
+
+Kidnappers are rarely interested in animals,but they recently took considerable interest in Mrs. Eleanor Ramsay's cat.
+
+Mrs. Eleanor Ramsay, a very wealthy old lady,has shared a flat with her cat, Rastus, for a great many years.
+
+Rastus leads an orderly life.
+
+He usually takes a short walk in the evenings and is always home by seven o'clock.
+
+One evening, however he failed to arrive.
+
+Mrs. Ramsay got very worried.
+
+She looked everywhere for him but could not find him.
+
+Three days after Rastus' disappearance,
+
+Mrs. Ramsay received an anonymous letter.
+
+The writer stated that Rastus was **in safe hands** and would be returned immediately if Mrs. Ramsay paid a ransom of $1,000.
+
+Mrs.Ramsay was instructed to place the money in a cardboard box and to leave it outside her door.
+
+At first, she decided to go to the police,
+
+but fearing that she would never see Rastus again--the letter had made that quite clear--she changed her mind.
+
+She **withdrew** $1000 from her bank and followed the kidnapper's instructions.
+
+The next morning, the box had disappeared but Mrs.Ramsay was sure that the kidnapper would keep his word.
+
+Sure enough, Rastus arrived **punctually** at seven o'clock that evening.
+
+He looked very well, though he was rather thirsty,for he drank half a bottle of milk.
+
+The police were **astounded** when Mrs. Ramsay told them what she had done.
+
+She explained that Rastus was very dear to her.
+
+Considering the amount she paid,he was dear in more ways than one!
+
+
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+7
+
+dear
+
+8
+
+adj. 亲爱的，珍贵的；昂贵的
+
+9
+
+kidnapper
+
+10
+
+n. 绑架者，拐骗者
+
+11
+
+considerable
+
+12
+
+adj. 相当大的
+
+13
+
+wealthy
+
+14
+
+adj. 富的，有钱的
+
+15
+
+orderly
+
+16
+
+adj. 有规律的
+
+17
+
+disappearance
+
+18
+
+n. 失踪
+
+19
+
+anonymous
+
+20
+
+adj. 匿名的
+
+21
+
+ransom
+
+22
+
+n. 赎金
+
+23
+
+cardboard
+
+24
+
+n. 硬纸板
+
+25
+
+withdraw(withdrew, withdrawn)
+
+26
+
+v. （从银行）取钱
+
+27
+
+punctually
+
+28
+
+adv. 准时地
+
+29
+
+astound
+
+30
+
+v. 使吃惊
+
+31
+
+
+
+
+
+Notes on the text课文注释
+1 share…wih,作“与…分享、合用.”解。
+2 be in safe hands.在可靠的人那里。
+3 she changed her mind,.她改变了主意。
+4 keep one's word,遵守诺言。
+5 sure enough,无疑，果然。
+6 Considering ..he was dear in more ways than one
+considering是介词短语，作“考虑到…”、“就…而言”解，此处作原因状语
+dear不仅作为“可爱”讲，还可作“昂贵”讲。此处有一语双关之意。
+in more ways than one (way)作“在更多方面”解。
+
+
+
+The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of $1,000.
+
+这句话没有虚拟语气，没有出现和事实相反的情况。
+
+原句可能是：“If Mrs. Ramsay **pays** a ransom of $1,000, Rastus **will** be returned immediately.”
+
+当主句的动词是过去时（如“stated”），条件从句中的时态通常需要相应地退一步。并且pays虽然是 一般现在时有将来的意思
+
+
+
+参考译文
+
+32
+
+绑架者很少对动物感兴趣。最近，绑架者却**盯上了**埃莉诺.拉姆齐太太的猫。埃莉诺.拉姆齐太太是一个非常富有的老妇人，多年来，一直同她养的猫拉斯一起住在一所公寓里。拉斯特斯生活很有规律，傍晚常常出去溜达一会儿，并且总是在7点钟以前回来。可是，有一天晚上，它出去后再也没回来。拉姆齐太太**急**坏了，四处寻找，但没有找着。
+
+Kidnappers  are bearely interested in animals.
+
+but they recently **took considerable interest** in Mrs. Eleanor Ramsay's cat.
+
+Mrs. Eleanor Ramsay, a very wealthy old lady,has shared a flat with her cat, Rastus, for a great many years.
+
+Rastus leads an orderly life.
+
+He usually takes a short walk in the evenings and is always home by seven o'clock.
+
+One evening, however he failed to arrive.
+
+Mrs. Ramsay got very worried.
+
+She looked everywhere for him but could not find him.
+
+
+
+33
+
+拉斯特斯失踪3天后，拉姆齐太太收到一封匿名信。写信人声称拉斯特斯安然无恙，只要拉姆齐太太愿意支付1,000 英镑赎金，可以立即将猫送还。他让拉姆齐太太把钱**放**在一个纸盒里，然后将纸盒放在门口。一开始拉姆齐太太打算报告警察，但又害怕再也见不到拉斯特斯--这点，信上说得十分明白--于是便改变了主意。她从银行取出1,000 英镑，并照绑架者的要求做了。第二天早晨，放钱的盒子不见了。但拉姆齐太太确信绑架者是会履行诺言的。果然，当天晚上7点正，拉斯特斯准时回来了。它看上去一切正常，只是口渴得很，喝了半瓶牛奶。拉姆齐太太把她所做的事告诉了警察，警察听后大为吃惊。拉姆齐太太解释说她**心疼**她的猫拉斯特斯。想到她所花的**那笔钱**，她的**心疼**就具有双重意义了。
+
+Three days after Rastus' disappearance，  Mrs. Ramsay received an anonymous letter。
+
+The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of $1,000.
+
+Mrs.Ramsay was instructed **to place** the money in a cardboard box and **to leave it** outside her door.
+
+
+
+At first, she decided to go to the police,but fearing that she would never see Rastus again--the letter had made that quite clear--she changed her mind.（破折号可以用来插入整个句子，作为对主要句子内容的补充、解释或强调。这种插入句通常会打断原来的句子结构，但提供了额外的重要信息）
+
+She withdrew $1000 from her bank and followed the kidnapper's instructions.
+
+
+
+The next morning, the box had disappeared but Mrs.Ramsay was sure that the kidnapper would keep his word.
+
+
+
+
+
+Sure enough, Rastus arrived punctually at seven o'clock **that evening.**
+
+
+
+He looked very well, though he was rather thirsty,for he drank **half a bottle of** milk.
+
+The police were astounded when Mrs. Ramsay told them what she had done.
+
+She explained that Rastus was very dear to her.
+
+Considering the amount she paid,he was dear **in more ways than one**!
+
+## Lesson 20  Pioneer pilots
+
+
+
+What was the name of the first plane to fly across the English Channel?
+
+
+
+In 1908 Lord Northcliffe offered a prize of $1,000 to the first man who would fly across the English Channel.
+
+Over a year passed before the first attempt was made.
+
+On July 19th, 1909, in the early morning,Hubert Latham took off from the French coast in his plane the 'Antoinette IV.'
+
+He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea.
+
+The 'Antoinette' floated on the water until Latham was picked up by a ship.
+
+Two days later, Louis Bleriot arrived near Calais with a plane called 'No.XI'.
+
+Bleriot had been making planes since 1905 and this was his latest model.
+
+A week before, he had completed a successful overland flight during which he covered twenty-six miles.
+
+Latham, however, did not give up easily.
+
+He, too, arrived near Calais on the same day with a new 'Antoinette'.
+
+It looked as if there would be an exciting race across the Channel.
+
+Both planes were going to take off on July 25th,but Latham failed to get up early enough.
+
+After making a short test flight at 4.15 a.m., Bleriot **set off** half an hour later.
+
+His great flight lasted thirty-seven minutes.
+
+When he landed near Dover, the first person to greet him was a local policeman.
+
+Latham made another attempt a week later and got within half a mile of Dover,
+
+but he was unlucky again.
+
+His engine failed and he landed on the sea for the second time.
+
+
+
+
+
+
+
+
+
+　**自学导读**
+Notes on the text课文注释
+1 the English Channel, 英吉利海峡。
+大西洋延伸的部分，长约350英里（约560公里），将英法两国的领土分开。
+2 Over a year passed before the first attempt was made.
+一年多时间之后，才有人进行第一次尝试。
+3 pick up此处作“（从海里）救起”解。
+4 did not give up easily, 不轻易作罢。
+give up当“放弃”讲。
+5 It looked as if there would be an exciting race across the Channel. 看起来似乎有一场精采的飞越英吉利海峡的比赛。as if引导的从句作起系动词作用的look的表语，其中谓语动词 would be表示与未来的事实不相符的虚拟结构。
+6 got within half a mile of Dover, 到了离多佛不到半英里的地方。
+7 Dover, 多佛港，是英吉利海峡的一个港口，对面是法国港口加来。多佛与加来相距21英里（34公里），是英吉利海峡最窄的部分。
+
+
+
+
+
+New words and expressions 生词和短语
+
+7
+
+pioneer
+
+8
+
+n. 先驱
+
+9
+
+lord
+
+10
+
+n. 对（英国）贵族的尊称；勋爵
+
+11
+
+Calais
+
+12
+
+n. 加来（法国港市）
+
+13
+
+overland
+
+14
+
+adj. 陆上的
+
+15
+
+参考译文
+
+16
+
+1908年，诺斯克利夫勋爵拿出1,000英镑，作为对第一个飞越英吉利**海峡**的人的奖励。然而**一年多**过去了才有人出来**尝试**。1909年7月19日凌晨，休伯特.莱瑟姆驾驶"安特瓦特4号"飞机从法国海岸起飞，但他只在海峡上空飞行7英里，**引擎就发生了故障**，他**只好**降落在海面上。"安特瓦特"号飞机在海上漂浮，**后来有船经过**，莱瑟姆方才获救。
+
+In ninteen o  eight Lord Northcliffe offered a prize of $1,000 to the first man who would fly across the English Channel
+
+Over a year passed before the first attempt was made
+
+ On July 19th, 1909, in the early morning, Hubert Latham took off from the French coast in his plane the 'Antoinette IV.
+
+ He had travelled only seven miles across the Channel when his **engine failed** and he was forced to land on sea. 
+
+The 'Antoinette' floated on the water until Latham was **picked up** by a ship
+
+
+
+17
+
+两天之后，路易斯.布莱里奥驾驶一名为"11号"**的飞机来到加来附近**。布莱里奥从1905年起便开始研制飞机，"11号"飞机是他制作的最新型号。一周以前，他曾成功地**进行**了一次26英里的陆上飞行。**但是**莱瑟姆不肯轻易罢休。同一天，他驾驶一架新的"安特瓦特"号飞机来到了加来附近。看来会有一场激烈的飞越英吉利海峡的竞争。两天飞机都**打算**在7月25日起飞，但莱瑟姆那天起床晚了。布莱里奥凌晨4点15分作了一次短距离试飞，半小时后便正式**出发**了。他这次伟大的飞行**持续**37分钟。当他在多佛着陆后，第一个迎接他的是当地一名警察。莱瑟姆一周以后也作了一次尝试，飞到离多佛不到半英里的地方。这次他又遭厄运，因引擎故障第二次**降落**在海面上。
+
+Two days later, Louis Bleriot arrived near Calais with a plane called 'No.XI'.
+
+Bleriot had been making planes since  nineteen o 5 and this was his latest model.
+
+A week before, he had completed a successful overland flight **during which** he covered twenty-six miles.
+
+
+
+Latham, **however**, did not give up easily.
+
+He, too, arrived near Calais on the same day with a new 'Antoinette'.
+
+It looked as if there would be an exciting race across the Channel.
+
+Both planes were going to take off on July 25th,but Latham failed to get up early enough.
+
+After making a short test flight at 4.15 a.m., Bleriot **set off** half an hour later.
+
+His great flight lasted thirty-seven minutes.
+
+When he landed near Dover, the first person to greet him was a local policeman.
+
+Latham made another attempt a week later and got within half a mile of Dover,
+
+
+
+But he was unlucky again, His engine failed and he landed on the sea for the second time.
+
+
+
+
+
+
+
+## Lesson 21 Daniel Mendoza
+
+
+
+How many unsuccessful attempts did Mendoza make before becoming Champion of all England?
+
+
+
+Boxing matches were very popular in England two hundred years ago.
+
+In those days, boxers fought with bare **fists** for prize money.
+
+Because of this, they were known as 'prizefighters'.
+
+However, boxing was very crude,
+
+for there were no rules and a prizefighter could be seriously injured or even killed during a match.
+
+
+
+
+
+
+
+One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764.
+
+The use of gloves was not introduced until 1860,when the Marquis of Queensberry drew up the first set of rules.
+
+Though he was technically a prizefighter,Mendoza did much to change crude prizefighting into a sport,for he brought science to the game.
+
+In his day, Mendoza enjoyed tremendous popularity.
+
+He was adored by rich and poor alike.
+
+
+
+
+
+Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old.
+
+This attracted the attention of Richard Humphries who was then the most **eminent** boxer in England.
+
+He offered to train Mendoza and his young pupil was quick to learn.
+
+In fact, Mendoza soon became so successful that Humphries turned against him.
+
+The two men quarrelled bitterly and it was clear that the argument could only **be settled** by a fight.
+
+A match was held at Stilton,where both men fought for an hour.
+
+The public bet a great deal of money on Mendoza, but he was defeated.
+
+Mendoza met Humphries **in the ring** on a later occasion and he lost for a second time.
+
+It was not until his third match in 1790 that he finally beat Humphries and became Champion of England.
+
+Meanwhile, he founded a highly successful Academy and even Lord Byron became one of his pupils.
+
+He earned enormous **sums** of money and was paid as much as $100 for a single appearance.
+
+Despite this, he was so **extravagant** that he was always in debt.
+
+After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten.
+
+He was sent to prison for failing to pay his debts and died in poverty in 1836.
+
+
+
+
+
+New words and expressions 生词和短语
+
+
+
+bare adj.裸露的
+
+fists n.拳头
+
+figure n.人
+
+pupil n.学生
+
+quarrelled v.争吵
+
+bitterly adv.愤怒地;
+
+occasion  n.场合
+
+
+
+   Boxing
+n.  拳击
+
+   boxer
+n.  拳击手
+
+   bare
+adj. 赤裸的
+
+   prizefighter
+n.  职业拳击手（尤指古时赤手拳击手）
+
+   crude
+adj. 粗野的
+
+   marquis
+n.  侯爵
+
+   technically
+adv. 严格根据法律意义地
+
+   science
+n.  科学
+
+   popularity
+n.  名望
+
+   adore
+v.  崇拜，爱戴
+
+   alike
+adv. 一样地
+
+   fame
+n.  名声
+
+   eminent
+adj. 著名的，杰出的
+
+   bitterly
+adv. 厉害地
+
+   bet
+v.  打赌
+
+   academy
+n.  专业学校
+
+   extravagant
+adj. 浪费的，奢移的
+
+   poverty
+n.  贫困
+
+参考译文
+  两百年前，拳击比赛在英国非常盛行。当时，拳击手们不戴手套，为争夺奖金而搏斗。因此，他们被称作“职业拳击手”。不过，拳击是十分野蛮的，因为当时没有任何比赛规则，职业拳击手有可能在比赛中受重伤，甚至丧命。
+  拳击史上最引人注目的人物之一是丹尼尔.门多萨，他生于1764年。1860年昆斯伯里侯爵第一次为拳击比赛制定了规则，拳击比赛这才用上了手套。虽然门多萨严格来讲不过是个职业拳击手，但在把这种粗野的拳击变成一种体育运动方面，他作出了重大贡献。是他把科学引进了这项运动。门多萨在的全盛时期深受大家欢迎，无论是富人还是穷人都对他祟拜备至。
+
+Boxing matches were very popular in England two hundred years ago.
+
+In those days, boxers fought with bare fists for prize money.
+
+Because of this, they were known as 'prizefighters'.
+
+However, boxing was very crude,
+
+for there were no rules and a prizefighter could be seriously injured or even killed during a match.
+
+One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764.
+
+The use of gloves was not introduced until 1860,when the Marquis of Queensberry drew up the first set of rules.
+
+Though he was technically a prizefighter,Mendoza did much to change crude prizefighting into a sport,
+
+for he brought science to the game.
+
+In his day, Mendoza enjoyed tremendous popularity.He was adored by rich and poor alike.
+
+
+
+   门多萨在14岁时参加一场拳击赛后一举成名。这引起当时英国拳坛名将理查德.汉弗莱斯的注意。他主动提出教授门多萨，而年少的门多萨一学就会。事实上，门多萨不久便名声大振，致使汉弗莱斯与他反目为敌。两个人争吵不休，显而易见，只有较量一番才能解决问题。于是两人在斯蒂尔顿设下赛场，厮打了一个小时。公众把大笔赌注下到了门多萨身上，但他却输了。后来，门多萨与汉弗莱斯再次在拳击场上较量，门多萨又输了一场。直到1790年他们第3次对垒，门多萨才终于击败汉弗莱斯，成了全英拳击冠军。同时，他建立了一所拳击学校，办得很成功，连拜伦勋爵也成了他的学生。门多萨挣来大笔大笔的钱，一次出场费就多可达100英镑。尽管收入不少，但他挥霍无度，经常债台高筑。他在被一个叫杰克逊绅士的拳击手击败后很快被遗忘。他因无力还债而被捕入狱，最后于1836年在贫困中死去。
+
+Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old.
+
+This attracted the attention of Richard Humphries who was then the most eminent boxer in England.
+
+He offered to train Mendoza and his young pupil was quick to learn.
+
+In fact, Mendoza soon became so successful that Humphries turned against him.
+
+The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight.
+
+A match was held at Stilton,where both men fought for an hour.
+
+The public bet a great deal of money on Mendoza, but he was defeated.
+
+Mendoza met Humphries in the ring on a later occasion and he lost for a second time.
+
+It was not until his third match in 1790 that he finally beat Humphries and became Champion of England.
+
+
+
+
+
+
+
+Meanwhile, he founded a highly successful Academy and even Lord Byron became one of his pupils.
+
+He earned enormous sums of money and was paid as much as $100 for a single appearance.
+
+Despite this, he was so extravagant that he was always in debt.
+
+After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten.
+
+He was sent to prison for failing to pay his debts and died in poverty in 1836.
+
+
+
+
+
+　　**自学导读
+Notes on the text
+**　　课文注释
+1 they were known as ‘prizefighters’，他们被称作“职业拳击手”。 be known as…，被称作……。
+2 until 1860, when the Marquis of Queensberry drew up the first set of rules中，以when引导的从句是定语从句，修饰前面的年代 1860年。**draw up是“制定”**、“草拟”的意思。a set of，一套。 Marquis of Queensberry，昆斯伯里侯爵，是指第8位昆斯伯里侯爵约翰·修托·道格拉斯（1844—1900），苏格兰贵族。他制定的“昆斯伯里规则”至今仍是拳击的比赛规则。
+3 change…into…，把……变成……，bring…to…，把……引进……。
+4 in his day，在他的全盛时期。
+day此处指“幸运或顺利的时期”。
+5 He was adored by rich and poor alike. 人们不论贫富都很崇拜他。
+rich and poor是固定词组，意为富人和穷人。有的形容词可用作名词，但前面要加the。
+6 rise to fame，成名。
+7 Humphries turned against him，汉弗莱斯与他反目为敌。
+8 at Stilton, where both men fought for an hour中，以where引导的从句作Stilton的定语。
+9 bet on…，在……上押（赌金）。
+10 It was not until his third match in 1790 that he finally beat Humphries…这是一个it的强调句。被强调的部分not until his third match in 1790放在It was之后，句子的其他部分放在引导词that之后。
+11 be in debt，负债。
+
+
+
+
+
+## Lesson 22 By heart
+
+
+
+Which actor read the letter in the end, the aristocrat or the gaoler?
+
+
+
+Some plays are so successful that they run for years on end.
+
+In many ways, this is unfortunate for the poor actors who are required to go on repeating the same lines night after night.
+
+One would expect them to know their parts by heart and never have cause to falter.
+
+Yet this is not always the case.
+
+
+
+
+
+A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years.
+
+In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.
+
+Even though the noble was expected to read the letter at each performance,he always insisted that it should be written out in full.
+
+One night, the gaoler decided to play a joke on his colleague to find out if,
+
+after so many performances, he had managed to learn the contents of the letter by heart.
+
+The curtain went up on the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell.
+
+Just then, the gaoler appeared with the precious letter in his hands.
+
+He entered the cell and presented the letter to the aristocrat.
+
+But the copy he gave him had not been written out in full as usual.
+
+It was simply a blank sheet of paper.
+
+The gaoler **looked on** eagerly, anxious to see if his fellow actor had at last learnt his lines.
+
+The noble stared at the blank sheet of paper for a few seconds.
+
+Then, **squinting** his eyes, he said: 'The light is **dim**. Read the letter to me.'
+
+And he promptly handed the sheet of paper to the gaoler.
+
+Finding that he could not remember a word of the letter either,
+
+the gaoler replied: 'The light is indeed dim, sire. I must get my glasses. '
+
+With this, he hurried off the stage.
+
+Much to the aristocrat's amusement,the gaoler returned a few moments later
+
+with a pair of glasses and the usual copy of the letter which he **proceeded** to read to the prisoner.
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+
+
+run (ran, run)
+
+9
+
+v. （戏剧，电影等）连演，连映
+
+10
+
+lines
+
+11
+
+n. （剧本中的）台词
+
+12
+
+part
+
+13
+
+n. 剧中的角色，台词
+
+14
+
+falter
+
+15
+
+v. 支吾，结巴说
+
+16
+
+cast (cast, cast)
+
+17
+
+v. 连派......扮演角色
+
+18
+
+role
+
+19
+
+n. 角色
+
+20
+
+aristocrat
+
+21
+
+n. 贵族
+
+22
+
+imprison
+
+23
+
+v. 关押
+
+24
+
+Bastille
+
+25
+
+n. 巴士底狱
+
+26
+
+gaoler
+
+27
+
+n. 监狱长，看守
+
+28
+
+colleague
+
+29
+
+n. 同事
+
+30
+
+curtain
+
+31
+
+n. （舞台上的）幕布
+
+32
+
+reveal
+
+33
+
+v. 使显露
+
+34
+
+cell
+
+35
+
+n. 单人监房，监号
+
+36
+
+blank
+
+37
+
+adj. 空白的
+
+38
+
+squint
+
+39
+
+v. 眯着（眼）看，瞄
+
+40
+
+dim
+
+41
+
+adj. 昏暗
+
+42
+
+sire
+
+43
+
+n. （古用法）陛下
+
+44
+
+proceed
+
+45
+
+v. 继续进行
+
+46
+
+
+
+**Notes on the text
+课文注释**
+1 on end，连续不断的。
+2 in many ways，在许多方面。
+3 **go on repeating**，继续重复。 go on加上现在分词是“继续干”的意思。
+4 **Yet this is not always the case. 然而情况并非总是如此。**
+5 in the role of…，充当……角色。
+6 Bastille，巴士底狱。
+曾是法国巴黎的监狱。1369年始建时是一个要塞，1789年被巴黎市民攻克并捣毁。
+7 insisted that it should be written out in full, insist后面所接的宾语从句，常用虚拟语气“should +动词原形”，而should又经常可以省略。
+8 play a joke on…，拿……开玩笑。
+9 sire是古代仆人对国王的一种尊称，现在仅用于故事和剧本。
+10 Much to the aristocrat's amusement，使贵族感到非常可笑的是……。
+much为副词，此处修饰其后的介词短语 to the aristocrat's amusement. much to＋sb. 's sth. 是一个常见的状语短语，有“给某人带来很大的……”的
+
+参考译文
+
+47
+
+有些**剧目**十分成功，以致连续上演好几年。**这样一来，**可怜的演员们可倒霉了。因为他们需要一夜连着一夜地重复同样的台词。人们以为，这些演员一定会把台词背得烂熟，绝不会临场结巴的，但情况却并不总是这样。
+
+Some plays are so successful that they run for years **on end**.
+
+**In many ways,** this is unfortunate for the poor actors who are required to **go on repeating** the same lines night after night.
+
+**One**（人们） would expect them to know their parts by heart and never have cause to **falter**.
+
+**Yet this is not always the case.**
+
+
+
+
+
+有一位名演员曾在一出极为成功的剧目中扮演一个贵族角色，这个贵族已在巴士底狱被关押了20年。在最后一幕中，狱卒手持一封信上场，然后将信交给狱中那位贵族。尽管那个贵族每场戏都得念一遍那封信。但他还是坚持要求将信的全文写在信纸上。
+
+
+
+A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years.
+
+In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.
+
+to
+
+Even though the noble was expected to read the letter at each performance,he always insisted that it should be written out in full.
+
+
+
+
+
+一天晚上，狱卒决定与他的同事开一个玩笑，**看看**他反复演出这么多场之后，是否已将信的内容记熟了。大幕拉开，最后一幕戏开演，贵族独自一人坐在铁窗后阴暗的牢房里。这时狱卒**上场**，手里拿着那封珍贵的信。狱卒走进牢房，将信**交**给贵族。但这回狱卒给贵族的信没有像往常那样把全文写全，而是一张白纸。狱卒热切地观察着，**急于**想了解他的同事是否记熟了台词。贵族盯着纸看了几秒钟，然后，眼珠一转，说道："光线太暗，请给我读一下这封信。"说完，他**一下子**把信递给狱卒。狱卒发现自己连一个字也记不住，于是便说："陛下，这儿光线的确太暗了，我得去眼镜拿来。"他一边说着，一边匆匆下台。贵族感到非常好笑的是：一会儿工夫，狱卒重新登台，拿来一副眼镜以及平时使用的那封信，然后为那囚犯念了起来。
+
+One night, the gaoler decided to **play a joke on his colleague** to find out if,after so many performances, he had managed to learn the contents of the letter by heart.
+
+The **curtain** went up on the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell.
+
+**Just then,** the gaoler appeared with the precious letter in his hands.
+
+He entered the cell and **presented** the letter to the aristocrat.
+
+But the copy he gave him had not been written out in full as usual.
+
+It was simply a blank sheet of paper.
+
+The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines.
+
+The noble stared at the blank sheet of paper for a few seconds.
+
+Then, squinting his eyes, he said: 'The light is dim. Read the letter to me.'
+
+And he promptly handed the sheet of paper to the gaoler.
+
+Finding that he could not remember a word of the letter either,the gaoler replied: 'The light is indeed dim, sire. I must get my glasses. '
+
+
+
+**With this,** he hurried off the stage.
+
+Much to the aristocrat's amusement,the gaoler returned a few moments later with a pair of glasses and the usual copy of the letter which he proceeded to read to the prisoner.
+
+
+
+
+
+独立主格
+
+[
+
+1、名词(代词)**+现在分词**
+
+hearing the news ，l began to cry
+
+(Bob) hearing the news，l began to cry
+
+2、名词(代词)**+过去分词**
+
+given  more time，we could have done better
+
+(They) given  more time ，we could have been lose.
+
+4、名词(代词)**+形容词/副词/介词短语**
+
+The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines.
+
+]
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 23 One man's meat is another man's poison
+
+
+
+
+
+What was it about snails that made the writer collect them for his friend on that day in particular?
+
+People become quite illogical when they try to decide what can be eaten and what cannot be eaten.
+
+If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy.
+
+You would not be able to understand why some people find it repulsive.
+
+On the other hand,your stomach would turn at the idea of frying potatoes in animal fat-the normally accepted practice in many northern countries.
+
+The sad truth is that most of us have been brought up to eat certain foods and we stick to them all our lives.
+
+
+
+No creature has received more praise and abuse than the common garden snail.
+
+Cooked in wine, snails are a great luxury in various parts of the world.
+
+There are countless people who,ever since their early years, have learned to associate snails with food.
+
+My friend, Robert, lives in a country where snails are **despised**.
+
+As his flat is in a large town, he has no garden of his own.
+
+For years he has been asking me to collect snails from my garden and take them to him.
+
+The idea never appealed to me very much, but one day, after a heavy shower,
+
+I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants.
+
+Acting on a sudden impulse,I collected several dozen, put them in a paper bag, and took them to Robert.
+
+Robert was delighted to see me and equally pleased with my little gift.
+
+I left the bag in the hall and Robert and I went into the living room where we talked for a couple of hours.
+
+I had forgotten all about the snails when Robert suddenly said that I must stay to dinner.
+
+Snails would, of course, be the main dish.
+
+I did not fancy the idea and I reluctantly followed Robert out of the room.
+
+To our dismay,we saw that there were snails everywhere:
+
+they had escaped from the paper bag and had taken complete possession of the hall!
+
+ I have never be able to look at a snail since then
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+   poison (title)
+n.  毒药
+
+   illogical
+adj. 不合逻辑的，无章法的
+
+   octopus
+n.  章鱼
+
+   delicacy
+n.  美味，佳肴
+
+   repulsive
+adj. 令人反感的，令人生厌的
+
+   stomach
+n.  胃
+
+   turn
+v.  感到恶心，翻胃
+
+   fry
+v.  油炸
+
+  fat
+n. （动物，植物）油
+
+   abuse
+n.  辱骂，责骂
+
+   snail
+n.  蜗牛
+
+   luxury
+n.  奢移品，珍品
+
+   associate
+v.  联想到
+
+   despise
+v.  鄙视
+
+   appeal
+v.  引起兴致
+
+   shower
+n.  阵雨
+
+   stroll
+n.  溜达，散步
+
+   impulse
+n.  冲动
+
+   dozen
+n.  12个，一打
+
+   fancy
+v.  喜爱，喜欢
+
+参考译文
+
+  在决定什么能吃而什么不能吃的时候，人们往往变得不合情理。比如，如果你住在地中海地区，你会把章鱼视作是美味佳肴，同时不能理解为什么有人一见章鱼就恶心。另一方面，你**一想到**动物油炸土豆就会反胃，但这在北方许多国家却是一种普通的烹任方法。**不无遗憾的是，** 我们中的大部分人，**生来**就只吃某几种食品，而且一辈子都这样。
+
+People become quite illogical when they try to decide what can be eaten and what cannot be eaten.
+
+If you lived in the Mediterranean, **for instance,** you would consider octopus a great delicacy.
+
+You would not be able to understand why some people find it **repulsive**. 
+
+
+
+impulse
+
+On the other hand,your stomach would turn **at the idea of** frying potatoes in animal fat-the normally accepted practice in many northern countries.
+
+The sad truth is that most of us **have been brought up** to eat certain foods and we stick to them all our lives.
+
+
+
+ 
+
+  没有一种生物所受到的赞美和厌恶会超过花园里常见的蜗牛了。蜗牛加酒烧煮后，便成了世界上许多地方的一道珍奇的名菜。有**不计其数的**人们**从小**就知道蜗牛可做菜。但我的朋友罗伯特却住在一个**厌恶**蜗牛的国家中。他住在大城市里的一所公寓里，没有自己的花园。**多年来**，他一直让我把我园子里的蜗牛收集起来给他捎去。一开始，他的这一想法没有**引起**我多大兴趣。后来有一天，一场大雨后，我在花园里**漫无目的**散步，突然注意到许许多多蜗牛在我的一些**心爱的**花木上慢悠悠的**蠕动**着。**我一时冲动**，逮了几十只，装进一只纸袋里，带着去找罗伯特。罗伯特见到我很高兴，对我的薄礼也感到满意。我把纸袋**放**在门厅里，与罗伯特一起进了起居室，在那里聊了**好几个**钟头。我把蜗牛**的事**已**忘得一干二净**，罗伯特突然提出一定要我留下来吃晚饭，这才提醒了我。蜗牛当然是道主菜。我并不喜欢这个主意，所以我勉强跟着罗伯特走进了起居室。使我们惊愕的是门厅里到处爬满了蜗牛：它们从纸袋里逃了出来，爬得满厅都是！从那以后，我再也不能看一眼蜗牛了。
+
+No creature has received more praise and abuse than the common garden snail.
+
+Cooked in wine, snails are a great luxury in various parts of the world.
+
+There are countless people who ever since their **early years,** have learned to associate snails with food.
+
+My friend, Robert, lives in a country where snails are **despised**.
+
+As his flat is in a large town, he has no garden of his own.
+
+
+
+For years he has been asking me to collect snails from my garden and take them to him.
+
+The idea never **appealed** to me very much, but one day, after a heavy shower,
+
+I happened to be walking in my garden when I noticed a huge number of snails **taking a stroll** on some of my **prize** plants.
+
+
+
+**Acting on a sudden impulse,**I collected several dozen, put them in a paper bag, and took them to Robert.
+
+
+
+
+
+Robert was delighted to see me and equally pleased with my little gift.
+
+I left the bag in the hall and Robert and I went into the living room where we talked for **a couple of** hours.
+
+I had forgotten **all about** the snails when Robert suddenly said that I must stay to dinner.
+
+
+
+Snails would, of course, be the main dish.
+
+
+
+I did not fancy the idea and I reluctantly followed Robert out of the room.
+
+To our dismay,we saw that there were snails everywhere:
+
+they had escaped from the paper bag and had **taken complete possession** of the hall! I have never be able to look at a snail since then.
+
+
+
+
+
+
+
+
+
+　　**自学导读**
+Notes on the text
+课文注释
+1 One man's meat is another man's poison. 这是英语的一句谚语，意思是“对一方有利的未必对另一方也有利”。有时可译作“各有所爱”，同时也有汉语俗语“萝卜青菜各有所爱”的意思。
+2 would turn at the idea of…， turn此处作“恶心”、“作呕”解。 at the idea of…是“想到……”的意思。
+3 to be brought up，养育，抚养，stick to有“坚持”的意思。
+4 Cooked in wine， snails…，用酒烹调的蜗牛……，这是过去分词作状语，表示条件。
+5 I happened to be walking in the garden．我碰巧在花园里散步。happen后面加不定式表示“碰巧做……”
+6 take（亦作have） possession of，是“占有”、“拥有”的意思。
+
+## Lesson 24 A skeleton in the cupboard
+
+
+
+Who was Sebastian?
+
+
+
+We often read in novels how a seemingly respectable person or family
+
+has some terrible secret which has been concealed from strangers for years.
+
+The English language possesses a vivid saying to describe this sort of situation.
+
+The terrible secret is called 'a skeleton in the cupboard'.
+
+At some dramatic moment in the story,
+
+the terrible secret becomes known and a reputation is ruined.
+
+The reader's hair stands on end when he reads in the final pages of the novel that the heroine,
+
+a dear old lady who had always been so kind to everybody, had, in her youth, poisoned every one of her five husbands.
+
+It is all very well for such things to occur in fiction.
+
+To varying degrees,we all have secrets which we do not want even our closest friends to learn,
+
+but few of us have skeletons in the cupboard.
+
+The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact.
+
+George studied medicine in his youth.
+
+Instead of becoming a doctor, however, he became a successful writer of detective stories.
+
+I once spent an uncomfortable weekend which I shall never forget at his house.
+
+George showed me to the guestroom which, he said, was rarely used.
+
+He told me to unpack my things and then come down to dinner.
+
+After I had stacked my shirts and underclothes in two empty drawers,
+
+I decided to hang one of the two suits I had brought with me in the cupboard.
+
+I opened the cupboard door and then stood in front of it petrified.
+
+A skeleton was dangling before my eyes.
+
+The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me.
+
+Dropping my suit, I dashed downstairs to tell George.
+
+This was worse than 'a terrible secret'; this was a real skeleton!
+
+But George was unsympathetic.'Oh, that,' he said with a smile as if he were talking about an old friend.
+
+'That's Sebastian.You forget that I was a medical student once upon a time.'
+
+New words and expressions 生词和短语
+
+   skeleton
+n.  骷髅
+
+   seemingly
+adv. 表面上地
+
+   respectable
+adj. 体面的，雅观的
+
+possess v.有
+
+   [**conceal**](http://dict.qsbdc.com/conceal)[1](https://www.tingroom.com/lesson/nce3/339.html#_w_1)
+v.  隐藏，隐瞒
+
+   vivid
+adj. 生动的
+
+   dramatic
+adj. 令人激动的，扣人心弦的
+
+   ruin
+v.  毁坏
+
+   heroine
+n.  女主人公
+
+   fiction
+n.  小说
+
+   varying
+adj. 不同的
+
+   medicine
+n.  医学
+
+   guestroom
+n.  （家庭中的）来客住房
+
+   unpack
+vt. （从箱中）取出
+
+   stack
+v.  （整齐地）堆放，排放
+
+   underclothes
+n.  内衣
+
+   drawer
+n.  抽屉
+
+   [**petrify**](http://dict.qsbdc.com/petrify)[7](https://www.tingroom.com/lesson/nce3/339.html#_w_7)
+v.  使惊呆
+
+   [**dangle**](http://dict.qsbdc.com/dangle)[8](https://www.tingroom.com/lesson/nce3/339.html#_w_8)
+v.  悬挂
+
+   sway
+v.  摇摆
+
+leap
+
+v.猛冲，跳
+
+dash
+
+v。猛冲
+
+   unsympathetic
+adj. 不表同情的，无动于衷的
+
+   medical
+adj. 医学的
+
+
+
+**自学导读**
+Notes on the text
+课文注释
+1 A skeleton in the cupboard，直译为“柜中骷髅”，此系一成语，作“家丑”解。
+2 conceal sth, from sb. 作“对某人隐瞒某事”解。
+3 The reader's hair stands on end，读者感到毛骨悚然。
+4 to varying degrees，在不同程度上。
+5 stood in front of it petrified，站在柜前吓呆了。
+stand此处表示处于某种状态，起系动词的作用，后面常接形容词、介词短语或过去分词，表示主语处于某种状态中的特征，可视作表语。
+6 the impression that it was about to leap out…，
+that引导的从句作impression的**同位语。**be about to do sth. ，表示按照计划即将做的动作。
+
+参考译文
+
+  在小说中，我们经常读到一个表面上受人尊重的人物或家庭，却有着某种多年不为人所知的骇人听闻的秘密。英语中有一个生动的说法来形容这种情况。惊人的秘密称作“柜中骷髅”。在小说的某个戏剧性时刻，可怕的秘密泄漏出来，接着便是某人的声誉扫地。当读者到小说**最后几页**了解到书中女主人公，那位一向待大家很好的可爱的老妇人年轻时一连毒死了她的5个丈夫时，不禁会毛骨悚然。
+
+
+
+We often read in novels how a seemingly respectable person or family has some terrible secret which has been concealed from strangers for years.
+
+The English language possesses a vivid saying to describe this sort of situation.
+
+The terrible secret is called 'a skeleton in the cupboard'.
+
+At some dramatic moment in the story, the terrible secret becomes known and a reputation is ruined.
+
+The reader's **hair stands on end** when he reads in the final pages of the novel **that** the heroine,a dear old lady who had always been so kind to everybody, had, in her youth, poisoned every one of her five 
+
+husbands. 
+
+ 这种事发生在小说中**是无可非议的**。尽管我们人人都有各种大小秘密。连最亲密的朋友都不愿让他们知道， 但我们当中极少有人有柜中骷髅。我所认识的唯一的在柜中**藏**骷嵝的人便是乔治.卡尔顿，他甚至引以为自豪。乔治年轻时**学过医**，然而，他后来没当上医生，却成了一位成功的侦探小说作家。**有一次**，我在他家里度周末，过得很不愉快。这事我永远不会忘记。乔治把我**领**进客房，说这间很少使用。他让我打开行装后下楼吃饭。我将**衬衫**、内衣放进两个空抽屉里，然后我想把**随身带来的**两套西服中的一套挂到大**衣柜**里去。我打开柜门，站在柜门前一下惊呆了。一具骷髅悬挂在眼前，由于柜门突然打开，它也随之轻微摇晃起来，让我觉得它好像马上要跳出柜门朝我扑过来似的。我扔下西服冲下楼去告诉乔治。这是比“骇人听闻的秘密”更加惊人的东西，这是一具真正的骷髅啊！但乔治却无动于衷。“噢，是它呀！**他笑着说道**，俨然在谈论一位老朋友。“那是塞巴斯蒂安。你忘了我以前是学医的了。”
+
+
+
+It is all **very well** for such things to occur in fiction.
+
+To varying degrees,we all have secrets which we do not want even our closest friends to learn,
+
+but few of us have skeletons in the cupboard.
+
+The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact.
+
+George studied medicine in his youth.
+
+Instead of becoming a doctor, however, he became a successful writer of detective stories.
+
+I **once** spent an uncomfortable weekend which I shall never forget at his house.
+
+George showed me to the guestroom which, he said, was rarely used.
+
+He told me to unpack my things and then come down to dinner.
+
+After I had stacked my shirts and underclothes in two empty drawers,
+
+I decided to hang one of the two suits I had **brought with me** in the cupboard.
+
+I opened the cupboard door and then stood in front of it petrified.
+
+A skeleton was **dangling** before my eyes.
+
+The sudden movement of the door made it sway slightly and it gave me the impression that it was about to **leap** out at me.
+
+
+
+Dropping my suit, I dashed downstairs to tell George.
+
+This was worse than 'a terrible secret'; this was a real skeleton!
+
+But George was unsympathetic. 'Oh, that,' he said with a smile as if he were talking about an old friend.
+
+'That's Sebastian.
+
+You forget that I was a medical student **once upon a time.'**
+
+
+
+
+
+
+
+## Lesson 25 The Cutty Sark
+
+
+
+What piece of bad luck prevented the Cutty Sark from winning the race?
+
+
+
+One of the most famous sailing ships of the nineteenth century, the Cutty Sark, can still be seen at Greenwich.
+
+She stands on dry land and is visited by thousands of people each year.
+
+She **serves as an impressive reminder** of the great ships of the past.
+
+Before they were replaced by steamships,sailing vessels like the Cutty Sark were used to carry tea from China and wool from Australia.
+
+The Cutty Sark was one of the fastest sailing ships that has ever been built.
+
+The only other ship to match her was the Thermopylae.
+
+Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England.
+
+This race, which went on for exactly four months, was the last of its kind.
+
+It marked the end of the great tradition of ships with sails and the beginning of a new era.
+
+
+
+The first of the two ships to reach Java after the race had begun was the Thermopylae,
+
+but on the Indian Ocean, the Cutty Sark took the lead.
+
+It seemed certain that she would be the first ship home,but during the race she had a lot of bad luck.
+
+In August, she was struck by a very heavy storm during which her rudder was torn away.
+
+The Cutty Sark rolled from side to side and it became impossible to steer her.
+
+A temporary rudder was made on board from spare planks and it was fitted with great difficulty.
+
+This greatly reduced the speed of the ship,for there was a danger that if she travelled too quickly,
+
+this rudder would be torn away as well.
+
+Because of this, the Cutty Sark lost her lead.
+
+After crossing the Equator, the captain called in at a port to have a new rudder fitted,
+
+but by now the Thermopylae was over five hundred miles ahead.
+
+Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win.
+
+She arrived in England a week after the Thermopylae.
+
+Even this was remarkable, considering that she had had so many delays.
+
+There is no doubt that if she had not lost her rudder she would have won the race easily.
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+
+
+ sailing ships  帆船
+
+7
+
+impressive
+
+8
+
+adj. 给人深刻印象的
+
+9
+
+steamship
+
+10
+
+n. 蒸汽轮船
+
+11
+
+vessel
+
+12
+
+n. 轮船，大木船
+
+13
+
+era
+
+14
+
+n. 时期，时代
+
+15
+
+Java
+
+16
+
+n. 爪哇（印度尼西亚一岛）
+
+17
+
+rudder
+
+18
+
+n. 舵
+
+19
+
+roll
+
+20
+
+v. 颠簸，摇摆
+
+21
+
+steer
+
+22
+
+v. 掌握方向
+
+23
+
+temporary
+
+24
+
+adj. 临时的
+
+25
+
+plank
+
+26
+
+n. 大块木板
+
+27
+
+fit
+
+28
+
+v. 安装
+
+29
+
+Equator
+
+30
+
+n. 赤道
+
+31
+
+delay
+
+32
+
+n. 耽误
+
+wool n.羊毛
+
+steer v.驾驶（船，汽车）
+
+fit v。安装
+
+call in  停靠
+
+Notes on the text
+课文注释
+1 Cutty Sark，“卡蒂萨克”号，19世纪一艘著名的帆船。现在这艘船在伦敦格林威治作为展品被保护了起来。在轮船时代以前，它是那时侯最快的帆船。
+2 both these ships，这两艘船。
+也可写成 both of these ships或 both ships。
+3 The first of the two ships to reach Java…，两艘船中首先到达爪哇的……。不定式短语 to reach Java此处作定语，修饰 first，中间被另一个修饰 first的介词短语 of the two ships所分开。
+4 take the lead，领先。
+lose one's lead，失去其领先地位。
+5 There is no doubt that if she **had not lost** her rudder she **would have won** the race easily. 毫无疑问，如果中途没有失去舵，“卡蒂萨克”号肯定能在比赛中轻易夺冠。这是一个**虚拟语气**的句子，是对过去的一种假设。
+
+参考译文
+
+34
+
+人们在格林威治仍可看到19世纪最有名的帆船之一"卡蒂萨克"号。它**停**在陆地上，每年接待成千上万的参观者。它给人们留下深刻的印象，使人们回忆起历史上的巨型帆船。在蒸汽船取代帆船之前，"卡蒂萨克"号**之类的**帆船被用来从中国运回茶叶，从澳大利亚运回羊毛。"卡蒂萨克"号是帆船制造史上建造的最快的一艘帆船。唯一可以与之一比高低的是"塞姆皮雷"号帆船。两船于1872年6月18日同时从上海启航驶往英国，途中**展开了**一场激烈的比赛。这场比赛**持续了**整整4个月，是这类比赛中的最后一次，它**标志**着帆船伟大传统的结束与一个新纪元的开始。
+
+比赛开始后，"赛姆皮雷"号率先抵达爪哇岛。但在印度洋上，"卡萨萨克"号驶到了前面。看来，它首先返抵英国是确信无疑的了，但它却在比赛中连遭厄运。8月份"卡蒂萨克"号遭到一场特大风暴的袭击，失去了一只舵。船身左右摇晃，无法操纵。船员用备用的木板在船上赶制了一只应急用的舵，并克服重重困难将舵安装就位，这样一来，大大降低了船的航速。因为船不能开得太快，否则就有危险，应急舵也会被刮走。因为这个缘故，"卡蒂萨克"号落到了后面。跨越赤道后，船长将船停靠在一个港口，在那儿换了一只舵。但此时，"赛姆皮雷"号早已在500多英里之遥了。尽管换装新舵时分秒必争，但"卡蒂萨克"号已经不可能取胜了，它抵达英国时比"塞姆皮雷"号晚了1个星期。但考虑到路上的多次耽搁，这个成绩也已很不容易了。毫无疑问，如果中途没有失去舵， "卡帝萨克"号肯定能在比赛中轻易夺冠。
+
+
+
+
+
+One of the most famous sailing ships of the nineteenth century, the Cutty Sark, can still be seen at Greenwich.
+
+She stands on dry land and is visited by thousands of people each year.
+
+She serves as an impressive reminder of the great ships of the past.
+
+Before they were replaced by steamships,sailing vessels like the Cutty Sark were used to **carry** tea from China and wool from Australia.
+
+The Cutty Sark was one of the fastest sailing ships that has ever been built.
+
+The only other ship to match her was the Thermopylae.
+
+Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England.
+
+This race, which **went on** for exactly four months, was the last of its kind.
+
+It marked the end of the great tradition of ships with sails and the beginning of a new era.
+
+
 
