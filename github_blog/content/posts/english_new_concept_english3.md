@@ -10,7 +10,7 @@ draft: true
 
 | at once，immediately                                         | 马上               |
 | ------------------------------------------------------------ | ------------------ |
-| a great many,a good deal of，large sums of，a number of ，considerable，a huge number of | adj.许多           |
+| a great many,a good deal of，large sums of，a number of ，considerable，a huge number of。 vast array of | adj.许多           |
 | accurate,precise                                             | adj.准确的         |
 | Meanwhile，During the xxx                                    | 期间               |
 | feline，cat                                                  | n 猫               |
@@ -27,7 +27,7 @@ draft: true
 | chase，run after                                             | 追逐               |
 | slight  ，faint                                              | 轻微的             |
 | great，large，colossal，enormous，gigantic                   | adj.巨大的         |
-| dinghy（艇）  ，boat，ship，liner，Cruise（游轮）            | 船(体型从小到大)   |
+| dinghy（艇）  ，boat，ship，vessels，liner，Cruise（游轮）   | 船(体型从小到大)   |
 | gaze, stare                                                  | v.凝视             |
 | captivate，fascinate                                         | v.吸引             |
 | blatantly，in public                                         | v.公然地           |
@@ -58,22 +58,41 @@ draft: true
 | anxious，nervous                                             | adj.焦虑的         |
 | neglect，omit                                                | v.忽视             |
 | flat ,apartment                                              | n.公寓             |
-| appeal， captivate                                           | v.吸引             |
+| appeal， captivate， draw                                    | v.吸引             |
 | competency ,ability,capability                               | n。能力            |
 | integral , necessary                                         | adj.必须的         |
 | To our surprise, To our dismay                               |                    |
 | compliment，praise                                           | n.赞扬             |
 | gripe n。v  complain v                                       | 抱怨               |
+| spare,  backup                                               | adj.备用的         |
+| foes ，enemy                                                 | n.敌人             |
+| critical ，crucial                                           | adj.关键的         |
+| approach，attitude                                           | n。态度            |
+| devise，design                                               | v。设计            |
+| jealous,envious                                              | adj。嫉妒的        |
+| dwindle，reduce                                              | v.减少             |
+| punishment，penalty                                          | n。惩罚            |
+| prevalent，popular                                           | adj。流行的        |
+| dread doning , be afraid of sth                              | 害怕做某事         |
+| ample，sufficient                                            | adj。充足的        |
+| adjacent ，neighbor                                          | adj。相邻的        |
+| oversee ，supervise                                          | v。监督            |
+| envision ，image                                             | v。想象            |
+| perception  n。见解  prospect  n。前景展望  perspective n。观点 |                    |
+| take pride in，    be proud of                               |                    |
 
 
 
 ## 反义词
 
-|                       |                       |
-| --------------------- | --------------------- |
-| inclusive  adj.包含的 | exclusive adj。独家的 |
-|                       |                       |
-|                       |                       |
+|                          |                            |
+| ------------------------ | -------------------------- |
+| inclusive  adj.包含的    | exclusive adj。独家的      |
+| extravagant  adj。奢侈的 | thrifty  adj。节约的       |
+| decisive adj。果断的     | indecisive adj。优柔寡断的 |
+| conventional adj。常规的 | unconventional adj。新奇的 |
+
+
 
 
 
@@ -102,6 +121,15 @@ draft: true
 | initial adj。最开始的  initiate v。开始                      |      |
 | supportive  adj。支持的。 support  v.支持                    |      |
 | possess v。具有，  possession  n。个人财产                   |      |
+| collect，v。手机 collectively adv，共同地  collectible adj。值的收藏的 |      |
+| phenomenon  n.现象  phenomenal adj。非凡。了不起的           |      |
+| automated adj。自动化的  atomic。 adj，原子的                |      |
+| maximize v 最大化。 maximum n。最大                          |      |
+| relational adj。相关的 related                               |      |
+| criticism n.批评   critic n.评论家  critique v。批评         |      |
+| controversy n。争议      controversial adj。有争议的         |      |
+| neural  adj.神经的  neuron n。神经                           |      |
+| emphasize  v。强调 emphasis n。强调                          |      |
 
 ## 长得像的词
 
@@ -119,26 +147,36 @@ draft: true
 | various adj.各种各样的   variation  n。变化  variety。n.不同种类， | |
 | diversity  n.多样性，diverse adj.多种多样的 | |
 | comparison n。比较 compromise n。妥协 | |
-|  | |
+| revolution n。革命,  evolution n.进化 | |
+| collaborate  v。合作  coordinate v。协调 | |
+| despised v.鄙视  disguised  v.伪装                           | |
+| custom n.风俗  customs  n。海关  customer n。顾客  consumer n。消费者。 costume。服装 | |
+| interrupt v。打扰， intercept v。拦截  interpret v。解释  interfere v。干涉 | |
 
 ## 0帧起手
 
-| 0帧起手                       |              |
-| ----------------------------- | ------------ |
-| by the time                   | 到…的时候;   |
-| day in and day out            | 日复一日     |
-| sure enough                   | 果然         |
-| Despite +n ,                  | 尽管         |
-| xxxx  as well                 | 还           |
-| rarely 很少地                 |              |
-| barely 仅仅，勉强可能         |              |
-| Ironically，                  | 讽刺的是     |
-| Inevitably                    | 不可避免的， |
-| mitigate its potential risks. | 降低风险     |
-| Acting on a sudden impulse,   | 一时冲动     |
-| Contribute with expertise to  |              |
-| once upon a time.             | 从前         |
-|                               |              |
+| 0帧起手                          |              |
+| -------------------------------- | ------------ |
+| by the time                      | 到…的时候;   |
+| day in and day out               | 日复一日     |
+| sure enough                      | 果然         |
+| Despite +n ,                     | 尽管         |
+| xxxx  as well                    | 还           |
+| rarely 很少地                    |              |
+| barely 仅仅，勉强可能            |              |
+| Ironically，                     | 讽刺的是     |
+| Inevitably                       | 不可避免的， |
+| mitigate its potential risks.    | 降低风险     |
+| Acting on a sudden impulse,      | 一时冲动     |
+| Contribute with expertise to     |              |
+| once upon a time.                | 从前         |
+| in the same way                  | 同样的道理   |
+| regardless of                    | 不管         |
+| 有关于时间的                     |              |
+| a moment later                   | 一会儿       |
+| A short time ago，some times ago | 不久之前     |
+| Before long， soon               | 不久         |
+| But as  far as                   | 就。。。而言 |
 
 
 
@@ -746,7 +784,7 @@ Notes on the text 课文注释
 
 1 Piccadilly, 皮卡迪利，这是伦敦市中心一条著名的街。这条街从海德公园通向一个著名的广场，叫作“皮卡迪利广场”。
 2 with its headlights on and its horn blaring, …这是 with引导的独立主格结构，在句中表示伴随状况。
-3 but he was too busy helping himself to diamonds to notice any pain.但他只顾忙着抢劫钻石，根本顾不上疼痛了。这里 help oneself to sth. 是“擅自取用，侵占某物”的意思。
+3 but he was too busy helping himself to diamonds to notice any pain.但他只顾忙着抢劫钻石，根本顾不上疼痛了。这里 **help oneself to sth**. 是“擅自取用，侵占某物”的意思。
 
 "helping himself" 是一个动名词短语，作为 "was too busy" 的宾语补足语，
 
@@ -754,15 +792,15 @@ moved off
 
 **参考译文**
 
-皮卡迪利大街附近的一条著名拱廊街道上，几家高档商店刚刚开始**营业**。在早晨的这个时候，拱廊街上**几乎空无一人**。珠宝店主泰勒先生正在欣赏**新布置**的橱窗。他**手下**两名店员从早上8点就开始忙碌，这时刚刚**布置**完毕。钻石项链、戒指漂亮地**陈列**在黑色丝绒上面。泰勒先生站在橱窗外凝神欣赏了几分钟**就回到了**店里。
+皮卡迪利大街附近的一条著名拱廊街道上，几家**高档**商店刚刚开始**营业**。在早晨的这个时候，拱廊街上**几乎空无一人**。珠宝店主泰勒先生正在欣赏**新布置**的橱窗。他**手下**两名店员从早上8点就开始忙碌，这时**刚刚**  **布置**完毕。钻石项链、戒指漂亮地**陈列**在黑色丝绒上面。泰勒先生站在橱窗外**凝神欣赏**了几分钟**就回到了**店里。
 
-The expensive shops in a famous arcade near Piccadilly were just opening.
+The expensive shops in a famous arcade near Piccadilly **were just opening**.
 
 At this time of the morning, the arcade was almost empty.
 
 Mr. Taylor, the owner of a jewellery shop was admiring a new window display. 
 
-Two of his assistants had been working busily since eight o'clock and had only just finished. 
+Two of his assistants had been working busily since eight o'clock and had **only just** finished. 
 
 Diamond necklaces and rings had been beautifully **arranged** on a background of black **velvet**. 
 
@@ -800,7 +838,7 @@ They had **got away** with thousands of pounds worth of diamonds.
 
 ## Lesson 7 Mutilated ladies 残钞鉴别组
 
-Has it ever happened to you? Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket? When you rescued your trousers, did you find the note was whiter than white? People who live in Britain needn't despair when they make mistakes like this(and a lot of people do)! Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog. Dogs, it seems, love to chew up money!
+Has it ever happened to you? Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket? When you rescued your trousers, did you find the note was whiter than white? People who live in Britain needn't despair when they make mistakes like this(and a lot of people do)! Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog. **Dogs, it seems, love to chew up money!**
 
 A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business. John had a very good day and put his wallet containing ￡ 3, 000 into the microwave oven for safekeeping. Then he and Jane went horse-riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé's wallet as well. Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! They examined the remains and John got all his money back. ‘So long as there's something to identify, we will give people their money back, ’said a spokeswoman for the Bank. ‘Last year, we paid ￡ 1. 5m on 21, 000 claims. ’
 
@@ -1672,7 +1710,9 @@ n.  纪念
    valiant
 adj. 英勇的
 
+notable 
 
+adj。重要的，杰出的
 
 　**自学导读
 Notes on the text课文注释**
@@ -1700,9 +1740,9 @@ would" 用来表示过去常常或习惯性发生的动作，而不是简单的�
 
 参考译文
 
-  曾经有一个时期,芝加哥的**店主**和商行的**老板们**不得不**拿**出大笔的钱给歹徒以换取"保护"。如果交款不及时,歹徒们就会很快**捣毁**他的商店,让他破产.**榨取**"保护金"并不是一种现代的罪恶行径.早在14世纪,英国人约翰.霍克伍德就有过非凡的发现:"人们情愿拿出大笔的钱,也不愿**毕生的心血**毁于歹徒之手.
+  曾经有一个时期,芝加哥的**店主**和商行的**老板们**不得不**拿**出大笔的钱给歹徒**以换取**"保护"。如果交款不及时,歹徒们就会很快**捣毁**他的商店,让他破产.**榨取**"保护金"并不是一种现代的罪恶行径.**早在**14世纪,英国人约翰.霍克伍德就有过非凡的发现:"人们情愿拿出大笔的钱,也不愿**毕生的心血**毁于歹徒之手.
 
-There was a time when the **owners** of shops and businesses in Chicago  had to pay **large sums of** money to gangsters in return for 'protection'.
+There was a time when the **owners** of shops and businesses in Chicago  had to pay **large sums of** money to gangsters **in return for** 'protection'.
 
 
 
@@ -1710,19 +1750,19 @@ If the money was not paid **promptly**, the gangsters would quickly **put** a ma
 
 **Obtaining** 'protection money' is not a modern crime.
 
-As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people **would rather** pay **large sums of** money **than** have their **life work** destroyed by gangsters.
+**As long ago as** the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people **would rather** pay **large sums of** money **than** have their **life work** destroyed by gangsters.
 
 
 
-  600年前,约翰.霍克伍德爵士**带**着一队士兵来到意大利,在佛罗伦萨附近**驻扎**下来,很快就出了名.意大利人叫他乔凡尼.阿库托.每次意大利各城邦**之间**   **打伏**,霍克伍德把他的士兵雇佣给愿给他出高价的君主。和平时期,当**生意萧条**时,霍克伍德便带领士兵进入某个城邦,纵火烧毁一两个农场,然后提出,如向他们缴纳保护金,他们便**主动** **撤离**。霍克伍德用这种方法挣了大笔钱.**尽管如此**,意大利人**还**是把他视作**某种**英雄。他**80岁**那年死去时,佛罗伦萨人为他举行了国葬,并为他画像以**纪念**这位"骁勇无比的战士、**杰出的**领袖乔凡尼.阿库托先生."
+  600年前,约翰.霍克伍德爵士**带**着一队士兵来到意大利,在佛罗伦萨附近**驻扎**下来,**很快**就出了名.意大利人叫他乔凡尼.阿库托.每次意大利各城邦**之间**   **打伏**,霍克伍德把他的士兵雇佣给愿给他出高价的君主。和平时期,当**生意萧条**时,霍克伍德便带领士兵进入某个城邦,纵火烧毁一两个农场,然后提出,如向他们缴纳保护金,他们便**主动** **撤离**。霍克伍德用这种方法挣了大笔钱.**尽管如此**,意大利人**还**是把他视作**某种**英雄。他**80岁**那年死去时,佛罗伦萨人为他举行了国葬,并为他画像以**纪念**这位"骁勇无比的战士、**杰出的**领袖乔凡尼.阿库托先生."
 
 
 
 Six hundred years ago .
 
-Sir John Hawkwood arrived in Italy with a band of soldiers and **settled** near Florence.
+Sir John Hawkwood arrived in Italy **with a band of** soldiers and **settled** near Florence.
 
-He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.
+He **soon** made a name for himself and came to be known to the Italians as Giovanni Acuto.
 
 Whenever the Italian city-states were at war with each other,
 
@@ -1742,7 +1782,7 @@ Hawkwood made large sums of money in this way.
 
 In spite of this, the Italians regarded him as **a sort of** hero.
 
-When he died at age of eighty，  the Florentines **gave** him a state **funeral** and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.
+When he died at age of eighty，  the Florentines **gave** him a state **funeral** and had a picture painted which was **dedicated** to the memory of 'the most **valiant** soldier and most **notable** leader, Signor Giovanni Haukodue'.
 
 
 
@@ -1906,7 +1946,7 @@ freed v。释放，解脱 原型free
 1 with some children, 介词with此处作“对于”讲。
 2 go a long way, 可以维持很久。
 3 If fifty pence pieces are not exchanged for sweets, 如果50便士的分币没有用来换糖果的话。exchange…for…作“以……换……”讲，注意英语中的便士有两种复数形式pence和pennies, 但用法不同。如：a fifty pence是指1个50便士的硬币，而fifty pennies是指50个1便士的硬币。
-4 have found their way there, 其中there是指储蓄罐。find one's way在这里作“进入”讲，即放到“储蓄罐”里。
+4 **have found their way there,** 其中there是指储蓄罐。find one's way在这里作“进入”讲，即放到“储蓄罐”里。
 5 what is more, 更有甚者。是固定词组，此处用作插入语。
 
 
@@ -1919,15 +1959,15 @@ small gifts of money/ gifts of money 零花钱
 
 
 
-孩子们总是喜欢得到一些零花钱。爸爸妈妈**当然**经常**给**孩子零花钱，但是，叔舅婶姨也是孩子们额外收入来源。**对于**有些孩子来说，**少量**的钱可以花很长一段时间。如果50便士不拿来换糖吃，则可以放在**储蓄罐里**叮当响上好几月。但是能把储蓄罐**装满**的只有**屈指可数**的几个特别节俭的孩子。对大部分孩子来说，用50便士来买一大块好的巧克力，是算不了什么的。
+孩子们总是喜欢得到一些零花钱。爸爸妈妈**当然**经常**给**孩子零花钱，但是，叔舅婶姨也是孩子们额外收入来源。**对于**有些孩子来说，**少量**的钱可以**花很长一段时间**。如果50便士不拿来换糖吃，则可以放在**储蓄罐里**叮当响上好几月。但是能把储蓄罐**装满**的只有**屈指可数**的几个特别节俭的孩子。对大部分孩子来说，用50便士来买一大块好的巧克力，是算不了什么的。
 
 Children always appreciate **small gifts of money.**
 
 Mum or dad, of course, provides a regular supply of pocket money,but uncles and aunts are always a source of extra income.
 
-**With** some children, small sums go a long way.
+**With** some children, small sums **go a long way**.
 
-If fifty pence pieces are not exchanged for sweets，they rattle for months inside **money boxes**.
+If fifty pence pieces are not exchanged for sweets，they **rattle** for months inside **money boxes**.
 
 Only very thrifty children manage to fill up a money box.For **most of them,** fifty pence is a small price to pay for a nice big bar of chocolate.
 
@@ -1941,7 +1981,7 @@ Only very thrifty children manage to fill up a money box.For **most of them,** f
 
 
 
-我的外甥乔治有一个储蓄罐，但总是空空的。我给了不少50便士的硬币，但没有几个存到储蓄罐里。昨天，我给了他50便士让**存**起来，却拿这钱给自己买了50便士的麻烦。在他去糖果店的路上，50便士掉在地上，在人行道上跳了几下，掉进了阴沟里。乔治脱掉**外套**，卷起袖子，将右胳膊**伸**进了**阴沟盖。**但他摸了半天也没找到那50便士硬币，**他的胳膊反倒退不出来了**。这时在他周围上了许多人，一位女士在乔治胳膊上抹了肥皂，黄油，但乔治的胳膊仍然卡得紧紧的。有人打电话叫来消防队，两位消防队员使用了一种特殊的润滑剂才使乔治得以解脱。不过，此事并没使乔治过于伤心，因为糖果店老板娘听说了他遇到的麻烦后，**赏**给他一大**盒**巧克力。
+我的外甥乔治有一个储蓄罐，但总是空空的。我给了不少50便士的硬币，但没有几个存到储蓄罐里。昨天，我给了他50便士让**存**起来，却拿这钱给自己买了50便士的麻烦。在他去糖果店的路上，50便士掉在地上，在人行道上跳了几下，掉进了**阴沟**里。乔治脱掉**外套**，卷起袖子，将右胳膊**伸**进了**阴沟盖。**但他**摸了半天**也没找到那50便士硬币，**他的胳膊反倒退不出来了**。这时在他周围上了许多人，一位女士在乔治胳膊上**抹**了肥皂，黄油，但乔治的胳膊仍然卡得紧紧的。有人打电话叫来消防队，两位消防队员使用了一种特殊的**润滑剂**才使乔治得以解脱。不过，此事并没使乔治过于伤心，因为糖果店老板娘听说了他遇到的麻烦后，**赏**给他一大**盒**巧克力。
 
 My nephew, George, has a money box but it is always empty.
 
@@ -1951,7 +1991,7 @@ I gave him fifty pence yesterday and advised him to save it.
 
 Instead, he bought himself fifty pence worth of trouble.
 
-On his way to the sweet shop,he dropped his fifty pence and it bounced along the pavement and then disappeared **down a drain**.
+On his way to the sweet shop,he dropped his fifty pence and it **bounced** along the pavement and then disappeared **down a drain**.
 
 
 
@@ -1963,7 +2003,7 @@ He could not find his 50 pence piece anywhere, **and what is more**, he could no
 
 A crowd of people gathered round him and a lady rubbed his arm with soap and butter,but George was firmly stuck.
 
-The fire brigade was called and two fire fighters freed George using a special type of grease.
+The **fire brigade** was called and two fire fighters **freed** George using a special type of **grease**.
 
 
 
@@ -2986,7 +3026,7 @@ The writer stated that Rastus was in safe hands and would be returned immediatel
 
 绑架者很少对动物感兴趣。最近，绑架者却**盯上了**埃莉诺.拉姆齐太太的猫。埃莉诺.拉姆齐太太是一个非常富有的老妇人，多年来，一直同她养的猫拉斯一起住在一所公寓里。拉斯特斯生活很有规律，傍晚常常出去溜达一会儿，并且总是在7点钟以前回来。可是，有一天晚上，它出去后再也没回来。拉姆齐太太**急**坏了，四处寻找，但没有找着。
 
-Kidnappers  are bearely interested in animals.
+Kidnappers  are rarely interested in animals.
 
 but they recently **took considerable interest** in Mrs. Eleanor Ramsay's cat.
 
@@ -2994,7 +3034,7 @@ Mrs. Eleanor Ramsay, a very wealthy old lady,has shared a flat with her cat, Ras
 
 Rastus leads an orderly life.
 
-He usually takes a short walk in the evenings and is always home by seven o'clock.
+He usually takes a short walk in the evenings and **is always home** by seven o'clock.
 
 One evening, however he failed to arrive.
 
@@ -3006,7 +3046,7 @@ She looked everywhere for him but could not find him.
 
 33
 
-拉斯特斯失踪3天后，拉姆齐太太收到一封匿名信。写信人声称拉斯特斯安然无恙，只要拉姆齐太太愿意支付1,000 英镑赎金，可以立即将猫送还。他让拉姆齐太太把钱**放**在一个纸盒里，然后将纸盒放在门口。一开始拉姆齐太太打算报告警察，但又害怕再也见不到拉斯特斯--这点，信上说得十分明白--于是便改变了主意。她从银行取出1,000 英镑，并照绑架者的要求做了。第二天早晨，放钱的盒子不见了。但拉姆齐太太确信绑架者是会履行诺言的。果然，当天晚上7点正，拉斯特斯准时回来了。它看上去一切正常，只是口渴得很，喝了半瓶牛奶。拉姆齐太太把她所做的事告诉了警察，警察听后大为吃惊。拉姆齐太太解释说她**心疼**她的猫拉斯特斯。想到她所花的**那笔钱**，她的**心疼**就具有双重意义了。
+拉斯特斯失踪3天后，拉姆齐太太收到一封匿名信。写信人声称拉斯特斯安然无恙，只要拉姆齐太太愿意支付1,000 英镑赎金，可以立即将猫**送还**。他让拉姆齐太太把钱**放**在一个纸盒里，然后将纸盒放在门口。一开始拉姆齐太太打算报告警察，但又害怕再也见不到拉斯特斯--这点，信上说得十分明白--于是便改变了主意。她从银行取出1,000 英镑，并照绑架者的要求做了。第二天早晨，放钱的盒子不见了。但拉姆齐太太确信绑架者是会履行诺言的。果然，当天晚上7点正，拉斯特斯**准时**回来了。它看上去一切正常，只是口渴得很，喝了半瓶牛奶。拉姆齐太太把她所做的事告诉了警察，警察听后大为吃惊。拉姆齐太太解释说她**心疼**她的猫拉斯特斯。想到她所花的**那笔钱**，她的**心疼**就具有双重意义了。
 
 Three days after Rastus' disappearance，  Mrs. Ramsay received an anonymous letter。
 
@@ -3016,9 +3056,9 @@ Mrs.Ramsay was instructed **to place** the money in a cardboard box and **to lea
 
 
 
-At first, she decided to go to the police,but fearing that she would never see Rastus again--the letter had made that quite clear--she changed her mind.（破折号可以用来插入整个句子，作为对主要句子内容的补充、解释或强调。这种插入句通常会打断原来的句子结构，但提供了额外的重要信息）
+At first, she decided to **go to the police**,but fearing that she would never see Rastus again--the letter had made that quite clear--she changed her mind.（破折号可以用来插入整个句子，作为对主要句子内容的补充、解释或强调。这种插入句通常会打断原来的句子结构，但提供了额外的重要信息）
 
-She withdrew $1000 from her bank and followed the kidnapper's instructions.
+She withdrew $1000 from her bank and **followed the kidnapper's instructions.**
 
 
 
@@ -3028,7 +3068,7 @@ The next morning, the box had disappeared but Mrs.Ramsay was sure that the kidna
 
 
 
-Sure enough, Rastus arrived punctually at seven o'clock **that evening.**
+**Sure enough**, Rastus arrived punctually at seven o'clock **that evening.**
 
 
 
@@ -3289,7 +3329,7 @@ bitterly adv.愤怒地;
 
 occasion  n.场合
 
-
+darw up 起草
 
    Boxing
 n.  拳击
@@ -3345,47 +3385,51 @@ adj. 浪费的，奢移的
    poverty
 n.  贫困
 
+ in the ring 
+
+ 在拳击比赛中
+
 参考译文
-  两百年前，拳击比赛在英国非常盛行。当时，拳击手们不戴手套，为争夺奖金而搏斗。因此，他们被称作“职业拳击手”。不过，拳击是十分野蛮的，因为当时没有任何比赛规则，职业拳击手有可能在比赛中受重伤，甚至丧命。
-  拳击史上最引人注目的人物之一是丹尼尔.门多萨，他生于1764年。1860年昆斯伯里侯爵第一次为拳击比赛制定了规则，拳击比赛这才用上了手套。虽然门多萨严格来讲不过是个职业拳击手，但在把这种粗野的拳击变成一种体育运动方面，他作出了重大贡献。是他把科学引进了这项运动。门多萨在的全盛时期深受大家欢迎，无论是富人还是穷人都对他祟拜备至。
+  两百年前，拳击比赛在英国非常盛行。当时，拳击手们不戴手套，为争夺奖金而搏斗。因此，他们**被称作**“职业拳击手”。不过，拳击是十分野蛮的，因为当时没有任何比赛规则，职业拳击手有可能在比赛中受重伤，甚至丧命。
+  拳击史上最引人注目的人物之一是丹尼尔.门多萨，他生于1764年。1860年昆斯伯里侯爵第一次为拳击比赛制定了规则，拳击比赛这才用上了手套。虽然门多萨严格来讲不过是个职业拳击手，但在把这种粗野的拳击变成一种体育运动方面，他作出了重大贡献。**是他把**科学引进了这项运动。门多萨在的全盛时期深受大家欢迎，无论是富人还是穷人都对他祟拜备至。
 
 Boxing matches were very popular in England two hundred years ago.
 
-In those days, boxers fought with bare fists for prize money.
+**In those days**, boxers fought with bare fists for prize money.
 
-Because of this, they were known as 'prizefighters'.
+Because of this, they **were known as** 'prizefighters'.
 
-However, boxing was very crude,
+However, boxing was very **crude**,
 
 for there were no rules and a prizefighter could be seriously injured or even killed during a match.
 
-One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764.
+One of the most **colourful** figures in boxing history was Daniel Mendoza, who was born in 1764.
 
-The use of gloves was not introduced until 1860,when the Marquis of Queensberry drew up the first set of rules.
+The use of gloves **was not introduced** until 1860,when the Marquis of Queensberry **drew up** the first **set of** rules.
 
-Though he was technically a prizefighter,Mendoza did much to change crude prizefighting into a sport,
+Though he was technically a prizefighter,Mendoza did much to change **crude** prizefighting into a sport,
 
 for he brought science to the game.
 
-In his day, Mendoza enjoyed tremendous popularity.He was adored by rich and poor alike.
+**In his day**, Mendoza enjoyed tremendous popularity.He was adored by rich and poor alike.
 
 
 
-   门多萨在14岁时参加一场拳击赛后一举成名。这引起当时英国拳坛名将理查德.汉弗莱斯的注意。他主动提出教授门多萨，而年少的门多萨一学就会。事实上，门多萨不久便名声大振，致使汉弗莱斯与他反目为敌。两个人争吵不休，显而易见，只有较量一番才能解决问题。于是两人在斯蒂尔顿设下赛场，厮打了一个小时。公众把大笔赌注下到了门多萨身上，但他却输了。后来，门多萨与汉弗莱斯再次在拳击场上较量，门多萨又输了一场。直到1790年他们第3次对垒，门多萨才终于击败汉弗莱斯，成了全英拳击冠军。同时，他建立了一所拳击学校，办得很成功，连拜伦勋爵也成了他的学生。门多萨挣来大笔大笔的钱，一次出场费就多可达100英镑。尽管收入不少，但他挥霍无度，经常债台高筑。他在被一个叫杰克逊绅士的拳击手击败后很快被遗忘。他因无力还债而被捕入狱，最后于1836年在贫困中死去。
+   门多萨在14岁时参加一场拳击赛后**一举成名。**这引起当时英国拳坛名将理查德.汉弗莱斯的注意。他主动提出教授门多萨，而年少的门多萨一学就会。**事实上**，门多萨不久便名声大振，致使汉弗莱斯与他**反目为敌**。两个人争吵不休**，显而易见**，只有较量一番才能解决问题。于是两人在斯蒂尔顿设下赛场，厮打了一个小时。公众把大笔赌注下到了门多萨身上，但他却输了。后来，门多萨与汉弗莱斯再次在拳击场上**较量**，门多萨又输了一场。直到1790年他们第3次对垒，门多萨才终于击败汉弗莱斯，成了全英拳击冠军。同时，他建立了一所拳击学校，办得很成功，连拜伦勋爵也成了他的学生。门多萨挣来大笔大笔的钱，一次出场费就多可达100英镑。尽管收入不少，但他挥霍无度，经常债台高筑。他在被一个叫杰克逊绅士的拳击手击败后很快被遗忘。他因**无力还债**而被捕入狱，最后于1836年在贫困中死去。
 
-Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old.
+Mendoza **rose to fame swiftly** after a boxing match when he was only fourteen years old.
 
-This attracted the attention of Richard Humphries who was then the most eminent boxer in England.
+This attracted the attention of Richard Humphries who was then the most **eminent** boxer in England.
 
-He offered to train Mendoza and his young pupil was quick to learn.
+He offered to train Mendoza and his young pupil **was quick to learn.**
 
-In fact, Mendoza soon became so successful that Humphries turned against him.
+In fact, Mendoza soon became **so successful that** Humphries **turned against him.**
 
-The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight.
+The two men **quarrelled** **bitterly** and **it was clear that** the argument could only be settled by a fight.
 
 A match was held at Stilton,where both men fought for an hour.
 
-The public bet a great deal of money on Mendoza, but he was defeated.
+The public **bet** a great deal of money **on** Mendoza, but he was defeated.
 
 Mendoza met Humphries in the ring on a later occasion and he lost for a second time.
 
@@ -3393,19 +3437,15 @@ It was not until his third match in 1790 that he finally beat Humphries and beca
 
 
 
-
-
-
-
-Meanwhile, he founded a highly successful Academy and even Lord Byron became one of his pupils.
+**Meanwhile**, he founded a highly successful Academy and even Lord Byron became one of his pupils.
 
 He earned enormous sums of money and was paid as much as $100 for a single appearance.
 
-Despite this, he was so extravagant that he was always in debt.
+Despite this, he was so **extravagant** that he was always in debt.
 
-After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten.
+After he was defeated by a boxer called Gentleman Jackson, he was quickly **forgotten**.
 
-He was sent to prison for failing to pay his debts and died in poverty in 1836.
+He was sent to prison for **failing to pay his debts** and died in poverty in 1836.
 
 
 
@@ -3927,7 +3967,7 @@ As his flat is in a large town, he has no garden of his own.
 
 
 
-For years he has been asking me to collect snails from my garden and take them to him.
+**For years** he has been asking me to collect snails from my garden and take them to him.
 
 The idea never **appealed** to me very much, but one day, after a heavy shower,
 
@@ -4392,19 +4432,13 @@ lose one's lead，失去其领先地位。
 
 人们在格林威治仍可看到19世纪最有名的帆船之一"卡蒂萨克"号。它**停**在陆地上，每年接待成千上万的参观者。它给人们留下深刻的印象，使人们回忆起历史上的巨型帆船。在蒸汽船取代帆船之前，"卡蒂萨克"号**之类的**帆船被用来从中国运回茶叶，从澳大利亚运回羊毛。"卡蒂萨克"号是帆船制造史上建造的最快的一艘帆船。唯一可以与之一比高低的是"塞姆皮雷"号帆船。两船于1872年6月18日同时从上海启航驶往英国，途中**展开了**一场激烈的比赛。这场比赛**持续了**整整4个月，是这类比赛中的最后一次，它**标志**着帆船伟大传统的结束与一个新纪元的开始。
 
-比赛开始后，"赛姆皮雷"号率先抵达爪哇岛。但在印度洋上，"卡萨萨克"号驶到了前面。看来，它首先返抵英国是确信无疑的了，但它却在比赛中连遭厄运。8月份"卡蒂萨克"号遭到一场特大风暴的袭击，失去了一只舵。船身左右摇晃，无法操纵。船员用备用的木板在船上赶制了一只应急用的舵，并克服重重困难将舵安装就位，这样一来，大大降低了船的航速。因为船不能开得太快，否则就有危险，应急舵也会被刮走。因为这个缘故，"卡蒂萨克"号落到了后面。跨越赤道后，船长将船停靠在一个港口，在那儿换了一只舵。但此时，"赛姆皮雷"号早已在500多英里之遥了。尽管换装新舵时分秒必争，但"卡蒂萨克"号已经不可能取胜了，它抵达英国时比"塞姆皮雷"号晚了1个星期。但考虑到路上的多次耽搁，这个成绩也已很不容易了。毫无疑问，如果中途没有失去舵， "卡帝萨克"号肯定能在比赛中轻易夺冠。
-
-
-
-
-
 One of the most famous sailing ships of the nineteenth century, the Cutty Sark, can still be seen at Greenwich.
 
-She stands on dry land and is visited by thousands of people each year.
+She **stands on** dry land and is visited by thousands of people each year.
 
-She serves as an impressive reminder of the great ships of the past.
+She serves as an impressive **reminder** of the great ships of the past.
 
-Before they were replaced by steamships,sailing vessels like the Cutty Sark were used to **carry** tea from China and wool from Australia.
+Before they were replaced by steamships,sailing **vessels** like the Cutty Sark were used to **carry** tea from China and wool from Australia.
 
 The Cutty Sark was one of the fastest sailing ships that has ever been built.
 
@@ -4415,6 +4449,4465 @@ Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to
 This race, which **went on** for exactly four months, was the last of its kind.
 
 It marked the end of the great tradition of ships with sails and the beginning of a new era.
+
+比赛开始后，"赛姆皮雷"号率先抵达爪哇岛。但在印度洋上，"卡萨萨克"号驶到了前面。看来，它首先**返抵**英国是**确信无疑**的了，但它却在比赛中连遭厄运。8月份"卡蒂萨克"号遭到一场特大风暴的袭击，失去了一只舵。船身**左右摇晃**，无法操纵。船员用**备用的**木板在船上赶制了一只**应急用的**舵，并**克服重重困难**将舵**安装**就位，**这样一来，**大大**降低**了船的航速。因为船不能**开**得太快，否则就有危险，应急舵**也**会被**刮走**。**因为这个缘故**，"卡蒂萨克"号**落到了后面**。跨越赤道后，船长将船**停靠**在一个港口，在那儿换了一只舵。但此时，"赛姆皮雷"号早已在500多英里之遥了。尽管换装新舵时**分秒必争**，但"卡蒂萨克"号已经不可能取胜了，它抵达英国时比"塞姆皮雷"号晚了1个星期。但考虑到路上的多次**耽搁**，这个成绩也已很不容易了。毫无疑问，如果中途没有失去舵， "卡帝萨克"号肯定能在比赛中轻易夺冠。
+
+The first of the two ships to reach Java after the race had begun was the Thermopylae,
+
+but on the Indian Ocean, the Cutty Sark took the lead.
+
+It seemed certain that she would be the first ship **home,**but during the race she had a lot of bad luck.
+
+In August, she was struck by a very heavy storm during which her **rudder** was **torn away.**
+
+The Cutty Sark **rolled from side to side** and it became impossible to **steer** her.
+
+A temporary rudder was made on board from **spare planks** and it was **fitted** with great difficulty.
+
+
+
+This greatly reduced the speed of the ship,for there was a danger that if she travelled too quickly,
+
+this rudder would be torn away as well.
+
+Because of this, the Cutty Sark lost her lead.
+
+After crossing the Equator, the captain called in at a port to have a new rudder fitted,
+
+but **by now** the Thermopylae was over five hundred miles ahead.
+
+Though the new rudder was fitted **at tremendous speed,** it was impossible for the Cutty Sark to win.
+
+She arrived in England **a week after the Thermopylae.**
+
+Even this was remarkable, considering that she had had so many delays.
+
+There is no doubt that if she had not lost her rudder she would have won the race easily.
+
+
+
+
+
+
+
+
+
+## Lesson 26  Wanted: a large biscuit tin
+
+[征购大饼干筒]
+
+Who won the prize for the biggest biscuit?
+
+
+
+No one can avoid being influenced by advertisements.
+
+Much as we may pride ourselves on our good taste,we are no longer free to choose the things we want,
+
+for advertising exerts a subtle influence on us.
+
+In their efforts to persuade us to buy this or that product,advertisers have made a close study of human nature and have classified all our little weaknesses.
+
+Advertisers discovered years ago that all of us love to get something for nothing.
+
+An advertisement which begins with the magic word FREE can rarely go wrong.
+
+These days, advertisers not only offer free samples,but free cars, free houses, and free trips round the world as well.
+
+They devise hundreds of competitions which will enable us to win huge sums of money.
+
+Radio and television have made it possible for advertisers to capture the attention of millions of people in this way.
+
+During a radio programme,a company of biscuit manufacturers once asked listeners to bake biscuits and send them to their factory.
+
+They offered to pay $10 a pound for the biggest biscuit baked by a listener.
+
+The response to this competition was tremendous.
+
+**Before long**, biscuits of all shapes and sizes began arriving at the factory.
+
+One lady brought biscuit on a wheelbarrow.
+
+It weighed nearly 500 pounds.
+
+A little later, a man came along with a biscuit which occupied the whole boot of his car.
+
+All the biscuits that were sent were carefully weighed.The largest was 713 pounds.
+
+It seemed certain that this would win the prize.
+
+But just before the competition closed,a lorry arrived at the factory with a truly colossal biscuit which weighed 2, 400 pounds.
+
+It had been baked by a college student who had used over 1, 000 pounds of flour, 800 pounds of sugar,
+
+200 pounds of fat, and 400 pounds of various other ingredients.
+
+It was so heavy that a crane had to be used to remove it from the lorry.
+
+The manufacturers had to pay more money than they had anticipated,for they bought the biscuit from the student for $24, 000.
+
+New words and expressions 生词和短语
+
+8
+
+influence
+
+9
+
+v. 影响
+
+10
+
+pride
+
+11
+
+v. 骄傲
+
+12
+
+taste
+
+13
+
+n. 鉴赏力
+
+14
+
+exert
+
+15
+
+v. 施加
+
+16
+
+subtle
+
+17
+
+aj. 微妙的，难以捉摸的
+
+18
+
+advertiser
+
+19
+
+n. 做广告的人
+
+20
+
+classify
+
+21
+
+v. 分类
+
+22
+
+magic
+
+23
+
+adj. 有奇妙作用
+
+24
+
+sample
+
+25
+
+n. 样品
+
+26
+
+devise
+
+27
+
+v. 设计，想出
+
+28
+
+capture
+
+29
+
+v. 吸引，赢得
+
+30
+
+manufacturer
+
+31
+
+n. 生产厂家，制造商
+
+32
+
+wheelbarrow
+
+33
+
+n. 独轮手推车
+
+34
+
+boot
+
+35
+
+n. （汽车尾部的）行李箱
+
+36
+
+ingredient
+
+37
+
+n. 配料
+
+38
+
+crane
+
+39
+
+n. 起重机
+
+40
+
+anticipate
+
+41
+
+v. 预期，预料
+
+42
+
+**自学导读**
+Notes on the text课文注释
+1 No one can avoid being influenced by advertisements.
+没有人能避免受广告的影响。
+avoid一词需接动名词作宾语， being influenced是动名词一般式的被动形式。
+2 Much as we may pride ourselves…，**尽管我们可以自夸……，虽然我们可以为……而感到自豪。**
+这是一个让步状语从句，连词 much as可以译成“虽然很……”
+3 get something for nothing，免费得到。
+4 go wrong ，出差错，出毛病。
+5 the response to this competition，对这一竞赛的反响
+
+
+
+参考译文
+
+43
+
+没有人能避免受广告的影响。尽管我们可以**自夸**自己的鉴赏力如何**敏锐**，但我们已经无法独立自主地选购自己所需的东西了。这是因为广告在我们身上**施加着一种潜移默化的影响**。做广告的人**在力图劝说**我们买下这种产品或那种产品之前，已经仔细地研究了人的本性，并把人的弱点进行了分类。
+
+Nobody can avoid being influenced by advertisements。
+
+**Much as **     we  may **pride ourselves** on our good taste,we are no longer free to choose the things we want,
+
+for advertising **exerts a subtle influence** on us.
+
+In their efforts to persuade us to buy this or that product,advertisers have made a **close** study of human nature and have classified all our little weaknesses.
+
+
+
+
+
+44
+
+做广告的人们多年前就发现我们大家都喜欢免费得到东西。**凡是用**"免费"这个神奇的词开头的广告很少会失败的。目前，做广告的人不仅提供免费样品，而且还提供免费汽车，免费住房，免费周游世界。他们**设计**数以百计的竞赛，竞赛中有人可赢得巨额奖金。电台、电视使做广告的人可以用这种手段**吸引**成百万人的**注意力**。
+
+Advertisers discovered years ago that all of us love to get something for nothing.
+
+An advertisement which begins with the magic word FREE can rarely go wrong.
+
+These days, advertisers not only offer free samples,but free cars, free houses, and free trips round the world as well.
+
+They **devise** hundreds of competitions which will enable us to win huge sums of money.
+
+Radio and television have made it possible for advertisers to **capture** the attention of millions of people in this way.
+
+
+
+
+
+
+
+有一次，在电台播放的节目里，一个生产饼干的公司**请**听众烘制饼干送到他们的工厂去。他们愿意以每磅10美元的价钱买下由听众烘制的最大的饼干。这次竞赛在听众中引**起极其热烈的反响**。**不久**，形状各异，大小不一的饼干**陆续**送到工厂。一位女士用手推车运来一个饼干，重达500磅左右。**相隔不一会儿**，一个男子也带来一个大饼干，那个饼干把汽车的行李箱挤得满满的。凡送来的饼干都仔细地称量。最重的一个达713磅，看来这个饼干获奖无疑了。但就在**竞赛截止时间将到之际**，一辆卡车驶进了工厂，运来了一个特大无比、重达2,400磅的饼干。它是由一个大学生烘制的，用去1,000多磅的面粉、800磅食糖、200磅动物脂肪及400磅其他各种原料。饼干份量太重了，用了一台起重机才把它从卡车上**卸下**。饼干公司不得不付出比他们预计多得多的钱，因为为买下那学生烘制的饼干他们支付了24,000美元。
+
+During a radio programme,，a company of biscuit manufacturers once asked listeners to bake biscuits and send them to their factory.
+
+They offered to pay $10 a pound for the biggest biscuit baked by a listener.
+
+The response to this competition was tremendous.
+
+**Before long,** biscuits of all shapes and sizes **began arriving** at the factory.
+
+One lady brought biscuit on a **wheelbarrow**.It weighed nearly 500 pounds.
+
+**A little later,** a man came **along with** a biscuit which occupied the whole boot of his car.
+
+All the biscuits that were sent were carefully weighed.
+
+The largest was 713 pounds.It seemed certain that this would win the prize.
+
+But **just before** the competition closed,a lorry arrived at the factory with a truly colossal biscuit which weighed 2, 400 pounds.
+
+It had been baked by a college student who had used over 1, 000 pounds of flour, 800 pounds of sugar,
+
+200 pounds of fat, and 400 pounds of various other ingredients.
+
+It was so heavy that a **crane** had to be used to remove it from the lorry.
+
+The manufacturers had to pay more money than they had anticipated,for they bought the biscuit from the student for $24, 000.
+
+
+
+
+
+
+
+
+
+
+
+## Lesson 27   Nothing to sell and nothing to buy
+
+
+
+
+
+What is the most important thing for a tramp?
+
+It has been said that everyone lives by selling something.
+
+In the light of this statement, teachers live by selling knowledge,
+
+philosophers by selling wisdom and priests by selling spiritual comfort.
+
+Though it may be possible to measure the value of material goods in terms of money,
+
+it is extremely difficult to estimate the true value of the services which people perform for us.
+
+There are times when we would willingly give everything we possess to save our lives,
+
+yet we might grudge paying a surgeon a high fee for offering us precisely this service.
+
+The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop.
+
+Everyone has something to sell.
+
+Tramps seem to be the only exception to this general rule.
+
+Beggars almost sell themselves as human beings to arouse the pity of passers-by.
+
+But real tramps are not beggars.
+
+They have nothing to sell and require nothing from others.
+
+In seeking independence, they do not sacrifice their human dignity.
+
+A tramp may ask you for money,
+
+but he will never ask you to feel sorry for him.
+
+He has deliberately chosen to lead the life he leads and is fully aware of the consequences.
+
+He may never be sure where the next meal is coming from,s
+
+but he is free from the thousands of anxieties which afflict other people.
+
+His few material possessions make it possible for him to move from place to place with ease.
+
+By having to sleep in the open, he gets far closer to the world of nature than most of us ever do.
+
+He may hunt, beg, or steal occasionally to keep himself alive;
+
+he may even, in times of real need, do a little work; but he will never sacrifice his freedom.
+
+We often speak of tramps with contempt and put them in the same class as beggars,
+
+but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?
+
+### 
+
+
+
+philosopher
+
+9
+
+n. 哲学家
+
+10
+
+wisdom
+
+11
+
+n. 智慧
+
+12
+
+priest
+
+13
+
+n. 牧师
+
+14
+
+spiritual
+
+15
+
+adj. 精神上的
+
+16
+
+grudge
+
+17
+
+v. 不愿给，舍不得给
+
+18
+
+surgeon
+
+19
+
+n. 外科大夫
+
+20
+
+passer-by
+
+21
+
+n. 过路人（复数 passers-by)
+
+22
+
+dignity
+
+23
+
+n. 尊严
+
+24
+
+deliberately
+
+25
+
+adv. 故意地
+
+26
+
+consequence
+
+27
+
+n. 后果，结果
+
+28
+
+afflict
+
+29
+
+v. 使苦恼，折磨
+
+30
+
+ease
+
+31
+
+n. 容易
+
+32
+
+nature
+
+33
+
+n. 大自然
+
+34
+
+contempt
+
+35
+
+n. 蔑视的
+
+36
+
+envious
+
+37
+
+adj. 嫉妒的
+
+38
+
+参考译文
+
+39
+
+
+
+　**自学导读**
+Notes on the text
+课文注释
+1 in the light of，依据，按照。
+2 in terms of，从……方面（说来），按照。
+3 grudge paying 中，grudge作“吝惜”，“不愿”解，后面要接名词或动名词。
+这句话中的this service 指上文 to save our lives。
+4 The conditions of society are such that…
+such此处为代词，作“这样”解，that所引起的从句，可视为同位语从句。
+5 be free from…，作“不受……影响”解，后面常接 pain（痛苦）， trouble（苦恼）， danger（危险）一类的词语。
+6 By having to sleep in the open，由于不得不在露天过夜，这一介词短语作原因状语。
+7 in times of real need，确实需要的时侯。
+8 put them in the same class as begars，把他们归为乞丐一类。 the same… as…，像……一样。
+
+
+
+
+
+据说每个人都靠出售某种东西来维持生活。**根据这种说法**，教师靠卖知识为生，哲学家靠卖智慧为生，牧师靠卖精神安慰为生。虽然物质产品的价值可以用金钱来**衡量**，但要**估算**别人为我们为所提供的服务的价值却是极其困难的。有时，我们为了挽救生命，愿意付出我们所**占有**的一切。但就在外科大夫给我们提供了这种服务后，我们却可能为所支付的昂贵的费用而抱怨。社会上的情况就是如此，技术是必须付钱去买的，就像在商店里要花钱买商品一样。人人都有东西可以出售。
+
+It has been said that everyone lives by selling something.
+
+In the light of this statement, teachers live by selling knowledge,
+
+philosophers by selling wisdom and priests by selling spiritual comfort.
+
+Though it may be possible to **measure** the value of material goods in terms of money,
+
+it is extremely difficult to **estimate** the true value of the services which people perform for us.
+
+There are times when we would willingly give everything we possess to save our lives,
+
+yet we might grudge paying a surgeon a high fee for offering us precisely this service.
+
+The conditions of society are such that skills have to be paid for in the same way that goods are paid for **at a shop.**
+
+**Everyone has** something to sell.
+
+
+
+
+
+在这条普遍的规律前面，好像只有流浪汉是个例外，乞丐出售的几乎是他本人，以引起过路人的怜悯。但真正的流浪并不是乞丐。他们既不出售任何东西，也不需要从别人那儿得到任何东西，在追求独立自由的同时，他们并不牺牲为人的尊严。游浪汉可能会向你讨钱，但他从来不要你可怜他。他是故意在选择过那种生活的，**并完全清楚**以这种方式生活的后果。他可能从不知道下顿饭有无着落，但他不像有人那样被千万桩愁事所折磨。他几乎没有什么财产，这使他能够轻松自如地在各地奔波。由于被迫在露天睡觉，他比我们中许多人都离大自然近得多。为了生存，他可能会去打猎、乞讨，偶尔偷上一两回；确实需要的时候，他甚至可能干一点儿活，但他决不会牺牲自由。说起流浪汉，我们常常带有轻蔑并把他们与乞丐归为一类。但是，我们中有多少人能够坦率地说我们对流浪汉的简朴生活与无忧无虑的境况不感到有些羡慕呢？
+
+
+
+Tramps seem to be the only exception to this general rule.
+
+Beggars almost sell themselves as human beings to arouse the pity o**f passers-by.**
+
+But real tramps are not beggars.
+
+They have nothing to sell and require nothing from others.
+
+In seeking independence, they do not sacrifice their human dignity.
+
+A tramp may ask you for money,but he will never **ask you to feel sorry for** him.
+
+He has deliberately chosen to lead the life he leads and is fully aware of the consequences.
+
+He may never **be sure** where the next meal is coming from,but he **is free from** the thousands of anxieties which afflict other people.
+
+His few material possessions make it possible for him to **move from place to place with ease.**
+
+By having to sleep in the open, he gets **far** closer to the world of nature than most of us ever do.
+
+He may hunt, beg, or steal occasionally to **keep himself alive;**
+
+he may even, **in times of real need,** do a little work; but he will never sacrifice his freedom.
+
+We often speak of tramps **with contempt** and **put them in the same class as** beggars,
+
+but how many of us can honestly say that we have not felt a little **envious** of their simple way of life and their freedom from care?
+
+
+
+
+
+
+
+
+
+## Lesson 28  Five pounds too dear
+
+
+
+Why was even five pounds 'too dear' ?
+
+
+
+Small boats loaded with wares sped to the great liner as she was entering the harbour.
+
+Before she had anchored, the men from the boats had climbed on board
+
+and the decks were soon covered with colourful rugs from Persia,
+
+silks from India, copper coffee pots, and beautiful handmade silverware.
+
+It was difficult not to be tempted.
+
+Many of the tourists on board had begun bargaining with the tradesmen,
+
+but I decided not to buy anything until I had disembarked.
+
+I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.
+
+I had no intention of buying one,
+
+but I could not conceal the fact that I was impressed by the size of the diamonds.
+
+Some of them were as big as marbles.
+
+The man went to great lengths to prove that the diamonds were real.
+
+As we were walking past a shop,
+
+he held a diamond firmly against the window and made a deep impression in the glass.
+
+It took me over half an hour to get rid of him.
+
+The next man to approach me was selling expensive pens and watches.
+
+I examined one of the pens closely.
+
+It certainly looked genuine.
+
+At the base of the gold cap, the words 'made in the U.S.A.' had been neatly inscribed.
+
+The man said that the penwas worth $50,
+
+but as a special favour, he would let me have it for $30.
+
+I shook my head and held up five fingers indicating that I was willing to pay $5.
+
+Gesticulating wildly, the man acted as if he found my offer outrageous
+
+but he eventually reduced the price to 10 pounds.
+
+Shrugging my shoulders I began to walk away when,
+
+a moment later, he ran after me and thrust the pen into my hands.
+
+Though he kept throwing up his arms in despair, he readily accepted the $5 I gave him.
+
+I felt especially pleased with my wonderful bargain--until I got back to the ship.
+
+No matter how hard I tried,it was impossible to fill this beautiful pen with ink and to this day it has never written a single word!
+
+
+
+
+
+
+
+wares
+
+9
+
+n. 货物，商品
+
+10
+
+anchor
+
+11
+
+v. 停航下锚
+
+12
+
+deck
+
+13
+
+n. 甲板
+
+14
+
+silverware
+
+15
+
+n. 银器
+
+16
+
+tempt
+
+17
+
+v. 吸引；引诱
+
+18
+
+bargain
+
+19
+
+v. 讨价还价
+
+20
+
+disembark
+
+21
+
+v. 下船上岸
+
+22
+
+assail
+
+23
+
+v. 纠缠
+
+24
+
+marble
+
+25
+
+n. 小玻璃球
+
+26
+
+inscribe
+
+27
+
+v. 刻写，雕
+
+28
+
+favour
+
+29
+
+n. 好处，优惠
+
+30
+
+gesticulate
+
+31
+
+v. （讲话时）打手势
+
+32
+
+outrageous
+
+33
+
+adj. 出人预料的；令人不悦的
+
+34
+
+thrust
+
+35
+
+v. 硬塞给
+
+36
+
+rugs n.地毯 
+
+neatly adv。整齐地
+
+readily adv.轻而易举地
+
+Shrug v.耸肩
+
+base n.底座
+
+
+
+**
+　　自学导读**
+Notes on the text课文注释
+1 I had **no sooner** got off the ship **than** I was assailed，我刚刚一下船就被……人纠缠住了。 n**o sooner… than…作“刚……就……”讲**
+2 **go to great lengths to do** sth．，竭力做某事。
+3 get rid of，摆脱。
+4 as a special favour，作为一种特殊的优惠。
+5 throw up his arms in despair，绝望地举起双手。
+
+
+
+
+
+
+
+当一艘大型班船**进港**的时候，许多小船载着各种杂货快速向客轮驶来。大船还未下锚。小船上的人就纷纷爬上客轮。**一会儿工夫**，甲板上就摆满了色彩斑斓的波斯**地毯**。印度丝绸。铜咖啡壶以及手工制作的漂亮的银器。要想不为这些东西所动心是很困难的。船上许多游客开始同商贩讨价还价起来，但我打定主意上岸之前什么也不买。
+
+
+
+Small boats loaded with ware sped to the great liner as she was **entering**  the **harbour**.
+
+Before she had anchored, the men from the boats had climbed on board
+
+and the decks were soon **covered with** colourful **rugs** from Persia,, indian **silk**, **copper** coffer pots and  handmade silverware.
+
+It was difficult not to be **tempted**.
+
+Many of the tourists on board had begun bargaining with the tradesmen,, but I decided not to buy anything until I had disembarked.
+
+
+
+我刚下船，就被一个人截住，他向我兜售一枚钻石戒指。我根本不想买，但我不能掩饰这样一个事实：其钻石之大给我留下了深刻的印象。有的钻石像玻璃球**那么大**。那人**竭力**想证明那钻石是真货。我们**路过**一家商店时，他将一颗钻石使劲地往橱窗上一按，在玻璃上留下一道**深痕**。我花了半个多小时才摆脱了他的纠缠。
+
+I had **no sooner** got off the ship **than** I was **assailed** by a man who wanted to sell me a diamond ring.
+
+I had no intention of buying one,
+
+but I could not conceal the fact that I was impressed by the size of the diamonds.
+
+Some of them were as big as **marbles**.
+
+The man **went to great lengths** **to prove** that the diamonds were real.
+
+As we were **walking past** a shop,he **held** a diamond firmly against the window and **made a deep impression** in the glass.
+
+It took me over half an hour to get rid of him.
+
+
+
+向我兜售的第二个人是卖名贵钢笔和手表的。我仔细察看了一枝钢笔，那看上去确实不假，金笔帽下方整齐地刻有"美国制造"字样。那人说那支笔值50英镑，作为特别优惠，他愿意让我出30英镑成交。**我摇摇头**，伸出5根手指表示我只愿出5镑钱。那人激动地打着手势，仿佛我的出价使他不能容忍。但他终于把价钱降到了10英镑。我耸耸肩膀**掉头走开了**。一会儿，他突然从后**追了上来**，把笔塞到我手里。虽然他**绝望**地举起双手，但他毫不迟疑地收下了我付给他的5镑钱。在回到船上之前，我一直为我的绝妙的讨价还价而洋洋得意。然而不管我如何摆弄，那枝漂亮的钢笔就是吸不进墨水来。直到今天，那枝笔连一个字也没写过！
+
+
+
+
+
+The next man to approach me was selling expensive pens and watches.
+
+I examined one of the pens **closely**.
+
+It certainly looked genuine.
+
+At the **base** of the gold cap, the words 'made in the U.S.A.' had been **neatly inscribed.**
+
+The man said that the pen was worth $50,but as a special favour, he would let me have it for $30.
+
+I shook my head and **held up** five fingers indicating that I was **willing** to pay $5.
+
+**Gesticulating wildly,** the man **acted** as if he found my offer **outrageous**,but he eventually reduced the price to 10 pounds.
+
+**Shrugging my shoulders** I **began to walk away** when,**a moment later,** he **ran after me** and thrust the pen into my hands.
+
+Though he kept **throwing up** his arms **in despair**, he **readily** **accepted** the $5 I gave him.
+
+
+
+
+
+I felt **especially pleased** with my wonderful bargain--until I got back to the ship.
+
+No matter how hard I tried,it was impossible to fill this beautiful pen with ink and **to this day i**t has never written a single word!
+
+
+
+
+
+
+
+The next man to approach me was selling expensive pens and watches.
+
+I examined one of the pens **closely**.
+
+It certainly looked genuine.
+
+At the **base** of the gold cap, the words 'made in the U.S.A.' had been **neatly inscribed.**
+
+The man said that the pen was worth $50,but as a special favour, he would let me have it for $30.
+
+I shook my head and **held up** five fingers indicating that I was willing to pay $5.
+
+**Gesticulating wildly,** the man acted as if he found my offer **outrageous**,but he eventually reduced the price to 10 pounds.
+
+**Shrugging my shoulders** I began to walk away when,a moment later, he ran after me and thrust the pen into my hands.
+
+Though he kept throwing up his arms **in despair**, he **readily** accepted the $5 I gave him.
+
+
+
+I felt **especially pleased** with my wonderful bargain--until I got back to the ship.
+
+No matter how hard I tried,it was impossible to fill this beautiful pen with ink and to this day it has never written a single word!
+
+
+
+
+
+
+
+## Lesson 29 Funny or not?
+
+
+
+What is the **basis** of 'sick' humour?
+
+Whether we find a joke funny or not largely depends on where we have been brought up.
+
+The sense of humour is **mysteriously** bound up with national **characteristics**.
+
+A Frenchman, for instance, might find it hard to laugh at a Russian joke.
+
+In the same way, a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to tears.
+
+Most funny stories are based on comic situations.
+
+In spite of national differences, certain funny situations have a universal **appeal**.
+
+No matter where you live,you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+
+However, a new type of humour, which **stems** largely from U.S., has recently **come into fashion.**
+
+It is called 'sick humour'.
+
+Comedians **base** their jokes **on** tragic situations like violent death or serious accidents.
+
+Many people find this sort of joke **distasteful**.
+
+The following example of 'sick humour' will enable you to **judge for yourself.**
+
+A man who had broken his right leg was taken to hospital a few weeks before Christmas.
+
+From the moment he arrived there,
+
+he kept on **pestering** his doctor to tell him when he would be able to go home.
+
+He **dreaded** **having** to spend Christmas in hospital.
+
+Though the doctor did his best, the patient's recovery was slow.
+
+On Christmas day, the man still had his right leg in **plaster**.
+
+He spent a **miserable** day in bed thinking of all the fun he was missing.
+
+The following day, however, the doctor **consoled** him by telling him that his chances of being able to leave hospital in time for New Year celebrations were good.
+
+The man **took heart** and **sure enough,**on New Year's Eve he was able to **hobble** along to a party.
+
+To **compensate** for his unpleasant experiences in hospital,the man drank a little more than was good for him.
+
+In the process, he enjoyed himself **thoroughly** and kept telling everybody how much he hated hospitals.
+
+He was still **mumbling** something about hospitals at the end of the party when he **slipped** on a piece of ice and broke his left leg.
+
+
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+largely
+
+9
+
+adv. 在很大程度上
+
+10
+
+comic
+
+11
+
+adj. 喜剧的，可笑的
+
+12
+
+universal
+
+13
+
+adj. 普通的
+
+14
+
+comedian
+
+15
+
+n. 滑稽演员，喜剧演员
+
+16
+
+**distasteful**
+
+17
+
+adj. 讨厌的
+
+18
+
+**pester**
+
+19
+
+v. 一再要求，纠缠
+
+20
+
+**dread**
+
+21
+
+v. 惧怕
+
+22
+
+recovery
+
+23
+
+n. 康复
+
+24
+
+plaster
+
+25
+
+n. 熟石膏
+
+26
+
+console
+
+27
+
+v. 安慰，慰问
+
+28
+
+hobble
+
+29
+
+v. 瘸着腿走
+
+30
+
+compensate
+
+31
+
+v. 补偿
+
+32
+
+mumble
+
+33
+
+v. 喃喃而语
+
+34
+
+stem from v。源于
+
+basis n.基础
+
+characteristics n.特征
+
+appeal n。感染力
+
+miserable  adj。痛苦的
+
+thoroughly  adv，彻底地
+
+
+
+1 whether we find a joke funny or not，这是一个名词性的从句，在句中作主语。
+
+　　2 be bound up with，与……联系在一起。
+
+　　3 you would find it difficult not to laugh at, say,Charlie Chaplin's early films. 比如说，你看了查理·卓别林的早期电影很难不发笑。句中的say是插入语，可译作“比如说”。查理·卓别林是电影史上最有名的演员之一。他在诸如《淘金记》(1924)这类电影中扮演的流浪汉“小人物”在各种不利的条件下仍获得了成功。
+
+　　4 stem from，起源于。
+
+　　5 come into fashion，
+
+　　开始流行，时兴起来。
+
+　　6 judge for yourself，你自己来判断。
+
+　　7 **take heart**，振作精神。
+
+　　8 the man drank a little more than was good for him.这个人稍微多喝了一点酒。
+
+　　此句than后面省略了主语what， be good for sb. 是“对某人有益”的意思。
+
+一些语法学家认为，than后面带what结构是累赘的表达，因此在比较正式的表达中，than后面的主语what经常省略。
+
+
+
+
+
+参考译文
+
+35
+
+我们**觉得**一则笑话是否好笑，很大程度取决于我们是在哪儿长大的。幽默感与民族有着神秘莫测的联系。**譬如，**法国人听完一则俄国笑话可能很难发笑。**同样的道理，**一则可以令英国人笑出泪来的笑话，俄国人听了可能觉得没有什么可笑之处。
+
+
+
+Whether we find a joke funny or not largely depends on where we have been **brought up.**
+
+The sense of **humour** is **mysteriously** **bound up with** national **characteristics**.
+
+A Frenchman, **for instance**, might find it hard to laugh at a Russian joke.
+
+**In the same way,** a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to tears.
+
+
+
+36
+
+大部分令人发笑的故事都是根据喜剧**情节**编写的。尽管民族不同，**有些**滑稽的情节却能产生普遍的效果。比如说，不管你生活在哪里，你看查理.卓别林的早期电影很难不发笑。然而，近来一种新式幽默**流行了起来**，这种幽默**主要来自**美国。它被叫作"病态幽默"。喜剧演员根据悲剧情节诸如暴死，重大事故等来编造笑话。许多人认为这种笑话是低级庸俗的。下面是个"病态幽默"的实例，你可据此自己作出判断。
+
+Most funny stories are based on comic **situations**.
+
+In spite of national differences, **certain** funny situations have a **universal** **appeal**.
+
+No matter where you live,you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+
+However, a new type of humour, which **stems** largely **from** U.S., has recently **come into fashion**.
+
+It is called 'sick humour'.
+
+Comedians **base** their jokes **on** tragic situations like violent death or serious accidents.
+
+Many people find this sort of joke **distasteful**.
+
+The following example of 'sick humour' will enable you to **judge for yourself**.
+
+
+
+37
+
+圣诞节前几周，某人摔断了右腿被送进医院。**从**他进医院那一刻**时**，他就缠住医生，让医生告诉他什么时候能回家。他十分害怕在医院过圣诞。**尽管医生竭力医治**，但病人恢复缓慢。圣诞节那天，他的右**腿还上着石膏**，他在床上郁郁不乐地躺了一天，想着他错过的种种欢乐。然而，**第二天**，医生安慰他说，出院欢度新年的可能性还是很大的，那人听后**振作了精神**。**果然**，**除夕**时他可以一瘸一拐地去参加晚会了。为了补偿住院这一段不愉快的经历，那人喝得稍许多了一点。在晚会上他尽情娱乐，**一再**告诉大家他是多么讨厌医院。晚会结束时，他嘴里还在嘟哝着医院的事，突然踩到一块冰上滑倒了，摔断了左腿
+
+
+
+A man who **had broken** his right leg **was taken to hospital** a few weeks before Christmas.
+
+**From the moment he arrived there,**
+
+he kept on **pestering  his doctor to tell **him when he would be able to go home.
+
+
+
+
+
+He **dreaded having** to spend Christmas in hospital. 
+
+ Though the doctors did his best, the patient's recovery was slow. 
+
+On Christmas Day, the man still **had his right leg in plaster.**
+
+He spent **a miserable day** in bed **thinking** of all the fun he was missing.
+
+**The following day,** however, the doctor consoled him by telling him that his chances of being able to leave hospital **in time** for New Year celebrations were good.
+
+
+
+The man **took heart** and **sure enough,**on New Year's Eve he was able to **hobble along** to a party.
+
+To **compensate** for his unpleasant experiences in hospital,the man drank a little more than was good for him.
+
+In the process, he enjoyed himself **thoroughly** and **kept telling** everybody how much he hated hospitals.
+
+He was still **mumbling** something about hospitals at the end of the party when he **slipped** on a piece of ice and broke his left leg.
+
+
+
+## Lesson 30 The death of a ghost
+
+
+
+Why did the two brothers keep the secret?
+
+
+
+For years, villagers believed that Endley farm was **haunted**.
+
+The farm was owned by two brothers, Joe and Bob Cox.
+
+They employed a few farmhands, but no one was willing to work there long.
+
+Every time a worker gave up his job, he told the same story.
+
+Farm labourers said that they always woke up to find that work had been done overnight.
+
+**Hay** had been cut and **cowsheds** had been cleaned.
+
+A farm worker, who **stayed up all night,** claimed to have seen a figure cutting corn in the moonlight.
+
+In time, it became an accepted fact that the Cox brothers employed a **conscientious** ghost that did most of their work for them.
+
+No one suspected that there might be someone else on the farm who had never been seen.
+
+
+
+This was indeed the case.
+
+A short time ago, villagers were astonished to learn that the ghost of Endley had died.
+
+Everyone went to the funeral, for the 'ghost' was none other than Eric Cox,a third brother who was supposed to have died as a young man.
+
+
+
+After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years.
+
+Eric had been the eldest son of the family, very much older than his two brothers.
+
+He had been **obliged to** join the army during the Second World War.
+
+As he hated army life, he decided to **desert** his **regiment**.
+
+When he learnt that he would be sent abroad,he returned to the farm and his father hid him until the end of the war.
+
+Fearing the authorities, Eric remained in hiding after the war as well.
+
+His father told everybody that Eric had been killed **in action.**
+
+The only other people who knew the secret were Joe and Bob.
+
+They did not even tell their wives.
+
+When their father died they thought it their duty to keep Eric in hiding.
+
+All these years, Eric had lived as a **recluse**.
+
+He used to sleep during the day and work at night,quite unaware of the fact that he had become the ghost of Endley.
+
+When he died, however, his brothers found it impossible to keep the secret any longer.
+
+
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+
+
+
+
+labourer
+
+9
+
+n. 劳动者
+
+10
+
+overnight
+
+11
+
+adv. 一夜期间
+
+12
+
+hay
+
+13
+
+n. 干草
+
+14
+
+corn
+
+15
+
+n. 谷物
+
+16
+
+moonlight
+
+17
+
+n. 月光
+
+18
+
+conscientious
+
+19
+
+adj. 认真的
+
+20
+
+suspect
+
+21
+
+v. 怀疑
+
+22
+
+desert
+
+23
+
+v. （军队中）开小差
+
+24
+
+regiment
+
+25
+
+n. （军队）团
+
+26
+
+action
+
+27
+
+n. 战斗
+
+28
+
+recluse
+
+29
+
+n. 隐士
+
+haunted adj。闹鬼的
+
+farmhands n。农场工人
+
+**Notes on the text**
+
+　　**课文注释**
+
+　　1 **every time (=whenever) 作“每当……”解，引导时间状语从句。**
+
+　　2 stay up，熬夜，不睡觉。
+
+　　3 In time, it became an accepted fact that…，最后，……已成为公认的一个事实。in time作“终于”，“最后”讲。that引导的从句作fact的同位语。
+
+　　4 none other than…，不是别人正是……。
+
+参考译文
+
+31
+
+**多年来**，村民们一直认为恩得利农场在闹鬼。恩得利农场属于乔.考科斯和鲍勃.考科斯兄弟俩所有。他们雇了几个农工，但谁也不愿意在那儿长期工作下去。每次雇工辞职后都叙述着同样的故事。雇工们说，常常一早起来发现有人在夜里把活干了，干草已切好，牛棚也打扫干净了。有一个**彻夜未眠**的雇工还声称他看见一个人影在月光下**收割**庄稼**。随着时间的流逝**，考科斯兄弟雇了一个尽心尽责的鬼，他们家的活大部分都让鬼给干了，这件事成了公认的事实。
+
+**For years,** villagers believed that Endley farm was **haunted**.
+
+The farm was owned by two brothers, Joe and Bob Cox.
+
+They **employed** a few **farmhands**, but no one was willing to work there **long**.
+
+**Every time** a worker gave up his job, he told the same story.
+
+Farm **labourers** said that they always woke up to find that work had been done **overnight**.
+
+**Hay** had been cut and **cowsheds** had been cleaned.
+
+A farm worker, who **stayed up all night,** claimed to have seen a figure **cutting corn** in the moonlight.
+
+**In time**, it became an accepted fact that the Cox brothers employed a **conscientious** ghost that did most of their work for them.
+
+
+
+
+
+
+
+
+
+谁也没想到农场竟会有一个**从未露面的**人。但**事实上确有此人**。**不久之前**，村民们惊悉恩得利农场的鬼死了。大家都去**参加了葬礼**，因为那"鬼"**不是别人，正是**农场主的兄弟埃里克.考科斯。人们以为埃里克年轻时就死了。葬礼之后，乔和鲍勃**透露**了他们保守了长达50多年的秘密。
+
+No one **suspected** that there might be someone else on the farm who had never been seen.
+
+**This was indeed the case.**
+
+**A short time ago**, villagers were astonished to **learn** that the ghost of Endley had died.
+
+Everyone went to the funeral, for the 'ghost' was **none other than** Eric Cox,a third brother who was supposed to have died as a young man.
+
+After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years.
+
+
+
+埃里克是这家长子。年龄比他两个弟弟大很多，第二次世界大战期间被迫参军。他讨厌军旅生活，决定逃离所在部队。当他了解自己将被派遣出国时，他**逃回**农场，父亲把他藏了起来，直到战争结束。由于害怕当局，埃里克战后继续深藏不露。他的父亲告诉大家，埃里克在战争中被打死了。除此之外，**只有**乔与鲍知道这个秘密。但他俩连自己的妻子都没告诉。父亲死后，他们兄弟俩认为有责任继续把埃里克藏起来。这些年来，埃里克过着隐士生活，白天睡觉，夜里出来干活，**一点不知道**自己已成了恩得利家场的活鬼。他死后，他的弟弟们才觉得无法再保守这个秘密了。
+
+
+
+
+
+Eric had been the eldest son of the family, very much older than his two brothers.
+
+He had been **obliged** to join the army during the Second World War.
+
+As he hated army life, he decided to **desert** his **regiment**.
+
+When he learnt that he would be sent abroad,he **returned to** the farm and his father hid him until the end of the war.
+
+Fearing the authorities, Eric remained in hiding after the war as well.
+
+His father told everybody that Eric had been killed in action.
+
+The **only other** people who knew the secret were Joe and Bob.
+
+They did not even tell their wives.
+
+When their father died they thought it their duty to keep Eric in hiding.
+
+All these years, Eric had lived as a **recluse**.
+
+He used to sleep during the day and work at night**,quite unaware of** the fact that he had become the ghost of Endley.
+
+When he died, however, his brothers found it impossible to keep the secret any longer.
+
+
+
+
+
+## Lesson 31 A lovable eccentric
+
+
+
+True **eccentrics** never deliberately **set out** to draw attention to themselves.
+
+They **disregard** social **conventions** without being **conscious** that they are doing anything extraordinary.
+
+This **invariably** wins them the love and respect of others,
+
+for they add colour to the **dull(monotonous )** routine of everyday life.
+
+**Up to the time of** his death,Richard Colson was one of the most notable figures in our town.
+
+He was a **shrewd** and wealthy businessman,
+
+but most people in the town hardly knew anything about this side of his life.
+
+He was known to us all as Dickie and his eccentricity had become legendary long before he died.
+
+Dickie disliked **snobs** **intensely**.
+
+Though he owned a large car, he hardly ever used it, **preferring** always to go on foot.
+
+Even when it was raining heavily, he refused to carry an umbrella.
+
+One day, he walked into an expensive shop after having been caught in a particularly heavy shower.
+
+He wanted to buy a $300 watch for his wife,
+
+but he was in such a **bedraggled** condition that an assistant refused to serve him.
+
+Dickie left the shop without a word and returned carrying a large cloth bag.
+
+As it was extremely heavy, he dumped it on the counter.
+
+The assistant asked him to leave,
+
+but Dickie paid no attention to him and requested to see the manager.
+
+Recognizing who the customer was,the manager was most apologetic and **reprimanded** the assistant severely.
+
+When Dickie was given the watch, he presented the assistant with the cloth bag.
+
+It contained $300 in pennies.
+
+He insisted on the assistant's counting the money before he left--30, 000 pennies in all!
+
+On another occasion, he invited a number of important critics to see his private collection of modern paintings.
+
+This exhibition received a great deal of attention **in the press,**
+
+for though the pictures were supposed to be the work of famous artists,
+
+they had in fact been painted by Dickie.
+
+It took him four years to stage this **elaborate** joke simply to prove that **critics** do not always know what they are talking about.
+
+
+
+New words and expressions 生词和短语
+
+8
+
+lovable
+
+9
+
+adj. 可爱的
+
+10
+
+eccentric
+
+11
+
+n. （行为）古怪人
+
+
+
+set out  着手 出发
+
+
+
+12
+
+disregard
+
+13
+
+v. 不顾，漠视
+
+14
+
+convention
+
+15
+
+n. 习俗，风俗
+
+16
+
+conscious
+
+17
+
+adj. 感觉到的，意识到的
+
+18
+
+invariably
+
+19
+
+adv. 总是，经常地
+
+
+
+dull adj。 无聊的
+
+
+
+20
+
+routine
+
+21
+
+n. 常规；惯例
+
+22
+
+shrewd
+
+23
+
+adj. 精明的
+
+24
+
+eccentricity
+
+25
+
+n. 怪僻
+
+
+
+
+
+26
+
+legendary
+
+27
+
+adj. 传奇般的
+
+28
+
+snob
+
+29
+
+n. 势利小人，谄上欺下的人
+
+30
+
+intensely
+
+31
+
+adv. 强烈地
+
+32
+
+bedraggled
+
+33
+
+adj. 拖泥带水的
+
+34
+
+dump
+
+35
+
+v. 把......砰的一声抛下
+
+36
+
+apologetic
+
+37
+
+adj. 道歉的
+
+38
+
+reprimand
+
+39
+
+v. 训斥
+
+40
+
+stage
+
+41
+
+v. 暗中策划
+
+42
+
+elaborate
+
+43
+
+adj. 精心构思的
+
+
+
+参考译文
+
+  真正古怪的人从不有意引人注意。他们不顾社会习俗，意识不到自己所作所为有什么特殊之处。他们总能赢得别人的喜爱与尊敬，因为他们给平淡单一的日常生活增添了色彩。
+  理查德.科尔森生前是我们镇上最有名望的人之一。他是个精明能干、有钱的商人，但镇上大部分人对他生活中的这一个方面几乎一无所知。大家都管他叫迪基。早在他去世前很久，他的古怪行为就成了传奇故事了。
+  迪基痛恨势利小人。尽管他有一辆豪华小轿车，但却很少使用，常常喜欢以步代车。即使大雨倾盆，他也总是拒绝带伞。一天，他遇上一场瓢泼大雨，淋得透湿。他走进一家高级商店，要为妻子买一块价值300英镑的手表。但店员见他浑身泥水的样子，竟不肯接待他。迪基二话没说就走了。一会儿，他带着一个大布口袋回到店里。布袋很沉，他重重地把布袋扔在柜台上。店员让迪基走开，他置之不理，并要求见经理。经理认出了这位顾客，表示了深深的歉意，还严厉地训斥了店员。店员为迪基拿出了那块手表，迪基把布口袋递给他，口袋里面装着300镑的便士。他坚持要店员点清那些硬币后他才离去。
+
+还有一次，他邀请一些著名评论家来参观他私人收藏的现代画。这次展览引起报界广泛注意，因为这些画名义上是名家的作品，事实上是迪基自己画的。他花了4年时间策划这出精心设计的闹剧，只是想证明评论家们有时并不解他们所谈论的事情。
+
+
+
+1set out to do sth,打算，企图做某事
+2 draw attention to,作“引起对…的注意”讲。
+3 without being conscious that,没有意识到…。
+这是介词短语作状语，be conscious that.作“意识到…”解。
+4 This invariably wins them the love and respect of others.这常常赢来人们对他们的爱戴和尊敏。
+win sb.sth,作“使某人获得某事（物）”讲。
+5add…to,把…添加到…。
+6 this side of his life,他生活中这方面的情况。
+这里指的是He was a shrewd and wealthy businessman.
+7 be caught in,作“突然遇上.碰上”讲。
+8 Recognizing who the customer was,the manager was most apologetic...
+由于经理认出这个顾客是谁了，便竭力陪礼道歉…。这句话用现在分词短语作原因状语，mOst在这里起
+加强语气的作用，相当于vcy。
+9.insisted on the assistant's counting,坚持让店员点清。
+insist on后接动名词，the assistant's是动名词的逻辑主语。
+
+up to the time 截至……时间;
+
+
+
+
+
+
+
+
+
+参考译文
+
+  真正古怪的人从不有意引人注意。他们不顾社会习俗，意识不到自己所作所为有什么特殊之处。他们总能赢得别人的喜爱与尊敬，因为他们给平淡单一的日常生活增添了色彩。
+  理查德.科尔森**生前**是我们镇上最有名望的**人**之一。他是个精明能干、有钱的商人，但镇上大部分人对他生活中的这一个方面几乎**一无所知**。大家都管他叫迪基。**早在他去世前很久，**他的古怪行为就成了传奇故事了。
+
+True eccentrics never deliberately set out to **draw attention to themselves.**
+
+They disregard social conventions without being conscious that they are doing anything extraordinary.
+
+This **invariably** wins them the love and respect of others,for they add colour to the dull routine of everyday life.
+
+
+
+**Up to the time of his death**, Richard Colson was one of the most notable figures in our town.
+
+He was a **shrewd** and wealthy businessman,but most people in the town **hardly knew anything abou**t this side of his life.
+
+He was known to us all as Dickie and his eccentricity had become **legendary** **long before** he died.
+
+  迪基痛恨势利小人。尽管他有一辆豪华小轿车，但却很少使用，常常喜欢以步代车。即使大雨倾盆，他也总是拒绝带伞。一天，他遇上一场瓢泼大雨，淋得透湿。他走进一家高级商店，要为妻子买一块价值300英镑的手表。但店员见他浑身泥水的样子，竟不肯接待他。迪基二话没说就走了。**一会儿**，他带着一个大布口袋回到店里。布袋很沉，他重重地把布袋扔在柜台上。店员让迪基走开，他**置之不理**，并要求见经理。经理认出了这位顾客，表示了深深的歉意，还严厉地训斥了店员。店员为迪基拿出了那块手表，迪基把布口袋递给他，口袋里面**装着**300镑的便士。他坚持要店员点清那些硬币后他才离去。
+
+
+
+Dickie disliked snobs intensely.
+
+Though he owned a large car, he hardly ever used it, preferring always to go on foot.
+
+Even when **it was raining heavily**, he refused to carry an umbrella.
+
+One day, he walked into an expensive shop after having been caught in a particularly heavy shower.
+
+He wanted to buy a $300 watch for his wife,
+
+but he was in such a bedraggled condition that an assistant refused to serve him.
+
+Dickie left the shop without a word and returned carrying a large cloth bag.
+
+As it was extremely heavy, he dumped it on the counter.
+
+The assistant asked him to leave,but Dickie **paid no attention** to him and requested to **see the manager.**
+
+Recognizing who the customer was,
+
+the manager was most apologetic and **reprimanded** the assistant severely.
+
+When Dickie was given the watch, he **presented** the assistant **with** the cloth bag.
+
+It contained $300 in pennies.
+
+He insisted on the assistant's counting the money before he left--30, 000 pennies in all!
+
+
+
+
+
+
+
+还有一次，他邀请一些著名评论家来**参观**他私人收藏的现代画。这次展览**引起报界广泛注意**，因为这些画**名义上**是**名家**的作品，事实上是迪基自己画的。他花了4年时间策划这出精心设计的**闹剧**，只是想证明评论家们有时并不解他们所谈论的事情。
+
+On another occasion, he invited a number of important critics to **see** his private collection of modern paintings.
+
+
+
+This exhibition **received a great deal of attention** in the press,
+
+
+
+for though the pictures **were supposed to be** the work of famous artists  ,they had in fact been painted by Dickie.
+
+It took him four years to stage this **elaborate joke** simply to prove that critics do not always know what they are talking about.
+
+
+
+## Lesson 32 A lost ship
+
+
+
+Did the crew of the Elkor find what they were looking for? Why?
+
+
+
+The salvage operation had been a complete failure.
+
+
+
+The small ship, Elkor, which had been searching the Barents Sea **for weeks**, was on its way home.
+
+A radio message from the mainland had been received by the ship's captain instructing him to give up the search.
+
+The captain knew that another attempt would be made later,
+
+for the **sunken** ship he was trying to find had been carrying a precious **cargo** of gold bullion.
+
+Despite the message, the captain of the Elkor decided to try once more.
+
+The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom.
+
+Though the crew were at first **under the impression** that the lost ship had been found,
+
+the contents of the chest proved them wrong.
+
+What they had in fact found was a ship which had been sunk many years before.
+
+The chest contained the personal belongings of a seaman, Alan Fielding.
+
+There were books, clothing and photographs, together with letters which the seaman had once received from his wife.
+
+The captain of the Elkor ordered his men to **salvage** as much as possible from the **wreck**.
+
+Nothing of value was found,
+
+but the numerous items which were brought to the surface proved to be of great interest.
+
+From a heavy gun that was raised,the captain realized that the ship must have been a **cruiser**.
+
+In another chest which contained the **belongings** of a ship's officer,there was an unfinished letter which had been written on March 14th, 1943.
+
+The captain learnt from the letter that the name of the lost ship was the Karen.
+
+The most valuable find of all was the ship's log book, parts of which it was still possible to read.
+
+**From this** the captain was able to **piece** together all the information **that had come to light.**
+
+The Karen had been sailing in a **convoy** to Russia when she was **torpedoed** by an enemy submarine.
+
+This was later confirmed by a naval official at the Ministry of Defence after the Elkor had returned home.
+
+All the items that were found were sent to the War Museum.
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+salvage
+
+9
+
+v. 救助，营救；打捞
+
+10
+
+Barents
+
+11
+
+n. 巴伦支（海）
+
+12
+
+sunken
+
+13
+
+adj. 沉没的
+
+14
+
+cargo
+
+15
+
+n. 货物
+
+16
+
+bullion
+
+17
+
+n. 金条；银条
+
+18
+
+scour
+
+19
+
+v. 彻底搜索
+
+20
+
+chest
+
+21
+
+n. 大箱子
+
+22
+
+contents
+
+23
+
+n. （复数）所装的东西
+
+24
+
+belongings
+
+25
+
+n. （复数）所有物
+
+26
+
+item
+
+27
+
+n. 物件
+
+28
+
+cruiser
+
+29
+
+n. 巡洋舰
+
+30
+
+find
+
+31
+
+n. 找到的物品
+
+32
+
+log book
+
+33
+
+航海日志
+
+34
+
+piece
+
+35
+
+v. 拼成整体
+
+36
+
+convoy
+
+37
+
+n. 护航
+
+38
+
+torpedo
+
+39
+
+v. 用鱼雷攻击
+
+40
+
+submarine
+
+41
+
+n. 潜水艇
+
+42
+
+naval
+
+43
+
+adj. 海军的
+
+44
+
+ministry
+
+45
+
+n. （政府的）部
+
+
+
+wreck n.沉船
+
+convoy n。护航
+
+torpedo v.被鱼雷攻击
+
+
+
+
+
+on its way home,.返航途中
+for the sunken ship he was trying to find...,
+for作"因为”讲，引导并列句；he was trying to find是定语从句修饰主语ship。
+under the impression that,以为，认为。
+be of great interest,.很有趣。
+parts of which it was possible to read,
+which指先行词log book,所引起的是定语从句，it是形式主语，不定式to。叨是真实主语，parts of which作read的宾语
+piece together…(或piece.together),作"综合""拼凑"讲。come to light,被摘清，被知道。
+War Museum,军事博物馆。指伦敦的帝国军事博物馆，其中展出第一次世界大战和第二次世界大战的军事物品。
+
+参考译文
+
+47
+
+打捞工作彻底失败了。小船"埃尔科"号在巴伦支海搜寻了几个星期之后，正在返航途中。返航前，该船船长收到了大陆发来的电报，指示他们放弃这次搜寻。船长知道日后还会再作尝试，因为他试图寻找的沉船上载有一批珍贵的金条。
+
+48
+
+尽管船长接了电报，他还是决定再试一试。他们用结实的网把海床搜索了一遍。当一只箱子从海底被打捞上来时，甲板上人们激动不已。船员们**开始认为**沉船找着了，但海底沉箱内的物品证明他们弄错了。事实上，他们发现的是另一艘沉没多年的船。
+
+49
+
+木箱内装有水手艾伦.菲尔丁的私人财物，其中有书箱、衣服、照片以及水手收到的妻子的来信。"埃尔科"号船长命令船员们尽量从沉船中打捞物品，但没发现什么值钱的东西，不过打捞出来的众多的物品还是引起了大家极大的兴趣。从捞起的一门大炮来看，船长认为那艘船一定是艘巡洋舰。另一只海底沉箱中装的是船上一位军官的财物，其中有一封写于1943年3月14日的信，但没有写完。从这封信中船长了解到沉船船名是"卡伦"号。打捞到的东西中最有价值的是船上的航海日志，其中有一部分仍然清晰可读。据此，船长可以将所有的那些已经搞清的材料拼凑起来。"卡伦"号当年在为其他船只护航驶往俄国的途中突然遭到敌方潜水艇鱼雷的袭击。这一说法在"埃尔科"号返航后得到的国防部一位海军官员的证实。那次打捞到的所有物品均被送往军事博物馆。
+
+
+
+
+
+## Lesson 33 A day to remember
+
+
+
+What **incident** began the series of traffic accidents?
+
+
+
+We have all experienced days when everything goes wrong.
+
+A day may begin well enough, but suddenly everything seems to get out of control.
+
+What invariably happens is that a great number of things choose to go wrong at precisely the same moment.
+
+It is as if a single unimportant event **set up** a chain of reactions.
+
+Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time.
+
+The telephone rings and this marks the **prelude** to an **unforeseen** series of **catastrophes**.
+
+While you are on the phone, the baby pulls the tablecloth off the table,
+
+smashing half your best crockery and cutting himself in the process.
+
+You hang up hurriedly and attend to baby, **crockery**, etc.
+
+Meanwhile, the meal gets **burnt**.
+
+As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.
+
+Things can go wrong on a big scale as a number of people recently discovered in Parramatta, a **suburb** of Sydney.
+
+During the rush hour one evening two cars **collided** and both drivers began to argue.
+
+The woman immediately behind the two cars happened to be a learner.
+
+She suddenly got into a panic and stopped her car.
+
+This made the driver following her **brake** hard.
+
+His wife was sitting beside him holding a large cake.
+
+As she was thrown forward,the cake **went right** through the **windscreen** and landed on the road.
+
+
+
+Seeing a cake flying through the air, lorry driver who was **drawing up** alongside the car, pulled up all of a sudden.
+
+The lorry was loaded with empty beer bottles and hundreds of them **slid off** the back of the vehicle and on to the road.
+
+This led to yet another angry argument. Meanwhile, the traffic piled up behind.
+
+It took the police nearly an hour to get the traffic on the move again.
+
+In the meantime, the lorry driver had to sweep up hundreds of broken bottles.
+
+Only two **stray** **dogs** benefited from all this **confusion**,
+
+for they greedily **devoured** what was left of the cake.
+
+It was just one of those days!
+
+New words and expressions 生词和短语
+
+7
+
+**prelude**
+
+8
+
+n. 序幕，前奏
+
+9
+
+**unforeseen**
+
+10
+
+adj. 意料之外的
+
+11
+
+series
+
+12
+
+n. 系列
+
+13
+
+**catastrophe**
+
+14
+
+n. 大祸，灾难
+
+15
+
+crockery
+
+16
+
+n. 陶器，瓦器
+
+17
+
+**suburb**
+
+18
+
+n. 郊区
+
+19
+
+**collide**
+
+20
+
+v. 猛撞
+
+21
+
+learner
+
+22
+
+n. 初学者
+
+23
+
+panic
+
+24
+
+n. 惊慌，恐慌
+
+25
+
+**windscreen**
+
+26
+
+n. （汽车的）挡风玻璃
+
+27
+
+alongside
+
+28
+
+prep.在......的旁边，与......并排
+
+29
+
+slide (slid, slid)
+
+30
+
+v. 滑
+
+31
+
+stray
+
+32
+
+adj. 迷失的，离群的
+
+33
+
+confusion
+
+34
+
+n. 混乱
+
+35
+
+greedily
+
+36
+
+adv. 贪婪地
+
+37
+
+devour
+
+38
+
+v. 狼吞虎咽地吃
+
+burnt
+
+adj。烧糊的
+
+
+
+brake 
+
+v。刹车
+
+stray 。adj。流浪的
+
+Notes on the text课文注释
+
+　　1 get out of control，失去控制。
+
+　　2 It is as if a single unimportant event set up a chainof reactions. 就好像一件无关紧要的小事引起了一连串的连锁反应。as if 引导的从句中用的是虚拟语气;set up，引起，产生; a chain of，一连串。
+
+　　3 keep an eye on，照看，照管。
+
+　　4 you are on the phone，你在接电话。
+
+　　5 reduce you to tears，使你流泪。
+
+　　6 on a big scale，大规模地。
+
+　　7 rush hour，上下班时间。
+
+　　**8 draw up，追上。**
+
+　　**9 pull up，停车。**
+
+　　10 get the traffic on the move，使车辆动起来。
+
+
+
+39
+
+参考译文
+
+40
+
+我们大家都有过事事不顺心的日子。一天开始时，可能还不错，但突然间似乎一切都失去了控制。情况经常是这样的，许许多多的事情都偏偏赶在同一时刻出问题，好像是一件无关紧要的小事引起了一连串的连锁反应。假设你在做饭，同时又在照看孩子。这时电话铃响了。**它预示着一连串意想不到的灾难的来临。**就在你接电话时，孩子把桌布从桌子上扯下来，将家中最好的陶瓷餐具半数摔碎，同时也弄伤了他自己。你急急忙忙挂上电话，赶去照看孩子和餐具。这时，饭又烧糊了。好像这一切还不足以使你急得掉泪，你的丈夫接着回来了，事先没打招呼就带来3个客人吃饭。
+
+41
+
+就像许多人最近在悉尼郊区帕拉马塔发现的那样，有时乱子会闹得很大。一天傍晚交通最拥挤时，一辆汽车撞上前面一辆汽车，两个司机争吵起来。紧跟其后的一辆车上的司机碰巧是个初学者，她一惊之下突然把车停了下来。她这一停使得跟在后头的司机也来个急刹车。司机妻子正坐在他身边，手里托着块大蛋糕。她往前一冲，蛋糕从挡风玻璃飞了出去掉到马路上。此时，一辆卡车正好从后边开到那辆汽车边上，司机看见一块蛋糕从天而降，紧急刹车。卡车上装着空啤酒瓶。成百只瓶子顺势从卡车后面滑出车外落在马路上。这又引起一场唇枪舌剑的争吵。与此同时，后面的车辆排成了长龙，警察花了将近一个小时才使车辆又开起来。在这段时间里，卡车司机不得不清扫那几百只破瓶子。只有两只野狗从这一片混乱中得到好处，它们贪婪地吃掉了剩下的蛋糕。这就是事事不顺心的那么一天！
+
+
+
+
+
+
+
+
+
+## Lesson 34 A happy discovery
+
+
+
+
+
+Antique shops exert a peculiar fascination on a great many people.
+
+The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases
+
+to keep them free from dust is usually a forbidding place.
+
+But no one has to **muster up** **courage** to enter a less **pretentious** antique shop.
+
+There is always hope that in its **labyrinth** of **musty**, dark, **disordered** rooms a real rarity will be found amongst the piles of **assorted** junk that litter the floors.
+
+No one discovers a rarity by chance.
+
+A truly **dedicated** bargain hunter must have patience,
+
+and above all, the ability to recognize the worth of something when he sees it.
+
+To do this, he must be at least as knowledgeable as the dealer.
+
+Like a scientist **bent on** making a discovery,
+
+he must cherish the hope that one day he will be **amply** rewarded.
+
+My old friend, Frank Halliday, is just such a person.
+
+He has often described to me how he **picked up** a masterpiece for a mere $50.
+
+One Saturday morning, Frank visited an antique shop in my neighbourhood.
+
+As he had never been there before, he found a great deal to **interest** him.
+
+The morning passed rapidly and Frank was about to leave when he noticed a large packing case lying on the floor.
+
+The dealer told him that it had just come in,
+
+but that he could not be bothered to open it.
+
+Frank begged him to do so and the dealer reluctantly prised it open.
+
+The contents were disappointing.
+
+Apart from an interesting-looking carved dagger,
+
+the box was full of crockery, much of it broken.
+
+Frank gently lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case.
+
+As its composition and line reminded him of an Italian painting he knew well, he decided to buy it.
+
+Glancing at it briefly the dealer told him that it was worth $50.
+
+Frank could hardly conceal his excitement,
+
+for he knew that he had made a real discovery.
+
+The tiny painting proved to be an unknown masterpiece
+
+by Correggio and was worth hundreds and thousands of pounds.
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+peculiar 
+
+adj。特殊的
+
+antique
+
+9
+
+n. 古董，古玩
+
+10
+
+fascination
+
+11
+
+n. 魅力，迷惑力
+
+12
+
+forbidding
+
+13
+
+adj. 望而生畏的，望而却步的
+
+14
+
+muster
+
+15
+
+v. 鼓起
+
+16
+
+**pretentious**
+
+17
+
+adj. 自命不凡的，矫饰的
+
+18
+
+**labyrinth**
+
+19
+
+n. 迷宫
+
+20
+
+**musty**
+
+21
+
+adj. 陈腐的，发霉的
+
+22
+
+rarity
+
+23
+
+n. 稀世珍品
+
+24
+
+assorted
+
+25
+
+adj. 各式各样的
+
+26
+
+junk
+
+27
+
+n. 破烂货，废品
+
+28
+
+litter
+
+29
+
+v. 杂乱地布满
+
+30
+
+dedicated
+
+31
+
+adj. 专心致志的
+
+32
+
+bargain hunter
+
+33
+
+到处找便宜货买的人
+
+34
+
+dealer
+
+35
+
+v. 商人
+
+36
+
+cherish
+
+37
+
+v. 期望，渴望
+
+38
+
+amply
+
+39
+
+adv. 足够地
+
+40
+
+masterpiece
+
+41
+
+n. 杰作
+
+42
+
+mere
+
+43
+
+adj. 仅仅的
+
+44
+
+prise
+
+45
+
+v. 撬开
+
+46
+
+carve
+
+47
+
+v. 镌刻
+
+48
+
+dagger
+
+49
+
+n. 短剑，匕首
+
+50
+
+miniature
+
+51
+
+adj. 小巧的，小型的
+
+52
+
+composition
+
+53
+
+n. 构图
+
+amply 
+
+adv.充足地
+
+
+
+
+
+1
+muster up courage,.鼓起勇气。
+2 above all最重要的。
+3 be bent on,决心要。
+4 pick up,在此处有“偶然发现”，“无意中获得”的意思。
+5
+apart from,除…以外。
+
+
+
+参考译文
+
+55
+
+古玩店对许多人来说有一种特殊的魅力。高档一点的古玩店为了防尘，把文物漂亮地陈列在玻璃柜子里，那里往往令人望而却步。而对不太装腔作势的古玩店，无论是谁都不用**壮着胆子**才敢往里进。人们还常常有希望在发霉、阴暗、杂乱无章、迷宫般的店堂里，从杂乱地摆放在地面上的、一堆堆各式各样的破烂货里找到一件稀世珍品。
+
+56
+
+无论是谁都不会一下子就发现一件珍品。一个到处找便宜的人必须具有耐心，而且最重要的是看到珍品时要有鉴别珍品的能力。要做到这一点，他至少要像古董商一样懂行。他必须像一个**专心致志**进行探索的科学家那样抱有这样的希望，即终有一天，他的努力会取得丰硕的成果。
+
+57
+
+我的老朋友弗兰克.哈利戴正是这样一个人。他多次向我详细讲他如何只花50英镑便买到一位名家的杰作。一个星期六的上午，弗兰克去了我家附近的一家古玩店。由于他从未去过那儿，结果他发现许多有趣的东西。上午很快过去了，弗兰克正准备离去，突然看见地板上放着一只体积很大的货箱。古董商告诉他那只货箱刚到不久，但他嫌麻烦不想把它打开。经弗兰克恳求，古董商才勉强把货箱撬开了。箱内东西令人失望。除了一柄式样别致、雕有花纹的匕首外，货箱内装满陶器，而且大部分都已破碎裂。弗兰克轻轻地把陶器拿出箱子，突然发现在箱底有一幅微型画，画面构图与纸条使他想起一幅他所熟悉的意大利画，于是他决定将画买了下来。古董商漫不经心看了一眼那幅画，告诉弗兰克那画值50英镑。弗兰克几乎无法掩饰自己兴奋的心情，因为他明白自己发现了一件珍品。那幅不大的画原来是柯勒乔的一幅未被发现的杰作，价值几十万英镑。
+
+
+
+## Lesson 35 Justice was done
+
+The word 'justice' is given two different meanings in the text.
+
+What is the **distinction** between them?
+
+The word justice is usually **associated** with courts of law.
+
+We might say that justice has been done when a man's innocence or guilt has been proved **beyond doubt.**
+
+Justice is part of the complex **machinery** of the law.
+
+Those who seek it, undertake an **arduous** journey and can never be sure that they will find it.
+
+Judges, however wise or eminent, are human and can make mistakes.
+
+There are rare instances when justice almost **ceases** to be an abstract concept.
+
+Reward or punishment are **meted out** quite independent of human interference.
+
+**At such times**, justice acts like a living force.
+
+When we use a phrase like **'it serves him right',**
+
+we are, in part, admitting that a certain set of circumstances has enabled justice to act **of its** **own accord.**
+
+When a thief was caught on the **premises** of a large jewellery store one morning,
+
+the shop assistants must have found it impossible to **resist the temptation** to say 'it serves him right'.
+
+The shop was an old converted house with many large, disused fireplaces and tall, narrow **chimneys**.
+
+**Towards midday**, a girl heard a **muffled** cry coming from behind one of the walls.
+
+As the cry was repeated several times,she ran to tell the manager who promptly rang up the fire brigade.
+
+The cry had certainly come from one of the **chimneys**,but as there were so many of them, the firemen could not be certain which one it was.
+
+They located the right chimney by tapping at the walls and listening for the man's cries.
+
+After **chipping** **through** a wall which was eighteen inches thick,they found that a man had been trapped in the chimney.
+
+As it was extremely narrow, the man was unable to move,
+
+but the fire fighters were eventually able to free him by cutting a huge hole in the wall.
+
+The sorry-looking, blackened figure that emerged,
+
+admitted at once that he had tried to break into the shop during the night but had got stuck in the chimney.
+
+He had been there for nearly ten hours.
+
+Justice had been done even before the man **was handed over** to the police.
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+justice
+
+9
+
+n. 正义，公正；司法
+
+10
+
+court
+
+11
+
+n. 法院
+
+12
+
+law
+
+13
+
+n. 法律
+
+14
+
+innocence
+
+
+
+machinery n。机械
+
+
+
+15
+
+n. 无辜
+
+16
+
+**undertake**
+
+17
+
+v. 承担；着手做
+
+18
+
+**arduous**
+
+19
+
+adj. 艰苦的，艰难的
+
+
+
+cease v.停止， 不再是
+
+20
+
+abstract
+
+21
+
+adj. 抽象的
+
+22
+
+concept
+
+23
+
+n. 概念，观念
+
+24
+
+**mete out**
+
+25
+
+给予，处置
+
+26
+
+interference
+
+27
+
+n. 干涉
+
+28
+
+accord
+
+29
+
+n. 一致
+
+30
+
+premises
+
+31
+
+n. 房屋
+
+32
+
+convert
+
+33
+
+v. 转变，改变
+
+34
+
+disused
+
+35
+
+adj. 不再用的，废弃的
+
+36
+
+fireplace
+
+37
+
+n. 壁炉
+
+38
+
+**muffle**
+
+39
+
+v. 捂住，厌抑
+
+40
+
+chip
+
+41
+
+v. 砍，削，凿
+
+42
+
+blacken
+
+43
+
+v. 使变黑
+
+44
+
+emerge
+
+45
+
+v. （从某处）出现
+
+46
+
+sorry-looking  愁容满面
+
+fireplaces n。壁炉
+
+
+
+　　1 beyond doubt，确凿无疑。
+
+　　2 however wise or eminent，不管他们是多么精明、多么杰出。
+
+　　however 为连接副词，作“不管……如何”解，所引导的让步状语从句中经常可以省略某些词，此处省略了they are。
+
+　　3 quite independent of human interference，完全不受人的干预。 be independent of，不受。
+
+　　4 it serves him right，他罪有应得。
+
+　　5 in part，部分地，在某种程度上。
+
+　　6 of its own accord，自愿地，自动地。
+
+　　7 impossible to resist the temptation to say…，情不自禁地说……。
+
+
+
+
+
+
+
+
+
+
+
+参考译文
+
+47
+
+"正义"这个词常常是同法庭连在一起的。当某人被证据确凿地证明无罪的时候，我们也许会说正义得到了伸张。正义是复杂的法律机器组成部分。那些寻求正义的人走的是一条崎岖的道路，从来没有把握他们最终将到正义。法官无论如何聪明与有名，毕竟也是人，也会出差错的。
+
+48
+
+在个别情况下，正义不再是一种抽象概念。奖惩的实施是不受人意志支配的。在这种时候，正义像一种有生命的力量行使其职能。当我们说"他罪有应得"这句话的时候，我们部分承认了某种特定的环境使得正义自动地起了作用。
+
+49
+
+一天上午，当一个小偷在一家大型珠宝店里被人抓住的时候，店员一定会忍不住说："他罪有应得。"那是一座老式的、经过改造的房子，店里有许多废置不用的大壁炉和又高又窄的烟囱。快到中午的时候，一个女售货员听见从一堵墙里传出一种闷声闷气的叫声。由于这种喊叫声重复了几次，她跑去报告经理，经理当即给消防队挂了电话。喊叫声肯定是从烟囱里传出来的，然而，因为烟囱太多，消防队员无法确定到底是哪一个。他们通过叫击烟囱倾叫声而确定传出声音的那个烟囱。他们凿透了18英寸厚的墙壁，发现有个人卡在烟囱里。由于烟囱太窄，那人无法动弹。消防队员在墙上挖了个大洞，才终于把他解救出来。那个看来满脸沮丧、浑身漆黑的家伙从烟囱里一出来，就承认头天夜里他企图到店里行窍，但让烟囱卡住了。他已经在烟囱里被困了将近10个小时。甚至在那人还没被送交给警察之前，正义就已得到了伸张。
+
+
+
+
+
+## Lesson 36 A chance in a million
+
+What was the chance in a million?
+
+We are less credulous than we used to be.
+
+In the nineteenth century, a novelist would bring his story to a conclusion
+
+
+
+by presenting his readers with a series of coincidences--most of them wildly improbable.
+
+7
+
+Readers happily accepted the fact that an obscure maidservant was really the hero's mother.
+
+8
+
+A long-lost brother, who was presumed dead, was really alive all the time
+
+9
+
+and wickedly plotting to **bring about the hero's downfall**. And so on.
+
+10
+
+Modern readers would find such naive solutions totally unacceptable.
+
+11
+
+Yet, in real life, circumstances do sometimes conspire to bring about coincidences
+
+12
+
+which anyone but a nineteenth century novelist would find incredible.
+
+13
+
+When I was a boy, my grandfather told me how a German taxi driver, Franz Bussman,
+
+14
+
+found a brother who was thought to have been killed twenty years before.
+
+15
+
+While on a walking tour with his wife, he stopped to talk to a workman.
+
+16
+
+After they **had gone on,**
+
+17
+
+Mrs. Bussman commented on the workman's close resemblance to her husband
+
+18
+
+and even suggested that he might be his brother.
+
+19
+
+Franz **poured scorn** on the idea,
+
+20
+
+pointing out that his brother had been killed in action during the war.
+
+21
+
+Though Mrs. Bussman was fully acquainted with this story,
+
+22
+
+she thought that there was a chance in a million that she might be right.
+
+23
+
+A few days later, she sent a boy to the workman to ask him if his name was Hans Bussman.
+
+24
+
+Needless to say, the man's name was Hans Bussman and he really was Franz's long-lost brother.
+
+25
+
+When the brothers were reunited,
+
+26
+
+Hans explained how it was that he was still alive.
+
+27
+
+After having been wounded **towards the end of the war,**
+
+28
+
+he had been sent to hospital and was separated from his unit.
+
+29
+
+The hospital had been bombed and Hans had made his way back into Western Germany on foot.
+
+30
+
+Meanwhile, his unit was lost and all records of him had been destroyed.
+
+31
+
+Hans returned to his family home,
+
+32
+
+but the house had been bombed
+
+33
+
+and no one in the neighbourhood knew what had become of the inhabitants.
+
+34
+
+Assuming that his family had been killed during an air raid,
+
+35
+
+Hans settled down in a village fifty miles away where he had remained ever since.
+
+New words and expressions 生词和短语
+
+7
+
+credulous
+
+8
+
+adj. 轻信的
+
+9
+
+improbable
+
+10
+
+adj. 不大可能的
+
+11
+
+obscure
+
+12
+
+adj. 不起眼的
+
+13
+
+maidservant
+
+14
+
+n. 女仆，女佣
+
+15
+
+presume
+
+16
+
+v. 假定
+
+17
+
+wickedly
+
+18
+
+adv. 心眼坏地，居心叵测地
+
+19
+
+plot
+
+20
+
+v. 密谋
+
+21
+
+downfall
+
+22
+
+n. 倒台，垮台
+
+23
+
+naive
+
+24
+
+adj. 天真的
+
+25
+
+unacceptable
+
+26
+
+adj. 不能接受的
+
+27
+
+conspire
+
+28
+
+v. （事件）巧合促成
+
+29
+
+incredible
+
+30
+
+adj. 难以置信的
+
+31
+
+
+
+pour  v。倾倒
+
+scorn
+
+32
+
+n. 嘲弄，挖苦
+
+33
+
+acquaint
+
+34
+
+v. 使了解
+
+35
+
+reunite
+
+36
+
+v. 使团聚
+
+37
+
+assume
+
+38
+
+v. 假定，认为
+
+
+
+workman n。工人
+
+downfall n。垮台
+
+resemblance  n。相似
+
+suggest  v。想到
+
+39
+
+
+
+
+
+
+
+
+
+I bring…to a conclusion,作“使…结束”讲。
+2 bring about,造成，导致。
+3 and so on,等等，诸如此类。
+4 do sometimes conspire中，do为助动词，对谓语动词起强调作用。
+5 while on a walking tour...,
+while后面省路了主谓结构he was。在表示时间、地点、条件、让步等的状语从句中，从句的主语如与主句
+的主语相同，常省略从句的主语和谓语。
+6 pour scorn on,作“讥笑.”讲。
+7 point out,,指出，提请注意。
+8 be acquainted with,已知道。
+9 needless to say,不用说，当然o
+10 become of,.结果如何，发生了…情况。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+参考译文
+
+40
+
+我们不再像以往那样轻易相信别人了。在19世纪，小说家常在小说结尾处给读者准备一系列的巧合--大部分是牵强附会，极不可能的。当时的读者却愉快地接受这样一些事实，一个低贱的女佣实际上是主人公的母亲；主人公一位长期失散的兄弟，大家都以为死了，实际上一直活着，并且正在策划暗算主人公；如此等等，现代读者会觉得这种天真的结局完全无法接受。不过，在现实生活中，有时确实会出现一些巧合，这些巧合除了19世纪小说家外谁也不会相信。
+
+41
+
+当我是个孩子的时候，我祖父给我讲了一位德国出租汽车司机弗朗兹。巴斯曼如何找到了据信已在20年前死去的兄弟的事。一次，他与妻子徒步旅行。途中，停下来与一个工人交谈，接着他们继续往前走去。巴斯曼夫人说那工人与她丈夫相貌很像，甚至猜测他可能就是她丈夫的兄弟。弗朗兹对此不屑一顾，指出他兄弟已经在战争中阵亡了。尽管巴斯曼夫人熟知这个情况，但她仍然认为自己的想法仍有百万分之一的可能性。几天后，她派了一个男孩去问那人是否叫汉斯.巴斯曼。不出巴斯曼夫人所料，那人的名字真是汉斯.巴斯曼，他确实是弗朗兹失散多年的兄弟。兄弟俩团聚之时，汉斯说明了他活下来的经过，战争即将结束时，他负伤被送进医院，并与部队失去联系。医院遭到轰炸，汉斯步行回到了西德。与此同时，他所在部队被击溃，他的所有档案材料全部毁于战火。汉斯重返故里，但他的家已被炸毁，左邻右舍谁也不知原住户的下落，汉斯以为全家人都在空袭中遇难，于是便在距此50英里外的一座村子里定居下来，直至当日。
+
+
+
+## Lesson 37 The Westhaven Express
+
+
+
+What was the mistake the author made?
+
+We have learnt to expect that trains will be punctual.
+
+After years of conditioning,
+
+most of us have developed an unshakable faith in railway timetables.
+
+Ships may be delayed by storms;
+
+flights may be cancelled because of bad weather;
+
+but trains must be on time.
+
+Only an exceptionally heavy snow fall might temporarily **dislocate** railway services.
+
+It is all too easy to blame the railway authorities when something does go wrong.
+
+The truth is that when mistakes occur,they are more likely to be ours than theirs.
+
+After consulting my railway timetable,
+
+I noted with satisfaction that there was an express train to Westhaven.
+
+It went direct from my local station and the journey lasted a mere hour and seventeen minutes.
+
+When I boarded the train,
+
+I could not help noticing that a great many local people got on as well.
+
+At the time, this did not **strike me as odd.**
+
+I reflected that there must be a great many people besides myself who wished to take advantage of this excellent service.
+
+Neither was I surprised when the train stopped at Widley,
+
+a tiny station a few miles along the line.
+
+Even a mighty express train can be held up by signals.
+
+But when the train dawdled at station after station, I began to wonder.
+
+It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour,
+
+but barely chugging along at thirty.
+
+One hour and seventeen minutes passed and we had not even covered half the distance.
+
+I asked a passenger if this was the Westhaven Express,
+
+but he had not even heard of it.
+
+I determined to lodge a complaint as soon as we arrived.
+
+Two hours later, I was talking angrily to the station master at Westhaven.
+
+When he denied the train's existence, I borrowed his copy of the timetable.
+
+There was a note of triumph in my voice when I told him that it was there in black and white.
+
+Glancing at it briefly, he told me to look again.
+
+A tiny asterisk conducted me to a footnote at the bottom of the page.
+
+It said: 'This service has been suspended.'
+
+
+
+
+
+New words and expressions 生词和短语
+
+7
+
+express
+
+8
+
+n. 快车；
+
+9
+
+adj. 高速的
+
+10
+
+punctual
+
+11
+
+adj. 准时的
+
+12
+
+condition
+
+13
+
+v. 使习惯于
+
+14
+
+unshakable
+
+15
+
+adj. 不可动摇的
+
+16
+
+faith
+
+17
+
+n. 信任
+
+18
+
+cancel
+
+19
+
+v. 取消
+
+20
+
+exceptionally
+
+21
+
+adv. 例外地
+
+22
+
+dislocate
+
+23
+
+v. 打乱（计划等）
+
+24
+
+blame
+
+25
+
+v. 责怪
+
+26
+
+consult
+
+27
+
+v. 请教，查阅
+
+28
+
+direct
+
+29
+
+adv. 径直地
+
+30
+
+odd
+
+31
+
+adj. 奇怪的，异常的
+
+32
+
+reflect
+
+33
+
+v. 细想
+
+34
+
+advantage
+
+35
+
+n. 优势
+
+36
+
+mighty
+
+37
+
+adj. 强大的，有力的
+
+38
+
+dawdle
+
+39
+
+v. 慢吞吞地动或做
+
+40
+
+chug
+
+41
+
+v. 咔嚓咔嚓地响
+
+42
+
+lodge
+
+43
+
+v. 提出
+
+44
+
+complaint
+
+45
+
+n. 抱怨
+
+46
+
+triumph
+
+47
+
+n. 胜利
+
+48
+
+asterisk
+
+49
+
+n. 星号（*）
+
+50
+
+conduct
+
+51
+
+v. 引向，引导
+
+
+
+hold up  阻碍
+
+dawn v。开始清楚
+
+52
+
+
+
+Notes on the texti课文注释
+1 they are more likely to be ours than theirs,这些错误往往是我们而不是铁路当局造成的。
+they指mistakes,ours,theirs.此处用斜体字表示强调，应该重读。
+2 I could not help noticing that…,我不禁注意到..，can't help doing.是"禁不住"的意思。
+3 strike me as odd,使我感到奇怪。
+4 take advantage of,利用。
+5 Neither was I surprised,这是以neither开头的句子，要用倒装语序。
+6 It suddenly dawned on me.,我突然明白了，
+0
+7 a note of triumph,胜利者的调子。
+8 in black and white,白纸黑字。
+
+
+
+
+
+参考译文
+
+53
+
+我们已经习惯于相信火车总是准点的。经过多年的适应，大多数人对火车时刻表产生了一种不可动摇的信念。轮船船期可能因风暴而推延，飞机航班可能因恶劣天气而取消，唯有火车必然是准点的。只有非同寻常的大雪才可能暂时打乱铁路运行。因此，一旦铁路上真出了问题，人们便不加思索地责备铁路当局。事实上，差错很可能是我们自己，而不是铁路当局的。
+
+54
+
+我查看了列车时刻表，满意地了解到有一趟去威斯特海温的快车。这是趟直达车，旅途总共才需1小时17分钟。上车后，我不禁注意到许多当地人也上了车。一开始，我并不感到奇怪，我想除我之外，想利用快车之便的也一定大有人在。火车开出几英里即在一个小站威德里停了下来。对此，我不觉得奇怪，因为即便是特别快车也可能被信号拦住。但是，当火车一站接着一站往前蠕动时，我便产生了怀疑。我突然感到这趟快车并没以时速90英里的速度呼啸前进，而是卟哧卟哧地向前爬行，时速仅30英里。1小时17分过去了，走了还不到一半路程。我问一位乘客，这是不是开往威斯特海温的那趟快车，他说从未听说过有这么一趟快车。我决定到目的地就给铁路部门提意见。两小时后，我气呼呼地同威斯特海温站站长说起此事。他说根本没有这趟车。于是我借他本人的列车时刻表，我带着一种胜利者的调子告诉他那趟车白纸黑字。明明白白印在时刻表上。他迅速地扫视了一眼，让我再看一遍。一个小小的星形符号把我的目光引到了那页底部一个说明上。上面写着："此趟列车暂停运行。"
+
+
+
+
+
+
+
+## Lesson 38  The first calendar
+
+3
+
+What is the importance of the dots, lines, and symbols engraved on stone, bones and ivory?
+
+4
+
+Future historians will be in a unique position when they come to record the history of our own times.
+
+5
+
+They will hardly know which facts to select from the great mass of evidence that steadily accumulates.
+
+6
+
+What is more, they will not have to rely solely on the written word.
+
+7
+
+Films, videos, CDs and CD-ROMs are just some of the bewildering amount of information they will have.
+
+8
+
+They will be able, as it were, to see and hear us in action.
+
+9
+
+But the historian attempting to reconstruct the distant past is always faced with a difficult task.
+
+10
+
+He has to deduce what he can from the few scanty clues available.
+
+11
+
+Even seemingly insignificant remains can shed interesting light on the history of early man.
+
+12
+
+Up to now, historians have assumed that calendars came into being with the advent of agriculture,
+
+13
+
+for then man was faced with a real need to understand something about the seasons.
+
+14
+
+Recent scientific evidence seems to indicate that this assumption is incorrect.
+
+15
+
+Historians have long been puzzled by dots,
+
+16
+
+lines and symbols which have been engraved on walls, bones, and the ivory tusks of mammoths.
+
+17
+
+The nomads who made these markings lived by hunting and fishing during the last Ice Age
+
+18
+
+which began about 35, 000 B.C. and ended about 10, 000 B.C.
+
+19
+
+By correlating markings made in various parts of the world,
+
+20
+
+historians have been able to read this difficult code.
+
+21
+
+They have found that it is connected with the passage of days and the phases of the moon.
+
+22
+
+It is, in fact, a primitive type of calendar.
+
+23
+
+It has long been known that the hunting scenes depicted on walls were not simply a form of artistic expression.
+
+24
+
+They had a definite meaning, for they were as near as early man could get to writing.
+
+25
+
+It is possible that there is a definite relation between these paintings and the markings that sometimes accompany them.
+
+26
+
+It seems that man was making a real effort to understand the seasons 20, 000 years earlier than has been supposed.
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+calendar
+
+9
+
+n. 历法，日历
+
+10
+
+historian
+
+11
+
+n. 历史学家
+
+12
+
+unique
+
+13
+
+adj. 无与伦比的
+
+14
+
+steadily
+
+15
+
+adv. 不断地
+
+16
+
+solely
+
+17
+
+adv. 唯一地
+
+18
+
+video
+
+19
+
+n. 录像
+
+20
+
+CD-ROOM
+
+21
+
+n. （只读）光盘驱动器
+
+22
+
+bewilder
+
+23
+
+v. 令人眼花缭乱
+
+24
+
+deduce
+
+25
+
+v. 推断，推理
+
+26
+
+scanty
+
+27
+
+adj. 不足的，贫乏的
+
+28
+
+clue
+
+29
+
+n. 线索
+
+30
+
+insignificant
+
+31
+
+adj. 不重要的
+
+32
+
+shed
+
+33
+
+v. 使流出，泻
+
+34
+
+advent
+
+35
+
+n. 出现，到来，来临
+
+36
+
+agriculture
+
+37
+
+n. 农业
+
+38
+
+assumption
+
+39
+
+n. 假定，设想
+
+40
+
+dot
+
+41
+
+n. 小圆点
+
+42
+
+symbol
+
+43
+
+n. 符号
+
+44
+
+engrave
+
+45
+
+v. 雕刻
+
+46
+
+ivory
+
+47
+
+n. 象牙制品
+
+48
+
+mammoth
+
+49
+
+n. （古）长毛象
+
+50
+
+tusk
+
+51
+
+n. 獠牙，长牙，象牙
+
+52
+
+nomad
+
+53
+
+n. 游牧民
+
+54
+
+correlate
+
+55
+
+v. 使相互联系
+
+56
+
+phase
+
+57
+
+n. 月相，天相
+
+58
+
+primitive
+
+59
+
+adj. 原始的
+
+60
+
+depict
+
+61
+
+v. 描画，描绘
+
+62
+
+
+
+1 what is more，作“而且”、“再者”解，是插入语。
+
+2 CD-ROM，是 compact disc read-only memory的缩写。
+
+3 as it were，“可以说”，是插入语。
+
+4 be faced with，作“面临”、“面对”解。
+
+5 shed light on…，使清楚地显出来，解释。
+
+6 come into being，产生，形成。
+
+7 Ice Age，冰川时期。
+
+参考译文
+
+63
+
+未来的历史学家在写我们这一段历史的时候会别具一格。对于逐渐积累起来的庞大材料，他们几乎不知道选取哪些好，而且，也不必完全依赖文字材料。电影、录像、光盘和光盘驱动器只是能为他们提供令人眼花缭乱的大量信息的几种手段。他们能够身临其境般地观看我们做事，倾听我们讲话。但是，历史学家企图重现遥远的过去可是一项艰巨的任务，他们必须根据现有的不充分的线索进行推理。即使看起来微不足道的遗物，也可能揭示人类早期历史的一些有趣的内容。
+
+64
+
+历史学家迄今认为日历是随农业的问世而出现的，因为当时人们面临着了解四季的实际需要，但近期科学研究发现，好像这种假设是不正确的。
+
+65
+
+长期以来，历史学家一直对雕刻在墙壁上、骨头上、古代长毛象的象牙上的点、线和形形色色的符号感到困惑不解。这些痕迹是游牧人留下的，他们生活在从公元前约35，000年到公元前10，000年的冰川期的末期，以狩猎、捕鱼为生。历史学家通过把世界各地留下的这种痕迹放在一起研究，终于弄懂了这种费解的代码。他们发现代码与昼夜更迭和月亮圆缺有关，事实上是一种最原始的日历。大家早就知道，画在墙上的狩猎图景并不是单纯的艺术表现形式，它们有着一定的含义，因为它们已接近古代人的文字形式。有时，这种图画与墙壁上的刻痕共存，它们之间可能有一定的联系。看来人类早就致力于探索四季变迁了，比人们想像的要早20,000年。
+
+
+
+## Lesson 39 Nothing to worry about
+
+3
+
+What was the differnce between Bruce's behaviour and that of other people?
+
+4
+
+The rough road across the plain soon became so bad that we tried to get Bruce to drive back to the village we had come from.
+
+5
+
+Even though the road was littered with boulders and pitted with holes, Bruce was not in the least perturbed.
+
+6
+
+Glancing at his map, he informed us that the next village was a mere twenty miles away.
+
+7
+
+It was not that Bruce always underestimated difficulties.
+
+8
+
+He simply had no sense of danger at all.
+
+9
+
+No matter what the conditions were, he believed that a car should be driven as fast as it could possibly go.
+
+10
+
+As we bumped over the dusty track, we swerved to avoid large boulders.
+
+11
+
+The wheels scooped up stones which hammered ominously under the car.
+
+12
+
+We felt sure that sooner or later a stone would rip a hole in our petrol tank or damage the engine.
+
+13
+
+Because of this, we kept looking back, wondering if we were leaving a trail of oil and petrol behind us.
+
+14
+
+What a relief it was when the boulders suddenly disappeared,
+
+15
+
+giving way to a stretch of plain where the only obstacles were clumps bushes.
+
+16
+
+But there was worse to come. Just ahead of us there was a huge fissure.
+
+17
+
+In response to renewed pleadings, Bruce stopped.
+
+18
+
+Though we all got out to examine the fissure, he remained in the car.
+
+19
+
+We informed him that the fissure extended for fifty yards and was two feet wide and four feet deep.
+
+20
+
+Even this had no effect.
+
+21
+
+Bruce went into a low gear and drove at a terrifying speed,
+
+22
+
+keeping the front wheels astride the crack as he followed its zigzag course.
+
+23
+
+Before we had time to worry about what might happen, we were back on the plain again.
+
+24
+
+Bruce consulted the map once more and told us that the village was now only fifteen miles away.
+
+25
+
+Our next obstacle was a shallow pool of water about half a mile across.
+
+26
+
+Bruce charged at it, but in the middle, the car came to a grinding halt.
+
+27
+
+A yellow light on the dashboard flashed angrily
+
+28
+
+and Bruce cheerfully announced that there was no oil in the engine!
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+rough
+
+9
+
+adj. 崎岖不平的
+
+10
+
+boulder
+
+11
+
+n. 大石块
+
+12
+
+pit
+
+13
+
+v. 使得坑坑洼洼
+
+14
+
+perturb
+
+15
+
+v. 使不安
+
+16
+
+underestimate
+
+17
+
+v. 低估
+
+18
+
+swerve
+
+19
+
+v. 急转变
+
+20
+
+scoop
+
+21
+
+v. 挖出
+
+22
+
+hammer
+
+23
+
+v. （用锤）击打，锤打
+
+24
+
+ominously
+
+25
+
+adv. 有预兆的，不祥的
+
+26
+
+rip
+
+27
+
+v. 划破，撕，扯
+
+28
+
+petrol
+
+29
+
+n. 汽油
+
+30
+
+stretch
+
+31
+
+n. 一大片（平地或水）
+
+32
+
+obstacle
+
+33
+
+n. 障碍
+
+34
+
+clump
+
+35
+
+n. 丛，簇
+
+36
+
+fissure
+
+37
+
+n. （石，地的）深缝
+
+38
+
+renew
+
+39
+
+v. 重复
+
+40
+
+pleading
+
+41
+
+n. 恳求
+
+42
+
+gear
+
+43
+
+n. 汽车排档
+
+44
+
+astride
+
+45
+
+prep.骑，跨
+
+46
+
+crack
+
+47
+
+n. 缝隙
+
+48
+
+zigzag
+
+49
+
+n. "之"字形
+
+50
+
+shallow
+
+51
+
+adj. 浅的
+
+52
+
+grind (ground, ground)
+
+53
+
+v. 磨擦
+
+54
+
+halt
+
+55
+
+n. 停
+
+56
+
+dashboard
+
+57
+
+n. （汽车上的）仪表盘
+
+58
+
+
+
+Notes on the text课文注释
+1 get sb.to do sth.,说服某人做某事。
+2 in the least,一点儿也不，完全不。
+3 It was not that Bruce always underestimated difficulties.这并不是说
+布鲁斯总是低估困难。
+4 sooner or later,作“迟早”、”总有一天”讲。
+5 giving way to a stretch of plain,出现了一片平原。give way to…,此
+处作“为…所代替”解。
+
+6 charge at,冲向。
+
+come to a *grinding* *halt*  戛然而止
+
+参考译文
+
+59
+
+穿越平原的道路高低不平，开车走了不远，路面愈加崎岖。我们想劝说布鲁斯把车开回我们出发的那个村庄去。尽管路面布满石头，坑坑洼洼，但布鲁斯却一点儿不慌乱。他瞥了一眼地图，告诉我们前面再走不到20英里就是一个村庄。这并不是说布鲁斯总是低估困难，而是他压根儿没有一点儿危险感。他认为不管路面情况如何，车必须以最高速度前进。
+
+60
+
+我们在尘士飞扬的道路上颠簸，车子东拐西弯，以躲开那些大圆石。车轮搅起的石块锤击车身，发出不祥的锤击声。我们想念迟早会飞起一个石块把油箱砸开一个窟窿，或者把发动机砸坏。因此，我们不时地掉过头，怀疑车后是否留下了机油和汽油的痕迹。
+
+61
+
+突然大石块不见了，前面是一片平地，唯一的障碍只有一簇簇灌木丛。这使我们长长地松了口气。但是更糟糕的事情在等着我们，离我们不远处，出现一个大裂缝。我们再次央求布鲁斯小心，他这才把车停了下来。我们纷纷下车察看那个大裂缝，他却呆在车上。我们告诉他那个大裂缝长50码，宽2英尺，深4英尺。这也没有对他产生任何影响。布鲁斯挂上慢档，把两只前轮分别搁在裂缝的两边，顺着弯弯曲曲的裂缝，以发疯的速度向前开去。我们还未来得及担心后果，车已重新开上了平地。布鲁斯又看了一眼地图，告诉我们那座村庄离我们只有15英里了。下一个障碍是一片约半英里宽的浅水塘。布鲁斯向水塘冲去，但车开到水塘当中，嘎吱一声停住了。仪表盘一盏黄灯闪着刺眼的光芒，布鲁斯兴致勃勃地宣布发动机里没油了！
+
+
+
+
+
+
+
+## Lesson 40 Who's who
+
+3
+
+How did the policeman discover that the whole thing was a joke?
+
+4
+
+It has never been explained why university students seem to enjoy practical jokes more than anyone else.
+
+5
+
+Students specialize in a particular type of practical joke: the hoax.
+
+6
+
+Inviting the fire brigade to put out a nonexistent fire is a crude form of deception
+
+7
+
+which no self-respecting student would ever indulge in.
+
+8
+
+Students often create amusing situations which are funny to everyone except the victims.
+
+9
+
+When a student recently saw two workmen using a pneumatic drill outside his university,
+
+10
+
+he immediately telephoned the police and informed them that two students dressed up as workmen
+
+11
+
+were tearing up the road with a pneumatic drill.
+
+12
+
+As soon as he had hung up,
+
+13
+
+he went over to the workmen and told them that if a policeman ordered them to go away,
+
+14
+
+they were not to take him seriously.
+
+15
+
+He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people.
+
+16
+
+Both the police and the workmen were grateful to the student for this piece of advance information.
+
+17
+
+The student hid in an archway nearby where he could watch and hear everything that went on.
+
+18
+
+Sure enough, a policeman arrived on the scene and politely asked the workmen to go away.
+
+19
+
+When he received a very rude reply from one of the workmen, he threatened to remove them by force.
+
+20
+
+The workmen told him to do as he pleased and the policeman telephoned for help.
+
+21
+
+Shortly afterwards, 4 more policemen arrived and remonstrated with the workmen.
+
+22
+
+As the men refused to stop working,
+
+23
+
+the police attempted to seize the pneumatic drill.
+
+24
+
+The workmen struggled fiercely and one of them lost his temper.
+
+25
+
+He threatened to call the police.
+
+26
+
+At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest.
+
+27
+
+Pretending to speak seriously,
+
+28
+
+one of the workmen asked if he might make a telephone call before being taken to the station.
+
+29
+
+Permission was granted and a policeman accompanied him to a pay phone.
+
+30
+
+Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.
+
+
+
+
+
+
+
+New words and expressions 生词和短语
+
+8
+
+hoax
+
+9
+
+n. 骗局，戏弄
+
+10
+
+deception
+
+11
+
+n. 欺骗，骗局
+
+12
+
+self-respecting
+
+13
+
+adj. 自重的
+
+14
+
+indulge
+
+15
+
+v. 使沉迷
+
+16
+
+pneumatic
+
+17
+
+adj. 气动的
+
+18
+
+drill
+
+19
+
+n. 钻
+
+20
+
+silly
+
+21
+
+adj. 无意义的，无聊的
+
+22
+
+advance
+
+23
+
+adj. 预先的，事先获得的
+
+24
+
+archway
+
+25
+
+n. 拱形门楼
+
+26
+
+remonstrate
+
+27
+
+v. 规劝，告诫
+
+28
+
+ironically
+
+29
+
+adv. 讽刺地
+
+30
+
+permission
+
+31
+
+n. 许可
+
+32
+
+grant
+
+33
+
+v. 同意，准予
+
+34
+
+
+
+
+
+1 It has never been explained why...，在这个句子中真正的主语是以why引导的主语从句。
+
+　　2 specialize in，专门从事。
+
+　　3 inviting ... fire,是动名词短语，此处作主语，put out作“扑灭”、“熄灭”讲。
+
+　　4 dress up as，装扮成。
+
+　　5 they were not to take him seriously,(他们)不要把他当回事。
+
+　　take此处作“对待”、“接受”讲，多指对人、对事物的态度和反应。
+
+　　6 grateful to the student for this piece of advance information,对这个学生事先通报情况表示感谢。be grateful to sb. for sth.，对某人因某事表示感谢。
+
+　　7 as he pleased，是方式状语从句，后面省略了to do，可译作“随他的便”。
+
+　　8 be under arrest,被逮捕，拘禁。
+
+　　9 Only when…did he realize that...。在这句话中，only加上状语从句放在句首，因此主句的主谓语要用倒装的句式。
+
+
+
+
+
+
+
+参考译文
+
+35
+
+谁也弄不清为什么大学生好像比任何人都更喜欢恶作剧。大学生擅长一种特殊的恶作剧--戏弄人。请消防队来扑灭一场根本没有的大火是一种低级骗局，有自尊心的大学生决不会去做。大学生们常常做的是制造一种可笑的局面，使大家笑上一场，当然受害者是笑不出来的。
+
+36
+
+最近有个学生看见两个工人在学校门外用风钻干活，马上打电话报告警察，说有两个学生装扮成工人，正在用风钻破坏路面。挂上电话后，他又马上来到工人那儿，告诉他们若有个警察来让他们走开，不要把他当回事，还对工人说，有个学生常装扮成警察无聊地同别人开玩笑。警察与工人都对那个学生事先通报情况表示感谢。
+
+37
+
+那个学生躲在附近一拱形的门廊里，在那儿可以看见、听到现场发生的一切。果然，警察来了，不礼貌地请工人离开此地；但其中一个工人粗鲁地回了几句。于是警察威胁要强行使他们离开。工人说，悉听尊便。警察去打电话叫人。一会儿工夫，又来了4个警察，规劝工人离开。由于工人拒绝停下手中的活，警察想夺风钻。两个工人奋力抗争，其中一个发了火，威胁说要去叫警察。警察听后讥讽地说，这大可不必，因为他俩已被逮捕了。其中一个工人装模作样地问道，在被带往警察局之前，是否可以打一个电话。警察同意了，陪他来到一个投币地电话前，当他看到那个工人真的是给警察挂电话，才恍然大悟，原来他们都成一场骗局的受害者。
+
+
+
+
 
 
 
